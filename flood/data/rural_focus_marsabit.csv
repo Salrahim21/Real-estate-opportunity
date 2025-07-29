@@ -1,0 +1,361 @@
+well_id,original_id,name,country,admin_1,admin_2,admin_3,admin_4,locality,latitude,longitude,elevation,yield,well_depth,operation_status,drilling_end_date,source_1,source_2,source_3,last_update,first_struck_level,second_struck_level,third_struck_level,fourth_struck_level,fifth_struck_level,water_rest_level,ec,ph,temperature
+,,,Kenya,Marsabit,,,,Ndikirr/Malgis,1.6857875259483617,37.686344413794814,567,,,Not Operational,,,,,8/28/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ndikirr/Malgis,1.689672836609703,37.69382004618462,569,2,,Operational,,,,,,,,,,,,3886,6.54,34.8
+,,,Kenya,Marsabit,,,,Ndikirr/Malgis,1.6975033919666072,37.69043519675345,552,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ndikirr/Malgis,1.6979867976667231,37.696358174019466,558,,,Dry,,,,,8/28/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Til/Illaut,1.903759443,37.19915703370322,785,,,Unknown,,,,,8/27/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Farakoren/ Illaut,1.936593578597137,37.20764271828427,761,,,Broken Down,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Farakoren/ Illaut,1.949040484575848,37.219924529990415,743,2,,Operational,,,,,,,,,,,,1579,2.13,33.8
+,,,Kenya,Marsabit,,,,Illaut Valley,1.8695321937912444,37.24298661731852,763,,,Broken Down,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Illaut Valley,1.868791188679897,37.243499627545006,754,,,Broken Down,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Illaut Valley,1.868783881204028,37.24522518827784,754,,,Broken Down,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kilambunyo/ Ngurnt,1.7423614778195269,37.30209795,757,,,Locked,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Salato/Ngurnt,1.7419630062164293,37.29152973,770,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Next/KARI/ Ngurnt,1.736479524631342,37.28789500348662,793,,,Unknown,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Salato/Ngurnt,1.742193229645782,37.29607688293099,759,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Salato Pry/Ngurnt,1.7403482365951348,37.29588082910848,761,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ngurnt Dispensary,1.743713309467704,37.30694069459587,748,,,Abandoned,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Leimatanga/ Ngurnt,1.7374788605329812,37.312940534948375,745,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Likirisha/ Ngurnt,1.746953957613996,37.320454221841736,735,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ngurnt off Catholic,1.7489341848694344,37.320164876919385,735,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,"Ngurnt
+Catholic church",1.7467321741491946,37.31518803462746,736,2,,Operational,,,,,,,,,,,,1837,8.85,28.7
+,,,Kenya,Marsabit,,,,Ngurnt Pry Sch.,1.7454649947908358,37.31394895966961,737,2,,Operational,,,,,8/27/2014,,,,,,,1285,7.19,30
+,,,Kenya,Marsabit,,,,Ngurnt Town,1.7430738137099997,37.30979013,742,4,,Operational,,,,,8/26/2014,,,,,,,1673,2.18,33.2
+,,,Kenya,Marsabit,,,,Lebendela/ Ngurnt,1.7997549256881236,37.35666159765996,659,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Lebendela/ Ngurnt,1.812076868272282,37.361836319306775,648,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Lebendela/ Ngurnt,1.8106366781844216,37.35933908567687,649,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Namare Dispensary,1.8373262013862428,37.45241097119474,589,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Namare,1.849172712807324,37.46160457805988,578,2,,Operational,,,,,,,,,,,,2014,2.97,35.1
+,,,Kenya,Marsabit,,,,Lekochula/ Ngurnt,1.8146593471438324,37.50246676521893,572,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Lokwas/ Malgis,1.7471413403534082,37.60277360667783,550,,,River Valley,,,,,,,,,,,,1113,3.4,33.2
+,,,Kenya,Marsabit,,,,Lengima/ Namare,1.7491330921030794,37.593343507501054,562,10,,Operational,,,,,8/26/2014,,,,,,,6020,7.34,33.6
+,,,Kenya,Marsabit,,,,Dispai/Korr,1.977827337485413,37.496043184871816,548,2,,Operational,,,,,,,,,,,,3431,3.54,33.7
+,,,Kenya,Marsabit,,,,Lengumo/Korr,1.9883084541737404,38.09979058,578,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Tirimo Sec Sch/ Korr,2.0002788550742383,37.48097518343258,578,2,,Operational,,,,,,,,,,,,1784,4.11,36.6
+,,,Kenya,Marsabit,,,,Nahagan/Korr,2.0038698978577085,37.47191993641735,585,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,AIC/Korr,2.0082860787241814,37.49420872867333,553,,,Laga,,,,,,,,,,,,1954,5.03,31.4
+,,,Kenya,Marsabit,,,,AIC/Korr,2.008069587718218,37.494820186737165,555,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,AIC Church/ Korr,2.0120491740138844,37.495032280572616,553,,,Operational,,,,,,,,,,,,2408,2.39,31.2
+,,,Kenya,Marsabit,,,,Nasibara/Korr,2.051611905370786,37.46139369154411,560,,,Laga,,,,,,,,,,,,5300,7.19,32.5
+,,,Kenya,Marsabit,,,,Worro/Korr,2.033836633715425,37.45726663,573,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Sonyiro/Korr,2.076184143600704,37.48926421803038,520,5,,Operational,,,,,,,,,,,,,7.7,31.2
+,,,Kenya,Marsabit,,,,Ngubure/Korr,2.026128217838414,37.49228660707205,559,,,Operational,,,,,,,,,,,,2365,2.79,34.7
+,C9656,,Kenya,Marsabit,,,,Harisirwa/Korr,2.012605443739968,37.49997580447933,551,,,Vandalised,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kalaware/Korr,2.0151946549421784,37.50278705048949,547,,,Operational,,,,,,,,,,,,1960,3.67,30.3
+,,,Kenya,Marsabit,,,,Korr Laga,2.0149053686655947,37.50292215255239,548,,,Dry,,,,,,,,,,,,,,
+,C4071,,Kenya,Marsabit,,,,Catholic Church /Korr,2.0164040081061114,37.50981550743418,542,,,Operational,,,,,,,,,,,,2334,5.4,29.1
+,,,Kenya,Marsabit,,,,Catholic Church /Korr,2.0125637884875403,37.51366638019027,555,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Catholic Church /Korr,2.0136945694688104,37.51395301097359,535,2.5,,Operational,,,,,,,,,,,,4550,7.82,28.3
+,,,Kenya,Marsabit,,,,Catholic Church /Korr,2.0146167745977617,37.51362856292632,534,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Hau/Korr,2.023101274308022,37.52466870291919,577,,,Dry,,,,,8/26/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Uru/Korr,2.0382883233737186,37.54647232104369,496,,,Dry,,,,,8/25/2014,,,,,,,,,
+,C10006,,Kenya,Marsabit,,,,Halusulwa/ Korr,1.954563622582392,37.57585932323592,498,,,Dry,,,,,8/24/2014,,,,,,,,,
+,C4540,,Kenya,Marsabit,,,,Soliadi/ Logologo,1.8354653432780808,38.06406236163063,422,,,Operational,,,,,,,,,,,,3350,6.3,34.1
+,,,Kenya,Marsabit,,,,Gudas/ Logologo,1.9781079784974345,38.041777931068765,425,2,,Operational,,,,,8/24/2014,,,,,,,1420,8,31.1
+,,,Kenya,Marsabit,,,,Kamboe/ Logologo,2.0097193311915724,37.90631336696287,541,2,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kamboe/ Logologo,2.089447476021851,37.89450799,?,,,Operational,,,,,,,,,,,,553,2.78,32.1
+,,,Kenya,Marsabit,,,,Kamboe/ Logologo,2.058885189,37.911144313570816,609,10,,Operational,,,,,,,,,,,,826,3.9,32.1
+,C3681,,Kenya,Marsabit,,,,"Sanjiri
+/Logologo",1.993131151956197,37.92199485272043,471,6,,Operational,,,,,,,,,,,,1172,5.25,29.8
+,C3682,,Kenya,Marsabit,,,,Listima/ Logologo,1.988141643,37.91382571712202,462,10,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,"Catholic
+/Logologo",1.9864496814758168,37.91316152641082,461,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Catholic/ Logologo,1.984531534008456,37.91242556022387,459,,,Not Operational,,,,,,,,,,,,,,
+,C1758,,Kenya,Marsabit,,,,Logologo Town,1.984440322781634,37.91128382940685,458,10,,Operational,,,,,,,,,,,,774,6.92,32.2
+,,,Kenya,Marsabit,,,,Km 62/Malgis,1.920815008603876,37.899125186700175,470,1.8,,Operational,,,,,,,,,,,,2040,3.1,33.8
+,,,Kenya,Marsabit,,,,Km 54/Malgis,1.839309667293372,37.86246262208215,490,2,,Operational,,,,,,,,,,,,1190,3.12,32.6
+,,,Kenya,Marsabit,,,,Sekererua/ Laisamis,1.6972501779444795,37.83077358895465,562,,,Dry,,,,,,,,,,,,,,
+,C10788,,Kenya,Marsabit,,,,Sakandara/ Laisamis,1.6468507137116888,37.81753634,558,,,Operational,,,,,8/23/2014,,,,,,,,6.5,33.3
+,,,Kenya,Marsabit,,,,Barrier Point/Laisamis,1.5891055475859526,37.802038115812906,525,,,Dry,,,,,8/22/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Selapani/ Laisamis,1.6537298062580486,37.75170098738139,536,,,Operational,,,,,8/18/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,"Mercy Pry Sch
+/Laisamis",1.6099987447736357,37.79976993504477,564,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kijito/Merille,1.4109256042107037,37.72260600998823,607,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bridge/Merille,1.405869362772631,37.72244699404391,605,,,Vandalised,,,,,,,,,,,,,,
+,C10823,,Kenya,Marsabit,,,,mercy-1.5Km- N,1.4171972925864973,37.74542126564008,596,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Merille Pry Sch.,1.420004887105239,37.71920386514431,610,,,Not Operational,,,,,,,,,,,,,,
+,C10752,,Kenya,Marsabit,,,,Merille 1Km E,1.4125708430249158,37.72088855447467,602,,,Broken Down,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Merille Bridge,1.4093156496382109,37.722705747013954,600,,,Operational,,,,,,,,,,,,580,7,28.5
+,,,Kenya,Marsabit,,,,Merille/GSU Camp,1.4137361901328669,37.71826365196539,602,,,Operational,,,,,8/18/2014,,,,,,,7250,7.06,28.7
+,,,Kenya,Marsabit,,,,Nairibi/ Laisamis,1.5493214744182786,37.72003719201053,616,10,,Operational,,,,,8/16/2014,,,,,,,1390,4.35,29.8
+,,,Kenya,Marsabit,,,,Laisamis Sec Sch,1.5864620414851522,37.798111799332986,584,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Laisamis Pry Sch,1.590062978446926,37.799700630091216,584,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Laisamis Pry Sch,1.5898545696433763,37.799071576397935,584,,,Dry,,,,,,,,,,,,,,
+,C3612,,Kenya,Marsabit,,,,"Catholic Church/
+Laisamis",1.5880283022767745,37.80056467161784,578,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Laisamis Laga,1.5892313675543126,37.80064487152848,575,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Matare/ Laisamis,1.5896119663101078,37.80184008335215,573,,,Operational,,,,,,,,,,,,3310,7.56,30.4
+,,,Kenya,Marsabit,,,,Matare/ Laisamis,1.590291943992364,37.80455413238956,569,,,Broken Down,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Laisamis Laga,1.5912419427270508,37.80497603210561,570,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Laisamis Laga,1.5915889513143626,37.810629433090135,561,,,Operational,,,,,,,,,,,,3052,6.84,30
+,C3914,,Kenya,Marsabit,,,,Lengima/ Laisamis,1.599276035745436,37.82380187,543,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Lengima/ Laisamis,1.5984182461037395,37.82643593316537,542,2,,Operational,,,,,,,,,,,,2040,7.54,30.9
+,,,Kenya,Marsabit,,,,Laisamis,1.5985819093082068,37.82790992633374,541,,,Not Operational,,,,,8/16/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Baasi/Laisamis,1.5655468583335268,38.233034276816575,383,,,Not Operational,,,,,8/15/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Baasi/Laisamis,1.564578205043582,38.23117385086234,386,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Baasi/Laisamis,1.5528918784627324,38.23571764501936,381,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Tirkamo/ Laisamis,1.6012119876750943,37.90540698722821,491,10,,Operational,,,,,8/15/2014,,,,,,,2950,7.87,37.7
+,,,Kenya,Marsabit,,,,Bombisa,2.7446291455593204,38.08741006157524,550,8,,Operational,,,,,8/13/2014,,,,,,,2500,5.44,36.2
+,,,Kenya,Marsabit,,,,Bombisa Village,2.7124513625623594,38.09767135176375,574,10,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bombisa Village,2.707139518545004,38.09520149511802,577,10,,Operational,,,,,,,,,,,,2943,6.49,35.5
+,,,Kenya,Marsabit,,,,Bombisa Village,2.706239011424618,38.0886174,580,,,Abandoned,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bombisa,2.6787452554550515,38.08452694546795,605,,,Abandoned,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,"KBC
+Compound",2.383031021761876,38.19805198031084,1153,,,Abandoned,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Qubi Kalo,2.373825195507617,38.14347593326209,736,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Dadachi Qabi,2.370774600328861,38.14019522542749,759,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Qubi Kalo,2.354791370010996,38.17204138,650,,,Abandoned,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,"Qubi Kalo
+/Sagante",2.374790426,38.15370985585974,715,13,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Qubi Kalo/ Goro Rukesa,2.3476313424448816,38.16456318312613,665,13,,Operational,,,,,8/13/2014,,,,,,,842,7.75,31
+,,,Kenya,Marsabit,,,,Paipai/ Maikona,2.7912795494018146,37.68018757477531,388,,,Contaminat ed,,,,,8/12/2014,,,,,,,1650,5.85,35.2
+,,,Kenya,Marsabit,,,,Tallow Cpd/Maikona,2.797933329,37.68544222812219,393,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Boji/Maikona,2.8891516863876463,37.64166504,373,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Maikona,2.900751165046494,37.63035268827157,367,,,Operational,,,,,,,,,,,,1300,6.01,29.6
+,,,Kenya,Marsabit,,,,Maikona Pry Sch,2.9309849772910934,37.63616343323767,371,,,Operational,,,,,,,,,,,,1365,5.44,35.4
+,,,Kenya,Marsabit,,,,Maikona Girls Sch,2.9568623690725686,37.629708757935965,416,14,,No Power,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Maikona,2.957445280656852,37.66253494556867,411,,,No Power,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Maikona,2.926332132920585,37.632921562857774,372,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kargi,2.4394676150762065,37.96904872477924,933,,,Dry,,,,,8/1/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Dahane/Kargi,2.5254626869645174,37.63489372477397,430,,,Operational,,,,,8/11/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Hadadi/Kargi,2.5042995375417294,37.56849643,430,,,Operational,,,,,,,,,,,,1250,3.03,33.7
+,,,Kenya,Marsabit,,,,Rongumo/ Kargi,2.494984099346747,37.55223932341031,437,10,,Operational,,,,,,,,,,,,6170,7.07,31.8
+,,,Kenya,Marsabit,,,,Ririma/Kargi,2.397705791205294,37.48722679205211,452,2,,Operational,,,,,,,,,,,,1840,3.12,32.4
+,,,Kenya,Marsabit,,,,Nahagan/Kargi,2.5118504654595544,37.56752601711603,425,,,Operational,,,,,,,,,,,,,,
+,C3960,,Kenya,Marsabit,,,,Elegela/Kargi,2.492950909291016,37.57861618576391,408,,,Not Operational,,,,,8/11/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Shurr,2.1323061955458003,38.27449662,390,20,,Operational,,,,,,,,,,,,602,2.58,30.2
+,,,Kenya,Marsabit,,,,Awaiye/shurr,1.865604511821242,38.46880888941982,333,30,,Operational,,,,,,,,,,,,750,3.12,29.9
+,,,Kenya,Marsabit,,,,Bulelaisa/shurr,2.217969346342168,38.69399066670135,360,20,,Operational,,,,,,,,,,,,1642,8.42,34
+,,,Kenya,Marsabit,,,,Kachacha/ Dirigimbo,2.289725163910145,38.06051452,981,,,Operational,,,,,,,,,,,,,,
+,C4583,,Kenya,Marsabit,,,,Kachacha/ Dirigimbo,2.2896890334692035,38.06059547385813,980,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kachacha/ Dirigimbo,2.289924761191256,38.06140466060274,973,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Qubi Bagasa,2.286634030109753,38.07834899438226,889,4,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kachacha,2.2946018610818006,38.08977369634756,845,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Dololo Dokate,2.266289560291386,38.19934089876201,577,3.6,,Operational,,,,,,,,,,,,624,2.78,32.5
+,,,Kenya,Marsabit,,,,Jadesa,2.228261563248102,38.14008269658103,594,,,Dry,,,,,10/29/2014,,,,,,,,,
+,C3039,,Kenya,Marsabit,,,,Jadesa,2.2159195193882266,38.16617691,547,,,Operational,,,,,,,,,,,,611,8.45,25.8
+,,,Kenya,Marsabit,,,,Jadesa,2.208965035845703,38.18609008401229,542,,,New,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Rahma/muslim,2.2917309624354987,38.05688016867037,987,10,,Operational,,,,,,,,,,,,793,8.38,23.5
+,,,Kenya,Marsabit,,,,Kalare,2.2177093897972258,37.89025235420903,1086,,,Dry,,,,,10/30/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kavarera Girls,2.211990524191888,37.89949111162254,1073,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Parakishon,2.2567154964802607,37.89290264473865,1212,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Hulahula,2.319320968145323,37.94221421,1343,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Hulahula Spring,2.320574902898964,37.949740044898206,1354,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kalare/ Kula pesa,2.2106922621467384,37.88113101027594,1069,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kalare/Gulsan,2.187685311627321,37.87531264831551,1033,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Parakishon/ Dispe,2.2692440693443667,37.881967798192846,1137,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Parakishon,2.187685311627321,37.87531264831551,1033,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kamboe/ Logologo,2.1042825264124523,37.89510897381761,790,,,Dry,,,,,10/31/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kelesua/ Baragoi,1.927923913018737,36.96958324279855,1120,,,Operational,,,,,,,,,,,,5570,6.86,"31,3"
+,,,Kenya,Marsabit,,,,Arsim Maternity,1.7852838855360769,37.20148689848161,934,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Arsim springs,2.078067923384671,36.27757763146676,944,,,Operational,,,,,,,,,,,,90,9,28
+,,,Kenya,Marsabit,,,,Nkurnt Springs,1.7348507809573177,37.28682703906527,830,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Nairabola/ Arge,2.030031888718728,36.95713829680391,964,5,,Operational,,,,,,,,,,,,1585,7.95,30
+,,,Kenya,Marsabit,,,,Lapikutuk/ Arge,2.105231366513874,37.00024337,894,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Lapikutuk/ Arge,2.1038826080391746,36.99904079591772,896,4,,Operational,,,,,,,,,,,,7940,7.02,30
+,,,Kenya,Marsabit,,,,Tungu/Arge,2.088427715041401,36.9828746,942,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,South Horr Springs,2.101566768872446,36.908967059157945,1079,,,Operational,,,,,,,,,,,,187,8.37,27
+,,,Kenya,Marsabit,,,,Partukutukai/ Sirima,2.474410650741032,36.82878562897403,722,,,Operational,,,,,,,,,,,41.2,1740,4.8,33
+,,,Kenya,Marsabit,,,,Sirma/Natele,2.516138388,36.767962507288686,649,,,Operational,,,,,,,,,,,92.55,,,
+,,,Kenya,Marsabit,,,,Partukutukai/ Bh(2),2.4915132625299243,36.82198022188686,713,,,Faulty,,,,,,,,,,,27.33,,,
+,,,Kenya,Marsabit,,,,Sirma,2.506365023749217,36.81005464063991,706,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Sirma Village,2.5242755862510573,36.805494390980826,692,,,Not Operational,,,,,,,,,,,35.6,,,
+,,,Kenya,Marsabit,,,,Kangimongin/ Sirma,2.5407357841249447,36.804019464283314,689,,,Not Operational,,,,,,,,,,,42.05,,,
+,,,Kenya,Marsabit,,,,Sirma Laga(2),2.529735769605242,36.78418182146157,669,,,Not Operational,,,,,,,,,,,52.5,,,
+,,,Kenya,Marsabit,,,,Sirma Nyiro,2.486389404373446,36.79619145615197,737,,,Not Operational,,,,,,,,,,,56.77,,,
+,,,Kenya,Marsabit,,,,Sirma Laga(1),2.498001500479138,36.78263541853921,667,,,Not Operational,,,,,,,,,,,63.69,,,
+,,,Kenya,Marsabit,,,,Sirma/Natele,2.485195282,36.7689586,675,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Nautolong Spring,2.7349155509994474,36.717140566231954,388,,,,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Adakoroche Water Point,2.9314401489312143,36.63351649398592,414,,,,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Lorusi Springs,2.907394654902711,36.65034333171192,385,,,,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Mulogo Springs,2.826061958002171,36.72021981924415,391,,,,,,,,,,,,,,,5360,5.7,35.7
+,,,Kenya,Marsabit,,,,Salama,2.816402285620833,36.71307330633576,384,,,Abandoned,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Larandapasi Springs,2.8051513928681486,36.766201761806734,487,,,Operational,,,,,,,,,,,,1094,8.04,26.7
+,,,Kenya,Marsabit,,,,Ngubiri Springs,2.7928875633162025,36.753997947477245,451,,,Operational,,,,,,,,,,,,984,8.55,27.5
+,,,Kenya,Marsabit,,,,Loiyangayani Pry,2.758159187392542,36.722885947020295,397,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Japan Platform,2.759135220941949,36.72274024957904,398,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Maji Moto,2.7603824861612543,36.72261201466381,398,,,Operational,,,,,,,,,,,,642,4.4,38
+,,,Kenya,Marsabit,,,,Elmolo Campsite,2.764015194,36.72191285931813,393,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kiwanja Ndege,2.7670038250645543,36.72005520717308,389,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kiwanja Ndege(AIC),2.7692066872319923,36.72324246515287,391,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Elburu Moganto Manyatta,3.1868269628057915,36.92936518413857,417,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Gass,3.0696186263408407,36.82558663841773,468,,,Operational,,,,,,,,,,,,2040,3.67,33.1
+,,,Kenya,Marsabit,,,,Gass,3.069293003095181,36.82550635921382,464,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Gass,3.066229743913916,36.82623199616325,468,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Gass Pry Sch,3.0677727667975496,36.82480797358272,467,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Gass Pry Sch,3.0675747946704965,36.825258027235776,467,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Isako Malla Pry,3.258589412222553,37.00218279694122,381,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Harsuji Watering Point,3.033323027763754,36.78232401,483,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Holugutha Spring,3.3181670501304685,37.06254717967549,382,,,Operational,,,,,,,,,,,,1051,9.32,28.9
+,,,Kenya,Marsabit,,,,Nhorr Pry School,3.313954624050573,37.053909714808086,388,,,Operational,,,,,,,,,,,2.5,,,
+,,,Kenya,Marsabit,,,,Nhorr Sec School,3.3156046456725368,37.05614662,385,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Holugunda,3.31347421,37.057887112923176,380,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Holugunda,3.309309010404443,37.059451623388085,377,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Holugunda,3.311463125378495,37.05595678575754,379,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Holugunda,3.311583397589245,37.05734201228263,380,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Helenderi Spring,3.316871198876404,37.05192477576689,381,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Holi Diqa Laga,3.302091823119375,37.03562528163602,738,,,,,,,,,,,,,,,4880,9.23,29.6
+,,,Kenya,Marsabit,,,,Palm Shade Hotel,3.322715224577162,37.06720757194845,372,,,Operational,,,,,,,,,,,2.1,1056,8.64,30.1
+,,,Kenya,Marsabit,,,,First Born C.School,3.326669537472536,37.06415,382,,,Operational,,,,,,,,,,,3.4,,,
+,,,Kenya,Marsabit,,,,Sona Bonaya,3.3253459748638337,37.06239822869148,378,,,Operational,,,,,,,,,,,1.6,,,
+,,,Kenya,Marsabit,,,,Halemar Girls,3.3235454701124065,37.05721968659197,383,,,Operational,,,,,,,,,,,4.45,,,
+,,,Kenya,Marsabit,,,,Halemar Memorial Girls,3.3247391975943947,37.05732530985581,384,,,Operational,,,,,,,,,,,3.3,,,
+,,,Kenya,Marsabit,,,,Manyatta Power,3.333503577501334,37.05421326920989,385,,,Operational,,,,,,,,,,,5.1,,,
+,,,Kenya,Marsabit,,,,Nhorr Girls Sec,3.3280440091624395,37.05049938815619,389,,,Operational,,,,,,,,,,,3.51,,,
+,,,Kenya,Marsabit,,,,Halindaya Pry Sch,3.332453387316298,37.04898827167398,380,,,Operational,,,,,,,,,,,5.63,,,
+,,,Kenya,Marsabit,,,,Helenderidiko Spring,3.321738205247053,37.05320174827037,386,,,,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Koncholla Sushe,3.3209480430396607,37.069766058520806,378,,,Operational,,,,,11/13/2014,,,,,,4.4,,,
+,,,Kenya,Marsabit,,,,Andani Giribe,3.321031413850541,37.07078251903204,373,,,Operational,,,,,,,,,,,3.69,,,
+,,,Kenya,Marsabit,,,,Dirimdiba Manyatta,3.321945163207812,36.89050633,383,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Dr Bodana Godana,3.323310895,37.07125491593594,381,,,Operational,,,,,,,,,,,4.35,,,
+,,,Kenya,Marsabit,,,,Kurfa Tula,3.323372157190564,37.07022018,374,,,Operational,,,,,,,,,,,3.26,,,
+,,,Kenya,Marsabit,,,,Dirimdiba Manyatta,3.323841008024075,37.06954451596077,376,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Sesi Manyatta,3.3244196150435283,37.069507404031405,375,,,Operational,,,,,,,,,,,3.8,,,
+,,,Kenya,Marsabit,,,,Down Town Hotel,3.324317556048833,37.06818509037311,376,,,Operational,,,,,,,,,,,3,,,
+,,,Kenya,Marsabit,,,,Dokoyatani,3.3251025853880565,37.06736486429865,374,,,Operational,,,,,,,,,,,2,,8.65,29.5
+,,,Kenya,Marsabit,,,,Police Station,3.323554752133442,37.06651319476311,374,,,Operational,,,,,,,,,,,1.39,,,
+,,,Kenya,Marsabit,,,,Motherland,3.324530826463533,37.066286376954565,371,,,Operational,,,,,,,,,,,2.46,,,
+,,,Kenya,Marsabit,,,,Water Users Ass.,3.3230216914871407,37.06672115586939,368,,,Operational,,,,,,,,,,,2.85,,,
+,,,Kenya,Marsabit,,,,Mazingira Women Group,3.322586516270681,37.066128223951445,363,,,Operational,,,,,,,,,,,2.83,,,
+,,,Kenya,Marsabit,,,,Ruso Pry Sch,3.3179800084135125,37.07320853712767,368,,,Operational,,,,,11/14/2014,,,,,,,2060,8.55,28.8
+,,,Kenya,Marsabit,,,,Tuye Habana,3.322842075432856,37.06734227496329,367,,,Operational,,,,,,,,,,,1.36,,,
+,,,Kenya,Marsabit,,,,Bonaya Diba,3.319675066,37.070749165354336,383,,,Operational,,,,,,,,,,,3,,,
+,,,Kenya,Marsabit,,,,Dubu Nguyo,3.319166518029446,37.06962557207701,377,,,Operational,,,,,,,,,,,2.2,,,
+,,,Kenya,Marsabit,,,,Nomadic Women Group,3.318620866139044,37.06802523,380,,,Operational,,,,,,,,,,,2.9,,,
+,,,Kenya,Marsabit,,,,Yatan Rasha,3.319489606027189,37.06839240527283,380,,,Operational,,,,,,,,,,,2.4,,,
+,,,Kenya,Marsabit,,,,Kimanzi Godana,3.3210912470023666,37.06901905797896,380,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Nhorr Mixed Pry,3.3184482301729634,37.07220900197621,369,,,Not Operational,,,,,,,,,,,4.5,,,
+,,,Kenya,Marsabit,,,,Nhorr Mosque,3.3241334910683085,37.07114536,377,,,Operational,,,,,,,,,,,4.5,,,
+,,,Kenya,Marsabit,,,,Mandera Hotel,3.3236654152419365,37.07221687316012,371,,,Operational,,,,,,,,,,,5.22,,,
+,,,Kenya,Marsabit,,,,Abdil Kadir Ali,3.326462595836146,37.07386683664914,371,,,Operational,,,,,,,,,,,3.4,,,
+,,,Kenya,Marsabit,,,,Galgalo Bonaya,3.324274359,37.073817103796245,372,,,Operational,,,,,,,,,,,3.38,,,
+,,,Kenya,Marsabit,,,,Abdul Turo,3.322942790138303,37.07258714030446,372,,,Operational,,,,,,,,,,,5.45,,,
+,,,Kenya,Marsabit,,,,Jarso Godana,3.321970876243163,37.06572457360179,368,,,Operational,,,,,,,,,,,2.38,,,
+,,,Kenya,Marsabit,,,,Guyo Idho,3.3209910181713176,37.07323868777392,372,,,Operational,,,,,,,,,,,5.63,,,
+,,,Kenya,Marsabit,,,,Huko Godana,3.321314868229671,37.07239237232082,372,,,Operational,,,,,,,,,,,4.95,,,
+,,,Kenya,Marsabit,,,,Balalesa Catholic W.G.,3.6145885605027206,37.35177483775694,476,,,Not Operational,,,,,11/15/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ririba Women Group,3.6131194293053928,37.34950928824167,477,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ririba Women Group,3.611345817951056,37.34888243866347,474,,,Operational,,,,,,,,,,,11.81,876,3.54,33.3
+,,,Kenya,Marsabit,,,,Balalesa Nomadic W.G.,3.606798938,37.34493933383947,472,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Balesa Pry Sch,3.606373285,37.34459807700848,475,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Tausi Women Group,3.6063724299570152,37.344130041883055,474,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Balesa,3.6056135180966553,37.33957706795413,474,8,,Operational,,,,,,,,,,,,967,5.58,33.4
+,,,Kenya,Marsabit,,,,Bura Misingo,3.869847266715114,37.53656036,661,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bura Rata,3.887184703175041,37.54187014253691,678,7,,Operational,,,,,,,,,,,,770,7.67,30
+,,,Kenya,Marsabit,,,,Rawana(3),3.3306135267785413,38.46747617228581,611,,,Dry,,,,,11/20/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Rawana(2),3.334475632375847,38.466006852116486,615,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Rawana(1),3.337497072635025,38.465771182015146,614,6,,Operational,,,,,,,,,,,,1756,7.79,30.8
+,,,Kenya,Marsabit,,,,Furore (Eldimtu),3.653734329494213,38.06424033939147,852,,,Dry,,,,,11/21/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Furore,3.697240237126941,37.97099415066144,903,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Furore Original,3.697842400112344,37.96766201,911,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Furore,3.697534854554818,37.96766236299869,908,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Furore,3.7116719779420224,37.959173177220855,910,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Furore,3.7096502502781097,37.94768645128213,911,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Furore,3.701732787287959,37.93035435581184,925,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Furore Yielding,3.727775363402688,37.94611624167276,890,8,,Operational,,,,,,,,,,,,1155,8.15,27
+,,,Kenya,Marsabit,,,,Diba Njiro(2),3.5734931979519926,38.17125201872923,801,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Diba Njiro(1),3.501057825671834,38.23013009918213,754,8,,Operational,,,,,,,,,,,,3126,8.28,30.7
+,,,Kenya,Marsabit,,,,Turbi(2),3.324926950132134,38.38119234055216,734,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Turbi(1),3.316261395,38.382745940537085,703,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Burgabo(5),3.1833062489692265,38.155734657642576,636,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Burgabo(4),3.1767800867593228,38.15092523110752,632,,,Dry,,,,,,,,,,,,,,
+,C4192,,Kenya,Marsabit,,,,Burgabo(3),3.1820453473368064,38.15148789670581,632,10,,Operational,,,,,,,,,,,,2803,8.47,26.9
+,,,Kenya,Marsabit,,,,Burgabo(2),4.083935409155757,38.15069906908784,633,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Burgabo(1),3.1765242586358715,38.15884500393672,632,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Idido/Turbi,3.4964570243565936,38.111877650194856,781,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Walda(6),3.4537426331907355,38.50987419785595,634,4,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Walda(5),3.461103863181983,38.50461282631764,636,3,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Walda(4),3.457352745591867,38.51083563387775,636,6,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Walda Chinese(4),3.4670838853879715,38.52251626972251,643,18,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Walda Chinese(3),3.4647038731362776,38.52105901264114,644,18,,Operational,,,,,,,,,,,,2110,2.76,30.1
+,,,Kenya,Marsabit,,,,Walda(3),3.455798955661121,38.51517572365665,638,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Walda Chinese(2),3.4633458067872835,38.51896205104645,645,20,,Collapsed,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Walda Chinese(1),3.462594617166624,38.51834123999702,644,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Walda(2),3.458233446711985,38.51701104060167,645,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Walda(1),3.456885011111261,38.516066439397406,643,28,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Turbi Chinese,3.189041484251076,38.29981633868126,599,5,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bombisa (93Km),3.172645188609676,38.29352755979909,597,,,Not Operational,,,,,11/22/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kambi Nyoka,3.224201913553421,38.322392050451896,625,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bombisa (85Km),3.060240190178512,38.23519161372844,584,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bombisa (87Km),3.070900615244572,38.24070030008282,593,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bombisa (90Km),3.119313007424523,38.26158903222236,604,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kambi Nyoka (73),2.9306345825720213,38.17208263081535,524,12,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bombisa (61Km),2.8548572880294407,38.11460285089845,508,8,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Deguku Bombisa,2.830943219249091,38.10750479402962,507,20,,Operational,,,,,,,,,,,,2730,5.45,34.7
+,,,Kenya,Marsabit,,,,Bombisa,2.7613201141581096,38.08894467133664,525,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Turbi Bh,3.2572916987142224,38.34678862596186,634,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Sololo Catholic Hosp.(2),3.557740010829669,38.64077038,704,,,Operational,,,,,,,,,,,,2010,2.29,30
+,,,Kenya,Marsabit,,,,"Sololo
+Catholic Hosp.(1)",3.557025297223789,38.64072564092536,703,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Badanot,3.5977898945244955,38.53993538314055,737,3,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Rataka(Uran),3.5970761283376835,38.524151609225626,713,3,,Operational,,,,,,,,,,,,2458,4.53,30.1
+,,,Kenya,Marsabit,,,,Uran(1),3.617287832475928,38.54463482,747,15,,Operational,,,,,,,,,,,,1054,7.23,28.5
+,,,Kenya,Marsabit,,,,Anona(2),3.6002814658391507,38.62697736034577,705,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Anona(1),3.595452956439275,38.63303012260838,706,,,Not Operational,,,,,,,,,,,29.86,,,
+,,,Kenya,Marsabit,,,,Sololo-Ramata,3.566635204982671,38.646439389497246,695,,,Saline,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Goda-Loko,3.5890012907017783,38.67735101,737,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Madwadi,3.576520623638537,38.688709460719984,716,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Waye- Godda(2),3.611178226226305,38.686455623976826,787,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Waye- Godda(1),3.6088733740146526,38.69254336,774,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Malka Dulasha,3.5689498850918016,38.66712053665252,681,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Sololo Pry Sch,3.560336113574806,38.63994102498111,715,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Sololo Pry Sch (2),3.560182325315316,38.63995909237224,715,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Sololo Boys Sec,3.552673761815491,38.64064629094129,710,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ramore(2),3.559727389,38.65680544309699,684,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ramore(3),3.6079368715806406,38.654446355737726,689,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ramore(1),3.569533899762536,38.65621655,687,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Golore(3),3.5928013463199484,38.58860486043489,729,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Golore(1),3.593181463285531,38.58894684593941,727,2,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Golore(2),3.603675292635657,38.58813176481868,732,5,,Operational,,,,,,,,,,,74.1,927,7.9,28.9
+,,,Kenya,Marsabit,,,,Malpebali(3),3.039938855657438,38.84385287594254,522,10,,Operational,,,,,,,,,,,,3510,7.55,30.8
+,,,Kenya,Marsabit,,,,Malpebali(2),3.0397043849842054,38.84911749571326,525,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Malpebali(1),3.034022783743546,38.84863232488253,523,,,Saline,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kobo,3.3609298268196346,38.81261204837428,618,2,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,DF town,3.508838052538035,38.73699930093797,658,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Sololo Makutano,3.508832062653045,38.638196229944285,668,2,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Rafeni,3.369779616,38.63015582564599,618,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kate-Chinese,3.344090969441152,39.06770382719873,682,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kate,3.4787311115132016,38.06931438653653,704,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bori Village(1),3.507263856252908,38.95777359790972,713,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bori Village(2),3.507824773761906,38.95789061825293,716,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Bori Village(3),3.519260907192813,38.98115543825953,746,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Sololo C. Church,3.5579469985242924,38.63799713009293,730,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kenisa(2),3.480640633850927,39.12239001044758,768,20,,Operational,,,,,12/17/2014,,,,,,,2202,2.46,29.7
+,,,Kenya,Marsabit,,,,Kenisa(1),3.4818078978116658,39.12079658849651,770,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Odda(6),3.4845585159725903,39.44795371306861,805,,,Operational,,,,,,,,,,,,1610,,28.7
+,,,Kenya,Marsabit,,,,Odda(5),3.4891662911034027,39.09254514130474,796,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Odda(4),3.487012100047824,39.10229549571754,785,18,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Odda(2),3.4850034920720128,39.103951880616975,783,45,,Operational,,,,,,,,,,,33,,,
+,,,Kenya,Marsabit,,,,Odda(3),3.4838547529240307,39.10189901120066,786,8,,Operational,,,,,,,,,,,,3541,7.33,28.5
+,,,Kenya,Marsabit,,,,Odda(1),3.478037612268367,39.10136719696381,781,,,Operational,,,,,,,,,,,,1637,4.01,29.5
+,,,Kenya,Marsabit,,,,Ware Sataka,3.413620988979757,39.17829648703746,711,,,Operational,,,,,,,,,,,,5100,6.6,30.8
+,,,Kenya,Marsabit,,,,Yambero Pry Sch,3.4544053755566373,39.17419870533768,747,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Meti-Debel,3.1340253130462075,39.25952652585816,637,6,,Not Operational,,,,,12/18/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Mansile(2),3.507763486489284,39.12178128781967,777,6,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Mansile(1),3.492329841392991,39.11819596717614,767,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Nana(2),3.468124103566275,39.240274715352434,747,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Nana(1),3.4661057341664323,39.24382139833228,748,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Godoma Madito,3.4585794621559782,39.27410537556295,771,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kolomba(1),3.276210063166229,39.08391065568061,632,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Odda(12),3.490397156270592,39.08757542580153,791,,,Not Operational,,,,,12/19/2014,,,,,,,,,
+,,,Kenya,Marsabit,,,,Odda(10),3.4813307452845303,39.10101642263562,781,,,Collapsed,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Odda(9),3.4846694316338658,39.09764955588122,785,,,Collapsed,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Odda(8),3.4877368420698702,39.09283310709397,778,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Ilado-Debel,3.417769689311178,39.14780539096127,727,,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Missa-Debel,3.335328011920033,39.18171192221107,677,20,,Operational,,,,,,,,,,,,750,4.5,32.4
+,,,Kenya,Marsabit,,,,Meti-Debel(4),3.152717947761707,39.25288901,637,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Dera-Debel(2),3.1580973973789934,39.18364231348008,656,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Dera-Debel(1),3.1584393257268952,39.27386993069885,684,2,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Dabel-meti(3),3.133564068570602,39.25892341074301,640,6,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Dabel-meti(2),3.135499578984224,39.261074895685006,644,6,,Operational,,,,,,,,,,,,1166,4.53,32.3
+,,,Kenya,Marsabit,,,,Dabel-Qubi,3.145816690371086,39.24637124395249,626,6,,Not Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Godoma,3.4715050729809214,39.310886514570456,779,,,Operational,,,,,,,,,,,,2047,4.43,32.7
+,,,Kenya,Marsabit,,,,Odda Military Camp,3.458424492410171,39.09456782721072,774,,,Operational,,,,,,,,,,,,2280,3.4,32.5
+,,,Kenya,Marsabit,,,,Warmuru- Funanyatta,3.382260123137711,39.069353884118506,754,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Funanyata Silanga,3.340372839168447,39.06495798257895,670,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kilkile- Funanyatta,3.3714964450812395,39.02150631377909,664,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Garsa- Funanyatta,3.339370032920581,39.03818618641312,607,,,Dry,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Kolomba(2),3.290812225463436,39.08034728738994,625,4,,Operational,,,,,,,,,,,,1624,8,30.2
+,,,Kenya,Marsabit,,,,Odda Chinese(1),3.463155798,39.09712516711496,767,,,Operational,,,,,,,,,,,,,,
+,,,Kenya,Marsabit,,,,Odda Chinese(2),3.4584151351500747,39.09761985052122,771,,,Operational,,,,,,,,,,,,,,

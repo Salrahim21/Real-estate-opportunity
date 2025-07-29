@@ -1,0 +1,1106 @@
+well_id,original_id,name,country,admin_1,admin_2,admin_3,admin_4,locality,latitude,longitude,elevation,yield,well_depth,operation_status,drilling_end_date,source_1,source_2,source_3,last_update,first_struck_level,second_struck_level,third_struck_level,water_rest_level,ec,ph,temperature
+,,748 Camp,Kenya,Turkana,,,,Lokichoggio,4.20454,34.36908,,,,,1/1/2000,Rural Focus,,,,,,,,980,7.92,33
+,C4089,A.D.C.Of Kenya,Kenya,Turkana,,,,Oropoi,3.7833,34.2167,,5.88,22,,7/1/2073,Rural Focus,,,,,,,,,,
+,C4361,A.I.C. Lokichogio,Kenya,Turkana,,,,Matimomo/Lokichogio,4.20883,34.34779,,6.78,37,,7/1/1977,Rural Focus,,,,20,,,10,850,8.15,38.3
+,,Aburin,Kenya,Turkana,,,,Lopii,2.04477,35.89002,,,,,,Rural Focus,,,,,,,,,,
+,,Acha,Kenya,Turkana,,,,Lokichoggio,4.20557,34.36935,,3.7,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Achila,Kenya,Turkana,,,,,2.22067,35.49469,,,100,DRY,7/4/2005,Rural Focus,,,,,,,,,,
+,C4232,Across (AIC),Kenya,Turkana,,,,Lokichoggio,4.20671,34.3476,,2.3,,,1/1/1977,Rural Focus,,,,,,,12.59,850,8.13,38.3
+,,Adapal,Kenya,Turkana,,,,Nadapal,4.40509,34.29227,,,,,,Rural Focus,,,,,,,,1010,8.11,31.3
+,,Adipo,Kenya,Turkana,,,,Letea,3.52916,34.8229,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,C10656,Admin. Bh,Kenya,Turkana,,,,Lokichogio,4.16667,34.33333,,2.7,146,,9/16/1993,Rural Focus,,,,76,,,141,,,
+,,Adome,Kenya,Turkana,,,,Lopusiki,3.91157,34.82476,,,,,1/1/2010,Rural Focus,,,,,,,,2200,8.57,34.3
+,,Afex,Kenya,Turkana,,,,Lokichoggio,4.20851,34.36756,,3.5,,,1/1/2001,Rural Focus,,,,,,,15,960,7.57,34.5
+,,Agis,Kenya,Turkana,,,,Lopusiki,3.83249,34.81907,,1.5,45,,,Rural Focus,,,,,,,,870,7.97,31.8
+,,Agis,Kenya,Turkana,,,,Kangatotha,3.13678,36.0665,,20,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,AIC Kainyangálup,Kenya,Turkana,,,,Lolupe,3.46629,35.19867,,,60,,1/1/2012,Rural Focus,,,,12,,,8,990,7.67,33.8
+,C7666,Aic Kalokol,Kenya,Turkana,,,,Kalokol,3.62919,35.79801,,,50,,8/2/1988,Rural Focus,,,,,,,33,1450,8.24,42
+,,Aipa,Kenya,Turkana,,,,Lokwi,1.97524,36.11822,,,,,1/1/2000,Rural Focus,,,,,,,,,,
+,C10655,Airstrip,Kenya,Turkana,,,,Lokichogio,4.16667,34.33333,,,,,9/24/1993,Rural Focus,,,,,,,,,,
+,,Akatuman,Kenya,Turkana,,,,Kangatotha,3.11593,36.10562,,,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Akedoamuro,Kenya,Turkana,,,,Kalobeyei,3.89198,34.56059,,20.73,,,,Rural Focus,,,,,,,,,,
+,,Akoros Wind Pump,Kenya,Turkana,,,,Lokichogio,4.20998,34.37257,,,120,,1/1/2000,Rural Focus,,,,,,,35,850,7.66,31.8
+,,Allan,Kenya,Turkana,,,,Lokichoggio,4.21055,34.36719,,2.5,,,1/1/1999,Rural Focus,,,,,,,,,,
+,,Amairo,Kenya,Turkana,,,,,2.07954,35.48421,,,,,1/1/2013,Rural Focus,,,,,,,,,,
+,,Angakitokoonok,Kenya,Turkana,,,,,2.59131,35.62057,,,,,,Rural Focus,,,,,,,,1230,7.37,34.3
+,,Angérega,Kenya,Turkana,,,,Lokichar,2.18972,35.54082,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,,Angúria,Kenya,Turkana,,,,Kaeris,4.21324,35.48729,,,,,1/1/2013,Rural Focus,,,,,,,,,,
+,,Apetet,Kenya,Turkana,,,,Lokwi,1.99284,36.11613,,,,,1/1/2013,Rural Focus,,,,,,,,,,
+,,Apetet BH,Kenya,Turkana,,,,Lokori,1.99463,36.11727,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Apetet Centre Water,Kenya,Turkana,,,,Kakuma,3.86407,34.96803,,0.8,,,1/1/2010,Rural Focus,,,,,,,,2030,6.95,35.4
+,,Apetet RCA Boys Sec,Kenya,Turkana,,,,Lokori,1.95002,36.04004,,,,,,Rural Focus,,,,,,,,,,
+,,Area,Kenya,Turkana,,,,Lokichogio,4.14599,34.31336,,,,,1/1/2009,Rural Focus,,,,,,,,,,
+,,Arita,Kenya,Turkana,,,,Lokichogio,4.17259,34.42381,,,,,,Rural Focus,,,,,,,,1850,6.95,31.5
+,,Arot Farmers,Kenya,Turkana,,,,Lokichogio,4.18592,34.37635,,,80,,,Rural Focus,,,,,,,,,,
+,,Arot Water Project,Kenya,Turkana,,,,Lokichogio,4.20859,34.37494,,,,,,Rural Focus,,,,,,,,,,
+,C7659,Ataerika,Kenya,Turkana,,,,Nakalale,3.56501,35.26755,,7,,,1/1/1988,Rural Focus,,,,,,,,,,
+,,Atani (Kaputir) Bh,Kenya,Turkana,,,,Kaputir,2.07188,35.44225,,,,,,Rural Focus,,,,,,,,,,
+,C7659,Aterika,Kenya,Turkana,,,,Makutano,3.63639,35.32944,,2,42,,6/10/1988,Rural Focus,,,,29,31,,13,,,
+,,B/H1,Kenya,Turkana,,,,Napuu,3.10703,35.6417,,90,72,,,Rural Focus,,,,,,,7.61,,,
+,,B/H2,Kenya,Turkana,,,,Napuu,3.1057,35.64276,,40,74,,,Rural Focus,,,,,,,7.84,,,
+,,B/H3,Kenya,Turkana,,,,Napuu,3.10544,35.64173,,35,80,,,Rural Focus,,,,,,,7.46,,,
+,,B/H4,Kenya,Turkana,,,,Napuu,3.10607,35.64059,,85,68,,,Rural Focus,,,,,,,7.27,,,
+,,Bh 12,Kenya,Turkana,,,,Kakuma,3.77649,34.82937,,,,,,Rural Focus,,,,,,,,520,8.4,31
+,,Bh 5,Kenya,Turkana,,,,Kanamkemer,3.11446,35.59651,,20,,,1/1/2000,Rural Focus,,,,,,,,,,
+,,Bh2 Chinese Bh,Kenya,Turkana,,,,Lokichar,2.38073,35.64438,,10,,,,Rural Focus,,,,18,,,,590,8.06,32.7
+,,Bishop Mahom Catholi,Kenya,Turkana,,,,Lodwar,3.08536,35.61336,,,,,,Rural Focus,,,,,,,,,,
+,,Borehole 1.,Kenya,Turkana,,,,Kakuma,3.71652,34.8572,,5.7,70,,1/1/2004,Rural Focus,,,,,,,15,560,8.5,26
+,,Borehole 10,Kenya,Turkana,,,,Kakuma,3.72207,34.85159,,24,60,,1/1/2010,Rural Focus,,,,,,,7.86,560,8.04,28.9
+,,Borehole 3,Kenya,Turkana,,,,Kakuma,3.74895,34.8449,,20.4,30,,1/1/1992,Rural Focus,,,,,,,2.91,500,7.57,31
+,,Borehole 4A,Kenya,Turkana,,,,Kakuma,3.75241,34.83817,,17.4,55,,1/1/2004,Rural Focus,,,,,,,6.23,1330,6.87,34
+,,Borehole 4B,Kenya,Turkana,,,,Kakuma,3.75482,34.83706,,22.2,40,,1/1/1992,Rural Focus,,,,,,,4.9,,,
+,,Borehole 4C,Kenya,Turkana,,,,Kakuma,3.75289,34.8404,,,,,,Rural Focus,,,,,,,,760,7.29,33.1
+,,Borehole 4D,Kenya,Turkana,,,,Kakuma,3.75325,34.83591,,,,,,Rural Focus,,,,,,,,1480,7.23,41.3
+,,Borehole 5,Kenya,Turkana,,,,Kakuma,3.74849,34.83228,,12.9,45,,1/1/1994,Rural Focus,,,,,,,8.21,1550,8.05,32.4
+,,Borehole 6,Kenya,Turkana,,,,Kakuma,3.76201,34.83414,,37.2,30,,1/1/2012,Rural Focus,,,,,,,4.67,830,8.46,28.9
+,,Borehole 7,Kenya,Turkana,,,,Kakuma,3.77045,34.83044,,22.2,60,,1/1/2004,Rural Focus,,,,,,,6.98,,,
+,,Borehole 8,Kenya,Turkana,,,,Kakuma,3.77757,34.82917,,32.1,58,,1/1/2004,Rural Focus,,,,,,,8.77,520,8.26,30.7
+,C7671,Bringan I,Kenya,Turkana,,,,Lokitaung,4.30449,35.86633,,1.2,60,,10/19/1988,Rural Focus,,,,48,,,29,,,
+,,Bruce Pike,Kenya,Turkana,,,,Lokichogio,4.2097,34.35046,,,,,,Rural Focus,,,,,,,,720,7.81,33.1
+,,Bruce Pike,Kenya,Turkana,,,,Lokichogio,4.20976,34.35063,,,,,,Rural Focus,,,,,,,11.06,660,8.05,28.7
+,,Camp North,Kenya,Turkana,,,,Lokichogio,4.20708,34.37336,,,,,,Rural Focus,,,,,,,,920,8.08,29.1
+,,Canaan Green,Kenya,Turkana,,,,,3.05425,35.54864,,,100,DRY,7/4/2005,Rural Focus,,,,,,,,,,
+,,Catholic Dioces,Kenya,Turkana,,,,Nariokotome,4.12928,35.85964,,9.84,55,,1/1/2012,Rural Focus,,,,38,,,39.75,570,8.31,34.7
+,,Catholic Parish,Kenya,Turkana,,,,Lokitaung,4.26982,35.7529,,32,,,1/1/2000,Rural Focus,,,,,,,,1350,8.01,35.2
+,,Ceamo Prestige Lodge,Kenya,Turkana,,,,Lodwar,3.10754,35.62215,,,36,,,Rural Focus,,,,,,,,2970,7.13,34.3
+,,Chok Chok Oxfam,Kenya,Turkana,,,,Chok Chok,3.14497,35.73858,,,40,,7/19/2013,Rural Focus,,,,,,,,410,8.12,33.4
+,,Chokochok,Kenya,Turkana,,,,Lodwar,3.13487,35.7613,,36,108,,4/15/2014,Rural Focus,,,,54,,,13.72,,,
+,,"Christ The King Catholic
+Church",Kenya,Turkana,,,,Lokichar,2.37916,35.65254,,,,,,Rural Focus,,,,,,,,1220,8.09,32.2
+,C12257,Christian Child Fund,Kenya,Turkana,,,,Lorugum,2.89267,35.25875,,,14,,8/29/1998,Rural Focus,,,,8,,,6,1610,8.44,35
+,,Comboni Fathers Farm Bh,Kenya,Turkana,,,,Lodwar Town,3.10775,35.56889,,,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Comboni Girls Pri,Kenya,Turkana,,,,Lodwar,3.11654,35.56614,,,,,1/1/2006,Rural Focus,,,,,,,,1400,9.66,30.6
+,,Comboni Girls Sec,Kenya,Turkana,,,,Lodwar,3.11686,35.56471,,,33,,,Rural Focus,,,,,,,10,,,
+,,Construction Borehole.,Kenya,Turkana,,,,Kakuma,3.71348,34.85833,,12,100,,1/1/2005,Rural Focus,,,,,,,18,,,
+,C5660,D Of Lodwar,Kenya,Turkana,,,,Kaeris,3.9808,35.48577,,0.78,40,,11/22/1984,Rural Focus,,,,20,,,17,2230,8.33,34.9
+,C5616,D Of Lodwar,Kenya,Turkana,,,,Kainuk/Lolokat,1.77749,35.49697,,0.84,70,,1/21/1984,Rural Focus,,,,55,,,43.7,910,8.45,29.2
+,C5582,D Of Lodwar,Kenya,Turkana,,,,Kalobeyei,3.8708,34.5736,,,85,,2/8/1983,Rural Focus,,,,71,,,,,,
+,C5584,D Of Lodwar,Kenya,Turkana,,,,Loreng,3.5125,34.5778,,0.54,70,,3/9/1983,Rural Focus,,,,59.5,,,,,,
+,C4992,D Of LODWAR,Kenya,Turkana,,,,Kaikor,4.58333,35.4167,,4.85,51,,9/1/1981,Rural Focus,,,,42,,,40,,,
+,C5848,D Of Lodwar,Kenya,Turkana,,,,Kaseroi Laga,2.4833,35.6639,,6,35,,7/31/1985,Rural Focus,,,,24,,,6,,,
+,C5850,D Of Lodwar,Kenya,Turkana,,,,Kakuma,3.7417,35.6861,,6,22,,8/29/1985,Rural Focus,,,,14.5,,,4.6,,,
+,C5849,D Of Lodwar,Kenya,Turkana,,,,Kakuma,3.7425,35.6833,,5.52,13.5,,8/25/1985,Rural Focus,,,,3.5,,,1.5,,,
+,C5631,D Of Lodwar,Kenya,Turkana,,,,Kaeris,4.5028,35.5028,,,100,,3/15/1984,Rural Focus,,,,,,,,,,
+,C5605,D Of Lodwar,Kenya,Turkana,,,,Kakuma River,3.6881,34.86693,,,12,,10/21/1983,Rural Focus,,,,,,,,,,
+,C5620,D Of Lodwar,Kenya,Turkana,,,,Kakuma River,3.7111,34.8556,,,12,,2/2/1984,Rural Focus,,,,,,,,,,
+,C5606,D Of Lodwar,Kenya,Turkana,,,,Kakuma River,3.7167,34.8667,,,6,,10/22/1983,Rural Focus,,,,,,,,,,
+,C5619,D Of Lodwar,Kenya,Turkana,,,,Kakuma River,3.7639,34.8389,,,12,,2/1/1984,Rural Focus,,,,,,,,,,
+,C5854,D Of Lodwar,Kenya,Turkana,,,,Kakurotom,2.76389,35.51917,,,100,,9/20/1985,Rural Focus,,,,,,,,,,
+,C5648,D Of Lodwar,Kenya,Turkana,,,,Kataboi 1,3.3722,35.7306,,,80,dry,7/27/1984,Rural Focus,,,,,,,,,,
+,C5649,D Of Lodwar,Kenya,Turkana,,,,Kataboi 2,3.3694,35.7347,,,60,dry,7/29/1984,Rural Focus,,,,,,,,,,
+,C5607,D Of Lodwar/Commun.,Kenya,Turkana,,,,Katilu Sec 1,2.3811,35.4306,,,120,,10/1/1983,Rural Focus,,,,,,,,,,
+,C6231,D. Of Lodwar,Kenya,Turkana,,,,Kerio Delta,2.1833,36.1167,,3.6,70,,5/5/1983,Rural Focus,,,,61,,,8,,,
+,C5612,D. Of Lodwar,Kenya,Turkana,,,,Katilu Dispensary,2.3792,35.4081,,,51,,12/1/1983,Rural Focus,,,,44,,,10,,,
+,C6232,D. Of Lodwar,Kenya,Turkana,,,,Kerio Delta,2.9917,36.0278,,,38,,1/1/1985,Rural Focus,,,,37,,,37,,,
+,C5614,D. Of Lodwar,Kenya,Turkana,,,,Keekunyii,2.9931,35.6861,,,48,,1/1/1984,Rural Focus,,,,22,,,,,,
+,C6230,D. Of Lodwar,Kenya,Turkana,,,,Kerio Delta,2.9167,36.1125,,,41,,1/1/1985,Rural Focus,,,,6,,,5,,,
+,C6229,D. Of Lodwar,Kenya,Turkana,,,,Kerio Delta,2.9222,36.1167,,,18,,5/1/1984,Rural Focus,,,,6,,,5,,,
+,C5591,D. Of Lodwar,Kenya,Turkana,,,,Ebu Twani,4.2833,34.7167,,,130,,8/7/1983,Rural Focus,,,,,,,,,,
+,C8437,D.Of Lodwar,Kenya,Turkana,,,,Kanaodan,2.2833,36.4167,,4.5,50,,6/26/1989,Rural Focus,,,,24,,,8,,,
+,,D.Of Lodwar/Commun.,Kenya,Turkana,,,,Letea,3.52222,34.81633,,0,,,1/1/1989,Rural Focus,,,,,,,,4220,7.41,36.2
+,C4220,D.W.D.,Kenya,Turkana,,,,Kakuma,3.7167,34.8667,,8.89,91,,5/9/1976,Rural Focus,,,,61,70,,25.3,,,
+,C4055,D.W.D.,Kenya,Turkana,,,,Katilu 9,2.3583,35.4228,,6.72,48,,8/1/1974,Rural Focus,,,,35,,,14,,,
+,C4096,D.W.D.,Kenya,Turkana,,,,Katilu,2.3417,35.4333,,2.28,37,,1/1/1974,Rural Focus,,,,29,,,20,,,
+,C4041,D.W.D.,Kenya,Turkana,,,,Katilu 5,2.3978,35.4167,,2.28,69,,7/1/1974,Rural Focus,,,,17,,,15,,,
+,C4042,D.W.D.,Kenya,Turkana,,,,Rapuli 7,2.2903,35.4222,,4.08,11,,7/1/1974,Rural Focus,,,,3,,,2,,,
+,C4005,D.W.D.,Kenya,Turkana,,,,Katilu,2.3361,35.4269,,,37,,2/1/1974,Rural Focus,,,,,,,,,,
+,C4095,D.W.D.,Kenya,Turkana,,,,Katilu,2.3953,35.4194,,,2,,,Rural Focus,,,,,,,,,,
+,C3985,D.W.D.,Kenya,Turkana,,,,Katilu,2.3992,35.4056,,,,,,Rural Focus,,,,,,,,,,
+,,Diocese Of El-Obeid,Kenya,Turkana,,,,Lokichogio,4.20885,34.37346,,,60,,,Rural Focus,,,,,,,,950,7.92,33.2
+,C10804,Diocese Of Nakuru,Kenya,Turkana,,,,Lokori 2,1.96354,36.02911,,,20,,10/11/1994,Rural Focus,,,,,,,,280,8.82,37.9
+,C10803,Diocese Of Nakuru,Kenya,Turkana,,,,Lokori 1,1.96354,36.02911,,,70,,9/22/1994,Rural Focus,,,,,,,,,,
+,,Don Bosco Borehole,Kenya,Turkana,,,,Kakuma,3.74407,34.83167,,28.4,45,,1/1/2010,Rural Focus,,,,,,,5.9,,,
+,,Donbosco BH,Kenya,Turkana,,,,Kakuma,3.74674,34.83095,,2.5,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Donbosco BH2,Kenya,Turkana,,,,Kakuma,3.72814,34.83542,,18,,,1/1/2003,Rural Focus,,,,,,,,,,
+,c-5087,"DOR (Diocese Of
+Rumbek)",Kenya,Turkana,,,,Lokichoggio,4.2104,34.34525,,5,,,1/1/1982,Rural Focus,,,,,,,,,,
+,C10907,DOT- Diocese Of Torit,Kenya,Turkana,,,,Lokichoggio,4.21103,34.34333,,2.8,,,1/1/1994,Rural Focus,,,,,,,,,,
+,C3885,Dwd,Kenya,Turkana,,,,Nanam,4.2094,34.56496,,1.98,38,,11/1/2072,Rural Focus,,,,25,,,16,,,
+,,Ebolo,Kenya,Turkana,,,,,3.00957,36.04742,,,,,,Rural Focus,,,,,,,,,,
+,,Echakun,Kenya,Turkana,,,,Kakuma,3.71991,34.85873,,,,,1/1/2009,Rural Focus,,,,,,,,2200,7.57,30.9
+,,Echwaa,Kenya,Turkana,,,,Loperot,2.35954,35.87205,,,,,,Rural Focus,,,,,,,,840,8.4,33.5
+,,Edos,Kenya,Turkana,,,,,2.82926,35.6522,,,,,1/1/2013,Rural Focus,,,,,,,,1760,7.48,35.8
+,,Ekadeli,Kenya,Turkana,,,,Kalobeyei,3.89164,34.54725,,12,,,1/1/2001,Rural Focus,,,,,,,,710,7.92,31.6
+,,Ekichele,Kenya,Turkana,,,,Kaikor,4.47749,35.44815,,,,,,Rural Focus,,,,,,,,750,7.37,34.6
+,,Ekitelatu Kiaunae,Kenya,Turkana,,,,Lokichogio,4.18905,34.37403,,,,,,Rural Focus,,,,,,,,,,
+,,Ekunyuk,Kenya,Turkana,,,,Loperot,2.32253,35.87753,,10.6,,,1/1/2013,Rural Focus,,,,,,,,2700,9.36,33
+,C6581,Elelea,Kenya,Turkana,,,,Lokitaung,4.13639,35.53167,,,90,,7/27/1987,Rural Focus,,,,,,,,,,
+,,"Elelea Water Service
+Providers",Kenya,Turkana,,,,Edoot,2.09614,36.15103,,,70,,10/9/2012,Rural Focus,,,,18,,,3,980,8.02,31.4
+,,Emunyen BH,Kenya,Turkana,,,,Loruth,4.45375,35.36015,,,,,1/1/2005,Rural Focus,,,,,,,,1530,8.46,28.1
+,C10738,Epol,Kenya,Turkana,,,,Lokichoggio,4.20889,34.34263,,2.4,,,1/1/1993,Rural Focus,,,,,,,,,,
+,C5780,Erulubei Nc 108,Kenya,Turkana,,,,,4.42771,35.81177,,,109,DRY HOLE,6/19/1984,Rural Focus,,,,,,,,,,
+,,Ewoi,Kenya,Turkana,,,,Nalemkais,2.37907,35.87846,,,,,1/1/2012,Rural Focus,,,,,,,,2120,9.59,32
+,,Forest,Kenya,Turkana,,,,Lokichogio,3.70483,34.85844,,,,,,Rural Focus,,,,,,,,1010,7.95,34.4
+,,Full Gospel Bh,Kenya,Turkana,,,,Lokichar,2.37944,35.65648,,0.6,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,"Glory Outreach
+Ministries",Kenya,Turkana,,,,Lodwar,3.09232,35.58195,,,,,1/1/2012,Rural Focus,,,,,,,,510,8.73,34.2
+,,"Hand Pump Kakuma 3-
+(Bh-9)",Kenya,Turkana,,,,Kakuma,3.77933,34.8281,,12,80,,1/1/2004,Rural Focus,,,,,,,15,,,
+,,"Hand Pump L-Zone 2 B-
+15",Kenya,Turkana,,,,Kakuma,3.73428,34.84246,,5,70,,1/1/2006,Rural Focus,,,,,,,12,670,9.25,31.7
+,,Hannah Emuriakin,Kenya,Turkana,,,,Lokichogio,4.20023,34.36855,,,,,,Rural Focus,,,,,,,,1180,7.62,33.2
+,,Hon John Munyes,Kenya,Turkana,,,,Lokichogio,4.20238,34.37617,,,,,,Rural Focus,,,,,,,13.1,,,
+,,House Of Hope,Kenya,Turkana,,,,Lodwar,3.08826,35.61832,,,,,,Rural Focus,,,,,,,,3210,8.48,31.1
+,,Icrc Bh2,Kenya,Turkana,,,,Lokichoggio,4.2133,34.35691,,2.24,,,1/1/2001,Rural Focus,,,,,,,,,,
+,,Icrc Bh3,Kenya,Turkana,,,,Mogila,4.2436,34.3884,,3.4,,,1/1/2000,Rural Focus,,,,,,,,,,
+,C10736,Icrc Compound Bh 1,Kenya,Turkana,,,,Lokichoggio,4.21409,34.35599,,6,,,1/1/1993,Rural Focus,,,,,,,,,,
+,C11607,Icrc-Bh2,Kenya,Turkana,,,,Mogila,4.2072,34.38051,,0.97,,,1/1/1996,Rural Focus,,,,,,,,,,
+,,Idp,Kenya,Turkana,,,,Lokichar,2.37475,35.63848,,,,,,Rural Focus,,,,,,,,1000,8.04,37.9
+,,Idp,Kenya,Turkana,,,,Lokichar,2.35867,35.63214,,,,,1/1/2013,Rural Focus,,,,,,,,1300,8.95,34.7
+,,Idp Handpump,Kenya,Turkana,,,,Lokichar,2.36316,35.62828,,,,,,Rural Focus,,,,,,,,1180,7.77,36.3
+,,Iom Borehole,Kenya,Turkana,,,,Kakuma,3.77501,34.83031,,31.2,70,,1/1/2004,Rural Focus,,,,,,,6.17,580,8.31,29.8
+,,IRC  Kanaodon Com,Kenya,Turkana,,,,Katilu,2.45119,35.43602,,1,100,,1/1/2012,Rural Focus,,,,60,,,60,1990,8.37,34
+,,IRC Achila Comm,Kenya,Turkana,,,,Katilu,2.2185,35.49922,,,100,,1/1/2012,Rural Focus,,,,,,,,,,
+,,IRC Edoot Comm,Kenya,Turkana,,,,Katilia,2.0935,36.15244,,2.4,70,,1/1/2012,Rural Focus,,,,24,,,16,,,
+,,IRC Ekalale Egiron,Kenya,Turkana,,,,Lochwar,2.61738,35.67936,,,,,1/1/2012,Rural Focus,,,,,,,,,,
+,,IRC Kablokol Pry Sch,Kenya,Turkana,,,,Kablokol,2.81674,35.37861,,,30,dry,1/1/2013,Rural Focus,,,,,,,,,,
+,,IRC Kaipokok Com,Kenya,Turkana,,,,Lochwar,2.64055,35.6428,,2.4,82,,1/1/2001,Rural Focus,,,,68,,,44,,,
+,,IRC Kangitit Comm,Kenya,Turkana,,,,Lokori,2.00759,36.05896,,3,84,,1/1/2012,Rural Focus,,,,74,,,32,,,
+,,IRC Karoge Comm,Kenya,Turkana,,,,Lochwar,2.55633,35.65843,,1,84,,1/1/2012,Rural Focus,,,,44,,,45,,,
+,,IRC Lotubae Comm,Kenya,Turkana,,,,Lotubae,2.027361,36.13839,,3.6,20,,1/1/2012,Rural Focus,,,,16,,,4,,,
+,,IRC Nakiria Pry,Kenya,Turkana,,,,Kalokol,3.54847,35.84366,,0.7,25,,1/1/2013,Rural Focus,,,,6,,,4.3,4430,7.81,35.1
+,,IRC Nakwasinyen,Kenya,Turkana,,,,Lokori,2.01918,36.07163,,8,34,,1/1/2012,Rural Focus,,,,14,,,6,900,8.39,32.1
+,,Irc Namorutunga,Kenya,Turkana,,,,Lokori,1.99013,36.11703,,2.5,30,,,Rural Focus,,,,18,,,12,,,
+,,IRC Naotin Pry Sch,Kenya,Turkana,,,,Naotin,3.06144,35.54968,,7,28,,1/1/2013,Rural Focus,,,,7,9,,6,,,
+,,Irc Naremit Pry Sch,Kenya,Turkana,,,,Naremit,2.01644,35.36108,,1.2,30,,1/1/2013,Rural Focus,,,,9,,,4,,,
+,,Irs Nayanaekaton,Kenya,Turkana,,,,Lokori,2.04964,36.12975,,0.2,30,,1/1/2012,Rural Focus,,,,24,,,18,,,
+,,Isaack Areman,Kenya,Turkana,,,,Kanamkemer,3.10961,35.5939,,,21.6,,1/1/1996,Rural Focus,,,,,,,,,,
+,,Kaakalel,Kenya,Turkana,,,,Loperot,2.46162,36.08386,,1.5,,,1/1/2010,Rural Focus,,,,,,,,1360,8.18,34.3
+,,Kaakelel,Kenya,Turkana,,,,,2.70952,35.40738,,,60,Y,1/1/2014,Rural Focus,,,,,,,,1180,7.74,34.6
+,,Kaalem,Kenya,Turkana,,,,Kaalem,4.30588,35.59797,,0.8,80,,1/1/2012,Rural Focus,,,,,,,15,2150,7.82,36.1
+,,Kaalem,Kenya,Turkana,,,,Kaalem,4.30193,35.5984,,,,,,Rural Focus,,,,,,,,,,
+,,Kaalem,Kenya,Turkana,,,,Kaalem,4.30592,35.59676,,,,,1/1/2011,Rural Focus,,,,,,,,,,
+,,Kaalem Borehole,Kenya,Turkana,,,,Yapakuno,4.3005,35.5982,,2.4,,,1/1/1987,Rural Focus,,,,,,,,1180,7.68,34.4
+,,Kaaleng Water Supply,Kenya,Turkana,,,,Yapakuno,4.36951,35.55157,,9,,,,Rural Focus,,,,,,,,830,8.42,27.7
+,C6555,Kaariwo,Kenya,Turkana,,,,Kaariwo,2.18056,35.53611,,2.46,80,,10/13/1986,Rural Focus,,,,33,,,8.78,,,
+,,Kabelkato Bh Katilu,Kenya,Turkana,,,,Katilu,2.23764,35.42788,,,,,,Rural Focus,,,,,,,,,,
+,,Kabil - Kerek Milima Tatu,Kenya,Turkana,,,,Kabil Kerek Milima Tatu,4.21972,35.29758,,,100,,1/21/2012,Rural Focus,,,,82,,,74,,,
+,C6540,Kabulokori,Kenya,Turkana,,,,Kabulokori,2.82008,35.46486,,12.4,40,,6/23/1986,Rural Focus,,,,8.21,,,5.65,360,7.76,32.8
+,,Kachalang'a,Kenya,Turkana,,,,Lochakula,1.92191,35.86812,,,,y,1/1/2011,Rural Focus,,,,,,,,2280,8.75,33.7
+,,Kacheriaang'or Borehole,Kenya,Turkana,,,,Kokuro,4.72215,35.6692,,,,,,Rural Focus,,,,,,,,,,
+,C 5058,Kachoda,Kenya,Turkana,,,,Lokitaung,4.32609,35.66867,,2.9,,,1/1/1982,Rural Focus,,,,,,,,1220,8.68,30.3
+,C5058,Kachoda,Kenya,Turkana,,,,Kachoda,4.32362,35.6693,,2.67,50,,1/17/1982,Rural Focus,,,,44,,,38.2,,,
+,C5656,Kachoda Borehole,Kenya,Turkana,,,,Lokitaung,4.32295,35.67153,,0.9,100,,1/1/1984,Rural Focus,,,,,,,,650,8.2,36.2
+,,Kachoda Kaeris,Kenya,Turkana,,,,Kaeris,3.98452,35.4659,,2,,,,Rural Focus,,,,,,,,1370,8.67,30.9
+,,Kadogochin,Kenya,Turkana,,,,,2.75888,34.87376,,,,,1/1/2010,Rural Focus,,,,,,,,,,
+,,Kadokochin,Kenya,Turkana,,,,,2.74719,35.64742,,,,,,Rural Focus,,,,,,,,,,
+,,Kadokorinyang,Kenya,Turkana,,,,Kalokol,3.45517,35.78215,,,,,1/1/2011,Rural Focus,,,,,,,,,,
+,,Kadokorinyang,Kenya,Turkana,,,,Kalokol,3.45546,35.78272,,,,,1/1/2010,Rural Focus,,,,,,,,,,
+,,Kadokorinyang,Kenya,Turkana,,,,Kalokol,3.4563,35.78262,,,,,1/1/2010,Rural Focus,,,,,,,,,,
+,,Kadopgorok,Kenya,Turkana,,,,Koono,2.80095,35.40571,,,60,y,1/1/2012,Rural Focus,,,,,,,,3250,7.8,34.7
+,,Kaekoroeputh,Kenya,Turkana,,,,Lokitaung,4.15094,35.73333,,1,,,1/1/2007,Rural Focus,,,,,,,,1860,7.41,34
+,,Kaeosin 2,Kenya,Turkana,,,,Kaikor,4.48126,35.44164,,,,,1/1/1999,Rural Focus,,,,,,,,,,
+,,Kaeosin BH,Kenya,Turkana,,,,Kaikor,4.48024,35.40961,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Kaeosin Borehole 3,Kenya,Turkana,,,,Kaikor,4.48016,35.44739,,0.28,,,1/1/1982,Rural Focus,,,,,,,,,,
+,C8907,Kaepedulu,Kenya,Turkana,,,,,2.8833,34.6667,,1.5,50,,1/9/1990,Rural Focus,,,,27,,,14.61,,,
+,C5660,Kaeris Borehole I,Kenya,Turkana,,,,Kaeris,3.98356,35.48507,,0.6,,,1/1/1984,Rural Focus,,,,,,,,,,
+,,Kaeris Borehole Ii,Kenya,Turkana,,,,Kaeris,3.98508,35.47884,,2.9,,,1/1/1985,Rural Focus,,,,,,,,960,7.89,33.9
+,C6552,Kaesomalit,Kenya,Turkana,,,,Kaesomalit,2.11667,36.27778,,8,40,,9/26/1986,Rural Focus,,,,32,34,,25.4,,,
+,C6552,Kaesomalit BH,Kenya,Turkana,,,,Kalapata,2.28741,36.04863,,,,,1/1/1986,Rural Focus,,,,,,,,,,
+,,Kag Church Nariamawoi,Kenya,Turkana,,,,Nariamawoi,3.06811,35.56088,,,51,,1/1/2008,Rural Focus,,,,,,,,1400,7.74,34.7
+,,Kaidir,Kenya,Turkana,,,,Namoruputh,2.83552,34.99902,,0.25,90,,2/23/2014,Rural Focus,,,,64,,,16,,,
+,,Kaikor,Kenya,Turkana,,,,Kaikor,4.51678,35.42235,,2,,,1/1/2010,Rural Focus,,,,,,,,1660,8.01,39.6
+,C7650,Kaikor,Kenya,Turkana,,,,Lokitaung,4.52261,35.42137,,9,42,,2/20/1988,Rural Focus,,,,24,,,28,1230,8.03,32.2
+,,Kaikor BH,Kenya,Turkana,,,,Kaikor,4.52264,35.42256,,1.8,,,,Rural Focus,,,,,,,,1920,7.43,34.5
+,,Kaikor Catholic,Kenya,Turkana,,,,Kaikor,4.52306,35.42429,,1.2,,,1/1/1999,Rural Focus,,,,,,,,920,7.86,31.8
+,C5632,Kaikwor,Kenya,Turkana,,,,,4.5333,35.4167,,1.38,60,,3/16/1984,Rural Focus,,,,40,,,24,,,
+,,Kailosiget,Kenya,Turkana,,,,,3.14459,35.58672,,,,,,Rural Focus,,,,,,,,,,
+,C7638,Kaimothia,Kenya,Turkana,,,,Kaimothia,4.9208,35.3431,,4.8,25,,12/6/1987,Rural Focus,,,,6,15,,0,,,
+,,Kainuk,Kenya,Turkana,,,,Kainuk,1.77015,35.50621,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,C5615,Kainuk 1,Kenya,Turkana,,,,Kainuk,1.77365,35.49928,,0.96,100,,1/18/1984,Rural Focus,,,,50,62,80,16,,,
+,,Kainuk Mosque,Kenya,Turkana,,,,Kainuk,1.77259,35.49902,,,,,,Rural Focus,,,,,,,,480,8.5,37
+,,Kaiokor Catholic Sisters,Kenya,Turkana,,,,Kaikor,4.52099,35.42535,,,,,1/1/2010,Rural Focus,,,,,,,,930,7.72,42
+,,Kaipokok,Kenya,Turkana,,,,Kaipokok,2.6432,35.64205,,,82,,9/12/2012,Rural Focus,,,,47,75,,32,1490,7.39,34.9
+,,Kaitese,Kenya,Turkana,,,,Nadapal,3.01036,35.43503,,1.2,,,1/1/2004,Rural Focus,,,,,,,,970,8.28,35.3
+,,Kaitese Church,Kenya,Turkana,,,,,3.00245,35.4333,,5,,,1/1/2009,Rural Focus,,,,,,,,1060,8.45,32.75
+,,Kaitese Primary,Kenya,Turkana,,,,,3.00595,35.43482,,,,,,Rural Focus,,,,,,,,960,8.77,31.7
+,,Kajokjok,Kenya,Turkana,,,,Kaaleng,4.34425,35.5903,,0.6,,,1/1/2013,Rural Focus,,,,,,,,1700,7.56,35.6
+,,Kakali,Kenya,Turkana,,,,Lokichar,2.32095,35.65044,,7,100,,,Rural Focus,,,,52,,,13.4,,,
+,,Kakamera Pri Sch,Kenya,Turkana,,,,Kakemera,3.08856,35.56142,,,,,1/1/2012,Rural Focus,,,,,,,,590,8.65,32.4
+,,Kakelae Pri Sch,Kenya,Turkana,,,,Kakelae,4.5256,35.59429,,,,,,Rural Focus,,,,,,,,1620,7.6,35.1
+,C6557,Kakipom,Kenya,Turkana,,,,Kakipom,2.27778,35.56944,,0.2,60,,10/21/1986,Rural Focus,,,,36,,,8.12,,,
+,,Kakipom,Kenya,Turkana,,,,Lokichar,2.28148,35.56308,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,,Kakong,Kenya,Turkana,,,,Kakong,2.03676,35.53148,,,,,1/1/2011,Rural Focus,,,,,,,,630,7.52,31.1
+,C3494,Kakoran Hole,Kenya,Turkana,,,,Kakoran 5,2.3833,35.7167,,0.45,32.9,,8/20/2067,Rural Focus,,,,12.9,,,8.5,,,
+,C3495,Kakoran Hole,Kenya,Turkana,,,,Kakoran 7,2.9333,35.4333,,6.36,5.4,,10/25/2067,Rural Focus,,,,3,,,1.8,,,
+,C7672,Kakuma,Kenya,Turkana,,,,Kakuma,3.87806,34.87111,,0.24,35,,11/15/1988,Rural Focus,,,,16,,,5,,,
+,,Kakuma,Kenya,Turkana,,,,Kakuma,3.71869,34.85946,,,,,,Rural Focus,,,,,,,,,,
+,C6572,Kakuma Bridge 1,Kenya,Turkana,,,,Kakuma,3.71139,34.87111,,3,40,,3/26/1987,Rural Focus,,,,25,,,16.9,,,
+,C6574,Kakuma Bridge 2,Kenya,Turkana,,,,Kakuma,3.87806,34.87111,,5,58,,5/16/1987,Rural Focus,,,,32,35,,17.9,,,
+,,Kakuma Catholic Parish,Kenya,Turkana,,,,Kakuma,3.71098,34.86256,,,70,,1/1/2014,Rural Focus,,,,,,,,4470,6.98,33
+,,"Kakuma Commuinity
+Borehole",Kenya,Turkana,,,,Kakuma,3.75238,34.85444,,12,60,,1/1/1999,Rural Focus,,,,,,,,,,
+,C6573,Kakuma Hosp,Kenya,Turkana,,,,Kakuma,3.71139,34.87111,,1.13,55,,1/15/1988,Rural Focus,,,,32,,,16,,,
+,C7675,Kakuma Ii,Kenya,Turkana,,,,Kakuma,4.4412,34.45735,,,50,,,Rural Focus,,,,,,,,,,
+,C7678,Kakuma Livestock,Kenya,Turkana,,,,Kakuma,3.72278,34.85667,,10.62,60,,1/31/1989,Rural Focus,,,,40,,,8,,,
+,C3629,"Kakuma Mission 1
+(Natir)",Kenya,Turkana,,,,Kakuma 1,3.72542,34.85393,,0.27,74.6,,3/19/2069,Rural Focus,,,,27.4,,,18.8,560,8.81,31
+,C7640,Kakuma Pump House Ii,Kenya,Turkana,,,,Kakuma,3.71667,34.8666,,1.2,55,,1/11/1988,Rural Focus,,,,22,,,16,,,
+,,Kakuma Water Supply 1,Kenya,Turkana,,,,Kakuma,3.72813,34.8532,,15,,,1/1/1997,Rural Focus,,,,,,,,,,
+,,Kakuma Water Supply 2,Kenya,Turkana,,,,Kakuma,3.72052,34.85833,,15,,,1/1/1988,Rural Focus,,,,,,,,,,
+,,Kakuromosoing,Kenya,Turkana,,,,Lokiriama,2.77347,34.85174,,0.3,80,,2/3/2014,Rural Focus,,,,65,,,34.2,,,
+,,Kakuruto,Kenya,Turkana,,,,Kangatotha,3.19026,35.84585,,0.8,,,1/1/2001,Rural Focus,,,,,,,,,,
+,,Kalapata,Kenya,Turkana,,,,Kalapata,2.57298,36.24014,,2.5,25,,3/12/2006,Rural Focus,,,,8,18,,5,330,8.3,30.7
+,,Kalapata,Kenya,Turkana,,,,Kalapata,2.33422,35.83829,,,,,,Rural Focus,,,,,,,,,,
+,,Kalemchuch,Kenya,Turkana,,,,Kakuma,3.71128,34.84116,,,,,1/1/2011,Rural Focus,,,,,,,,1920,6.93,32.9
+,,Kalemchuch,Kenya,Turkana,,,,Kakuma,3.71212,34.83985,,12,,,,Rural Focus,,,,,,,,2070,7.73,28.8
+,,Kalemchuch,Kenya,Turkana,,,,Kakuma,3.7086,34.83402,,,70,,,Rural Focus,,,,,,,,,,
+,C5861,Kalemngorok,Kenya,Turkana,,,,Kalemngorok,2.15016,35.49541,,0.78,26.5,,11/13/1985,Rural Focus,,,,20.5,,,10.1,2880,7.22,33.1
+,,Kalemngorok,Kenya,Turkana,,,,Kalemngorok,2.14871,35.49908,,,,,1/1/2006,Rural Focus,,,,,,,,,,
+,,Kalemngorok BH,Kenya,Turkana,,,,Katilu,2.13256,35.50031,,,,,1/1/1985,Rural Focus,,,,,,,,1090,7.95,31.9
+,,"Kalemngorok Catholic
+Church",Kenya,Turkana,,,,Kalemngorok,2.12948,35.49701,,,,,,Rural Focus,,,,,,,,4620,8.06,33
+,,"Kalemngorok Outreach
+Church",Kenya,Turkana,,,,Kalemngorok,2.13097,35.49319,,3,,,,Rural Focus,,,,,,,,,,
+,,Kalemng'orok Solar BH,Kenya,Turkana,,,,Katilu,2.13447,35.50179,,,,,1/1/2000,Rural Focus,,,,,,,,,,
+,,"Kalemngorok Water
+Project",Kenya,Turkana,,,,Kalemgorok,2.1481,35.49938,,1.5,80,,8/8/2008,Rural Focus,,,,41,65,,14.7,,,
+,,Kalemnyang,Kenya,Turkana,,,,,2.73651,35.37094,,,,,1/1/2010,Rural Focus,,,,,,,,4790,8.55,32.3
+,C6541,Kalimnyang,Kenya,Turkana,,,,Kalimnyang,2.74111,35.36667,,12,47,,7/2/1986,Rural Focus,,,,31,41,,6.36,360,7.61,30.9
+,,Kalobakori,Kenya,Turkana,,,,Kalobeyei,3.85153,34.55651,,1.64,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Kalobeyei Borehole,Kenya,Turkana,,,,Kalobeyei,3.77427,34.61639,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,,Kalobeyei Pri Sch,Kenya,Turkana,,,,Kalobeyei,3.77172,34.62395,,,60,,1/1/2011,Rural Focus,,,,,,,,1480,7.76,32.1
+,,Kalokol,Kenya,Turkana,,,,Kalokol,3.52212,35.81912,,,,,,Rural Focus,,,,,,,,,,
+,,Kalokol,Kenya,Turkana,,,,Kalokol,3.52406,35.83126,,,,,,Rural Focus,,,,,,,,,,
+,,Kalokol,Kenya,Turkana,,,,Kalokol,3.52556,35.83301,,,,,,Rural Focus,,,,,,,,,,
+,,Kalokol,Kenya,Turkana,,,,Kalokol,3.52586,35.83263,,,,,,Rural Focus,,,,,,,,,,
+,,Kalokol Water Supply,Kenya,Turkana,,,,Kalokol,3.52375,35.83148,,0.78,,,1/1/1979,Rural Focus,,,,,,,,,,
+,,Kalokume Catholic Bh,Kenya,Turkana,,,,Lokori,1.95933,36.04666,,,,,,Rural Focus,,,,,,,,,,
+,,Kalokutany,Kenya,Turkana,,,,Lorengippi,2.53645,34.98222,,7,25,,5/30/2014,Rural Focus,,,,22,,,20,,,
+,,Kalopusia,Kenya,Turkana,,,,Pelekech,3.85669,34.84041,,2,,,,Rural Focus,,,,,,,,1180,7.69,33.6
+,,Kalopusuk,Kenya,Turkana,,,,Lokichoggio,4.46406,34.44606,,,,,,Rural Focus,,,,,,,,,,
+,C7667,Kalotum,Kenya,Turkana,,,,Lodwar,3.50194,35.59361,,6.55,75,,8/17/1988,Rural Focus,,,,57,,,41.26,,,
+,C5643,Kalowath,Kenya,Turkana,,,,,4.6306,35.2783,,,100,,7/8/1984,Rural Focus,,,,,,,,,,
+,,Kamarethe,Kenya,Turkana,,,,Katilu,2.33298,35.6022,,,,,,Rural Focus,,,,,,,,720,7.39,32.1
+,C5874,Kambi Moi Lokori 4,Kenya,Turkana,,,,,1.95384,36.02582,,10,80,,3/22/1986,Rural Focus,,,,,,,,,,
+,,Kamonukwei (Tullow),Kenya,Turkana,,,,Kochodin,2.24559,35.81959,,,,,,Rural Focus,,,,,,,,,,
+,C6549,Kamosing Downstream,Kenya,Turkana,,,,Kamosing,1.37639,36.08611,,1.29,45,,9/4/1986,Rural Focus,,,,30,37,,27.54,,,
+,C6550,Kamosing Upstream,Kenya,Turkana,,,,Kamosing/Kapedo,1.33639,36.09083,,2,65,,9/8/1986,Rural Focus,,,,48,,,33.66,,,
+,,Kamotongae (Komudei),Kenya,Turkana,,,,Kakuma,3.09714,34.93006,,,,,,Rural Focus,,,,,,,,1180,7.56,35.4
+,C5832,Kamukurdio,Kenya,Turkana,,,,,3.9361,35.6542,,,30,BLOCKED,3/15/1985,Rural Focus,,,,10,,,6,,,
+,,Kamunyae,Kenya,Turkana,,,,Kakuma,3.80611,34.83215,,,,,,Rural Focus,,,,,,,,400,8.61,30.1
+,,Kanakurdio,Kenya,Turkana,,,,Kaeris,3.76985,35.55422,,10,91,,4/18/2014,Rural Focus,,,,80,,,0,3980,7.05,37.2
+,,Kanakurdio,Kenya,Turkana,,,,Lokitaung,3.80762,35.44341,,1.2,,,,Rural Focus,,,,,,,,1150,7.31,34.1
+,C 5625,Kanakuridio Borehole,Kenya,Turkana,,,,Kaeris,3.78986,35.46493,,3.6,,,1/1/1984,Rural Focus,,,,,,,,1330,7.81,34.1
+,,Kanakurudio,Kenya,Turkana,,,,Kanakurudio,3.81586,35.25684,,,40,,7/8/2005,Rural Focus,,,,17.5,28,,15.8,,,
+,,"Kanakurudio Water
+Project",Kenya,Turkana,,,,Kaituko,3.77391,35.55318,,10,91,,4/29/2014,Rural Focus,,,,80,,,0,3500,6.89,35.9
+,,Kanamkemer,Kenya,Turkana,,,,Kanamkemer,3.09511,35.58106,,10.3,55,,3/29/2009,Rural Focus,,,,34,,,38.6,,,
+,C5842,"KANAMKEMER 3
+(Catholic)",Kenya,Turkana,,,,Kanamkemer,3.11368,35.59551,,12,17,,6/21/1985,Rural Focus,,,,8,12,,3.5,440,8.1,29.7
+,,Kanaodon BH,Kenya,Turkana,,,,Katilu,2.49623,35.40918,,,,,1/1/1986,Rural Focus,,,,,,,,1010,7.52,33.7
+,,Kangaki Borehole,Kenya,Turkana,,,,Ngissinger,3.96863,35.84296,,1.8,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Kangakipur,Kenya,Turkana,,,,Kangakipur,2.55713,36.03015,,3.6,60,,3/14/2012,Rural Focus,,,,42,54,,41,,,
+,,Kangakipur,Kenya,Turkana,,,,Kalapata,2.37701,36.00882,,0.64,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Kangakipur,Kenya,Turkana,,,,Kaeris,3.05972,35.53152,,,130,DRY,4/14/2014,Rural Focus,,,,,,,,,,
+,,Kangakipur Borehole,Kenya,Turkana,,,,Kaeris,4.03623,35.47832,,1.2,,,1/1/1984,Rural Focus,,,,,,,,,,
+,,"Kangakipur Water Users
+Ass",Kenya,Turkana,,,,Ngaukon,4.02688,35.46164,,1.2,100,,3/3/2014,Rural Focus,,,,28,52,,14,1450,7.52,34.2
+,,Kangálita,Kenya,Turkana,,,,Kalgálita,2.74353,35.38466,,3,,,1/1/2010,Rural Focus,,,,,,,,670,7.87,34.2
+,,Kangálita,Kenya,Turkana,,,,Kangálita,2.74147,35.40507,,3,100,,1/1/2011,Rural Focus,,,,,,,14,,,
+,,Kangamojoj,Kenya,Turkana,,,,Kankurdio,3.74535,35.51051,,4.23,18,,6/14/1988,Rural Focus,,,,9,,,2,1310,7.81,33.3
+,,Kang'amojoj,Kenya,Turkana,,,,Kaeris,3.74801,35.5098,,2.05,,,1/1/1988,Rural Focus,,,,,,,,,,
+,,Kangarukia,Kenya,Turkana,,,,Lokitaung,4.15424,35.73603,,2.7,54,,1/1/2013,Rural Focus,,,,,,,9,1200,7.54,34.1
+,,Kangarukia,Kenya,Turkana,,,,Lokitaung,4.16018,35.73916,,,,,1/1/2013,Rural Focus,,,,,,,,1490,7.86,36.1
+,,Kangirisae,Kenya,Turkana,,,,Kangirisae,2.61607,36.25413,,,,,1/1/2010,Rural Focus,,,,,,,,300,8.46,33.5
+,,Kangirisae,Kenya,Turkana,,,,Kangirisae,2.59425,36.17325,,6.5,93,,2/4/2014,Rural Focus,,,,84,,,15.6,,,
+,,Kangisechi,Kenya,Turkana,,,,Kibish,5.01334,35.58005,,,,,1/1/2002,Rural Focus,,,,,,,,,,
+,,Kangitesiroi,Kenya,Turkana,,,,Kangitesiroi,3.88817,34.94872,,0.6,,,1/1/2012,Rural Focus,,,,,,,,1390,8,35.1
+,,Kangitit G. Sec Sch,Kenya,Turkana,,,,Lokori,1.93556,36.02529,,,3.6,,1/1/1994,Rural Focus,,,,,,,2.5,3520,7.68,34.1
+,,Kangítulae,Kenya,Turkana,,,,Kaikor,4.68885,35.41537,,,,,1/1/2012,Rural Focus,,,,,,,,630,7.81,30.4
+,C6542,Kangole,Kenya,Turkana,,,,Kangole,2.9764,35.1889,,3.4,60,,7/7/1986,Rural Focus,,,,39,,,30.21,800,7.6,34.1
+,,Kanugurpus,Kenya,Turkana,,,,Kangatotha,3.1175,36.07653,,1.2,,,1/1/2004,Rural Focus,,,,,,,,,,
+,C5625,Kanukurdio,Kenya,Turkana,,,,,3.81666,35.46667,,7.98,40,,2/29/1984,Rural Focus,,,,11,,,6,,,
+,,Kapedo GSU Camp,Kenya,Turkana,,,,Kapedo,1.20716,36.10266,,,,y,,Rural Focus,,,,,,,,1100,8.42,38
+,C6547,Kapedo Hospital,Kenya,Turkana,,,,Kapedo,1.3333,36.0833,,10.2,20,,8/21/1986,Rural Focus,,,,17,,,13.98,,,
+,,Kapedo Water Supply Bh,Kenya,Turkana,,,,Kapedo,1.1831,36.07881,,,,,1/1/1991,Rural Focus,,,,,,,,,,
+,C5594,Kapeeto,Kenya,Turkana,,,,,4.0833,34.7333,,,130,,9/1/1983,Rural Focus,,,,,,,,,,
+,C7636,Kapekapakalam,Kenya,Turkana,,,,Kachoda-Kapekalam,4.3022,35.60028,,2.4,30,,12/2/1987,Rural Focus,,,,10,,,5.37,,,
+,C5575,Kapelakol,Kenya,Turkana,,,,,3.8167,34.4672,,16.44,85,,1/18/1983,Rural Focus,,,,44,,,18.4,,,
+,,Kapese Bh,Kenya,Turkana,,,,Lokichar,2.38547,35.66121,,1.16,,,1/1/2003,Rural Focus,,,,,,,,540,7.95,32.6
+,,Kapese Pri Sch,Kenya,Turkana,,,,Lokichar,2.37995,35.66486,,,,,,Rural Focus,,,,,,,,3790,8.66,31.4
+,,Kapochuakongu,Kenya,Turkana,,,,Songot,4.06993,34.49264,,,,,1/1/2000,Rural Focus,,,,,,,,670,7.13,34.5
+,C5630,Kapotia,Kenya,Turkana,,,,,4.4153,35.4611,,1.5,60,,3/10/1984,Rural Focus,,,,30,,,17.7,,,
+,C8896,Kapua,Kenya,Turkana,,,,Lodwar,3.4361,35.6722,,,86,"SALTY-
+ABANDONED",10/16/1989,Rural Focus,,,,79,,,40.25,,,
+,,Kapua Centre,Kenya,Turkana,,,,Kapua,3.34384,35.69976,,2.52,150,,6/27/2010,Rural Focus,,,,26,125,,25,,,
+,,Kapus,Kenya,Turkana,,,,Lomeyan,3.16945,35.2599,,,,,1/1/2002,Rural Focus,,,,,,,,,,
+,C8901,Kapus,Kenya,Turkana,,,,,3.2056,35.4444,,,90,DRY,11/22/1989,Rural Focus,,,,,,,,,,
+,,Karebur,Kenya,Turkana,,,,Karebur,4.44407,35.72201,,,65,,3/31/2012,Rural Focus,,,,22,54,,16,1100,7.43,33.9
+,C7635,Karebur,Kenya,Turkana,,,,Karebur,4.44362,35.72569,,0.9,,,1/1/1987,Rural Focus,,,,,,,,1140,7.45,34.1
+,C7635,Karebur,Kenya,Turkana,,,,Karebur,4.42056,35.54417,,3,24,,11/23/1987,Rural Focus,,,,8,,,3.98,,,
+,C3530,Karioki,Kenya,Turkana,,,,Lokichoggio,4.20913,34.34161,,1.4,,,1/1/1968,Rural Focus,,,,,,,,,,
+,,Karioreng,Kenya,Turkana,,,,Kaaleng,4.40269,35.58992,,,,,1/1/2011,Rural Focus,,,,,,,,1310,7.96,34.6
+,,Karoge,Kenya,Turkana,,,,Lokichar,2.56531,35.65881,,,,,1/1/2014,Rural Focus,,,,,,,,1550,7.89,34.8
+,,Karoge,Kenya,Turkana,,,,Lochwangamatak,2.54804,35.64043,,1.02,,,1/1/2002,Rural Focus,,,,,,,,1520,8.01,35.1
+,C5629,Karubagorok,Kenya,Turkana,,,,,4.41666,35.43333,,,125,,3/9/1984,Rural Focus,,,,,,,,,,
+,,Karuknyang,Kenya,Turkana,,,,Kalobeyei,3.82394,34.35421,,,,,1/1/1973,Rural Focus,,,,,,,,,,
+,,Karuko,Kenya,Turkana,,,,Karuko,2.09528,36.03766,,,,,,Rural Focus,,,,,,,,,,
+,,Karuko Borehole,Kenya,Turkana,,,,Kochodin,2.09404,36.04455,,2,,,1/1/2012,Rural Focus,,,,,,,,1230,7.74,36.2
+,,Kasiroi,Kenya,Turkana,,,,Lokichar,2.47477,35.6545,,,,,1/1/2014,Rural Focus,,,,,,,,830,7.76,33.9
+,,Kasuroi,Kenya,Turkana,,,,Lokichar,2.47714,35.65909,,1.6,,,1/1/1977,Rural Focus,,,,,,,,1380,7.82,33
+,C5588,Kataboi,Kenya,Turkana,,,,,3.1222,35.6117,,,100,,6/17/1983,Rural Focus,,,,,,,,,,
+,,Kataboi Primary Sch,Kenya,Turkana,,,,Kataboi,3.76159,35.83355,,,,,,Rural Focus,,,,,,,,1570,8.11,36
+,,Kataboi Water Supply,Kenya,Turkana,,,,Kataboi,3.75174,35.76208,,,,,1/1/1979,Rural Focus,,,,,,,,,,
+,,"Kataboi Water Supply
+New",Kenya,Turkana,,,,Kataboi,3.7526,35.78302,,,,,1/1/2014,Rural Focus,,,,,,,0,980,8.95,39.1
+,,Kate Camp Borehole,Kenya,Turkana,,,,Lokichoggio,4.20571,34.36384,,1.5,242,,1/1/1994,Rural Focus,,,,,,,70,1170,7.92,34.4
+,C5866,Kateruk 1,Kenya,Turkana,,,,,2.4611,35.36666,,1.02,100,,2/12/1986,Rural Focus,,,,79,,,45.2,,,
+,C5867,Kateruk 2,Kenya,Turkana,,,,,2.4578,35.3589,,1.2,56.6,,2/19/1986,Rural Focus,,,,13,33,,6.13,,,
+,,Katik Nyingok,Kenya,Turkana,,,,Lokichogio,3.52621,34.64762,,,,,,Rural Focus,,,,,,,,,,
+,,Katiko,Kenya,Turkana,,,,Katiko,3.78635,35.83563,,,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Katiko Borehole 1,Kenya,Turkana,,,,Kataboi,3.79067,35.83731,,,,,1/1/2005,Rural Focus,,,,,,,,760,8.6,33.3
+,,Katiko Ii Borehole,Kenya,Turkana,,,,Kataboi,3.78648,35.83411,,2.4,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Katilia Borehole,Kenya,Turkana,,,,Katilia,2.14321,36.13705,,,3.6,,,Rural Focus,,,,,,,,,,
+,C5846,Katilia Town 1,Kenya,Turkana,,,,,2.1306,36.1139,,,50,,7/23/1985,Rural Focus,,,,,,,,,,
+,C5847,Katilia Town 2,Kenya,Turkana,,,,,2.1278,36.1139,,,20,,7/27/1985,Rural Focus,,,,,,,,,,
+,,Katilia Water Supply,Kenya,Turkana,,,,Katilia,2.14326,36.13721,,3.3,,,1/1/2000,Rural Focus,,,,,,,,350,8.56,34.5
+,,"Katilu Catholic Mission
+Bh",Kenya,Turkana,,,,Katilu,2.2551,35.42839,,,,,1/1/1980,Rural Focus,,,,,,,,1310,8.32,31.2
+,,Katilu Integrated Bh,Kenya,Turkana,,,,Katilu,2.25181,35.4292,,,,,1/1/1980,Rural Focus,,,,,,,,3240,7.9,33.6
+,,Katilu KAG Church,Kenya,Turkana,,,,Katilu,2.27958,35.4281,,3,36,,1/1/2011,Rural Focus,,,,,,,,3080,7.6,35.4
+,C5609,Katilu Sec School 3,Kenya,Turkana,,,,Katilu,2.3722,36.4125,,,46,,11/6/1983,Rural Focus,,,,,,,,,,
+,C5610,Katilu Sec School 4,Kenya,Turkana,,,,Katilu,2.23043,35.42694,,1.92,52.5,,12/16/1983,Rural Focus,,,,14,46,,9.3,,,
+,C5611,Katilu Sec School5,Kenya,Turkana,,,,Katilu,2.3819,35.4264,,,60,,12/18/1983,Rural Focus,,,,,,,,,,
+,,Katilu Water Supply BH,Kenya,Turkana,,,,Katilu,2.2712,35.42613,,,36,,1/1/1975,Rural Focus,,,,,,,,1580,8.26,30.3
+,,Katuguri,Kenya,Turkana,,,,Napelilim,3.42055,35.32595,,,105,,1/1/2014,Rural Focus,,,,,,,,,,
+,,Kay Bh,Kenya,Turkana,,,,Lokichoggio,4.21275,34.37186,,3.3,,,1/1/2004,Rural Focus,,,,,,,,,,
+,C5617,Keekunyu 2,Kenya,Turkana,,,,,2.9756,35.6833,,,67,,1/27/1984,Rural Focus,,,,65,,,51,,,
+,,Kekoreokwan,Kenya,Turkana,,,,,2.79428,34.81722,,,,,1/1/2008,Rural Focus,,,,,,,,,,
+,,Kekunyuk 1,Kenya,Turkana,,,,Kanamkemer,2.93486,35.61718,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Kekunyuk 2,Kenya,Turkana,,,,Kanamkemer,2.93272,35.61306,,0.6,,,,Rural Focus,,,,,,,,,,
+,,Kekuri,Kenya,Turkana,,,,Lochakula,1.96019,35.90864,,,,,1/1/2012,Rural Focus,,,,,,,,840,9.24,34.3
+,C4088,Kenya Poice,Kenya,Turkana,,,,Koruro,4.6667,35.7333,,,11,,8/1/2073,Rural Focus,,,,,,,,,,
+,C3790,Kenya Police,Kenya,Turkana,,,,Kokuro Police Post,4.67513,35.72161,,0.91,72.5,,11/5/2071,Rural Focus,,,,69.8,,,55.8,560,8.71,34.7
+,,Kenyaoil,Kenya,Turkana,,,,Kangatotha,3.23069,35.91222,,1.6,,,1/1/1999,Rural Focus,,,,,,,,270,8.8,33.7
+,,Kepurelado,Kenya,Turkana,,,,,2.80936,35.27847,,,,y,,Rural Focus,,,,,,,,1240,8.25,32.9
+,,Kerio,Kenya,Turkana,,,,,3.04727,35.93995,,,100,,1/1/1987,Rural Focus,,,,50,,,,750,9.48,34.9
+,,Kerio,Kenya,Turkana,,,,Kerio,3.00941,36.02898,,,,,,Rural Focus,,,,,,,,,,
+,,Kerio Old,Kenya,Turkana,,,,,3.00179,36.08113,,,,,,Rural Focus,,,,,,,,,,
+,C6562,Kerio River Bank 2,Kenya,Turkana,,,,Kerio,2.9069,36.1708,,0.78,30,,11/18/1986,Rural Focus,,,,16,,,8.8,,,
+,,Kerio Stadium,Kenya,Turkana,,,,,3.00399,36.06137,,,,,,Rural Focus,,,,,,,,750,9.48,34.9
+,C6559,Kerio Village,Kenya,Turkana,,,,Kerio,2.9361,36.1208,,3.78,19,,11/5/1986,Rural Focus,,,,14,,,6,,,
+,,KI Drilling Yard,Kenya,Turkana,,,,Lokichogio,4.20785,34.36791,,8,60,,,Rural Focus,,,,,,,13.95,960,7.57,34.5
+,,Kibet (Muruangitak),Kenya,Turkana,,,,Songot,4.12121,34.44946,,,,,1/1/2000,Rural Focus,,,,,,,,1610,7.8,34.8
+,,Kibish,Kenya,Turkana,,,,Kibish,5.28547,35.8298,,,,,1/1/2011,Rural Focus,,,,,,,,,,
+,,Kibish,Kenya,Turkana,,,,Kibish,5.28986,35.82751,,,,,1/1/2011,Rural Focus,,,,,,,,,,
+,,Kibish Mission,Kenya,Turkana,,,,Kibish,5.2905,35.8233,,,78,,1/1/2008,Rural Focus,,,,,,,,3120,7.8,38.2
+,C6583,Kibish Police Post,Kenya,Turkana,,,,Kibish,5.28619,35.82907,,7.2,75,,10/16/1987,Rural Focus,,,,48,55,,42.27,,,
+,,Kiengómo 1 Bh,Kenya,Turkana,,,,Kalapata,2.3616,35.80988,,7.4,,,1/1/2013,Rural Focus,,,,,,,,3500,8.35,36.6
+,,Kiengómo 2 Bh,Kenya,Turkana,,,,Kalapata,2.35629,35.81264,,,,,1/1/2013,Rural Focus,,,,,,,,1990,7.96,36.8
+,,Kikiauna,Kenya,Turkana,,,,Kalobeyei,3.76666,34.62803,,,60,,1/1/2014,Rural Focus,,,,,,,22,1230,7.57,34.2
+,,Kimabur,Kenya,Turkana,,,,Lochwangamatak,2.81806,35.62776,,,,,,Rural Focus,,,,,,,,,,
+,C6558,Kimabur Microwave,Kenya,Turkana,,,,Kimabur,2.75556,35.65833,,3.79,80,,10/23/1986,Rural Focus,,,,56,,,48.7,,,
+,,Kimaburi,Kenya,Turkana,,,,,2.81814,35.62773,,,,,1/1/2009,Rural Focus,,,,,,,,970,7.21,35.5
+,,Kobosan,Kenya,Turkana,,,,Riokomor,4.0229,35.0229,,,,,1/1/2010,Rural Focus,,,,,,,,1540,7.67,33.4
+,,Kodopa,Kenya,Turkana,,,,Kodopa,2.97049,35.47214,,6,65,,6/5/2009,Rural Focus,,,,23,60,,18.06,,,
+,,Kokiselei,Kenya,Turkana,,,,Riokomor,4.04107,35.67094,,,,,,Rural Focus,,,,,,,,1180,7.28,34.7
+,,Kokurio,Kenya,Turkana,,,,Loritit,3.35733,34.7218,,5.07,78,,2/22/2014,Rural Focus,,,,55,,,47,970,8.09,37.8
+,,Kokuro,Kenya,Turkana,,,,Kokuro,4.66713,35.71706,,,27,,1/1/2014,Rural Focus,,,,,,,,2310,8.56,34.9
+,,Kokuro II,Kenya,Turkana,,,,Kokuro,4.66753,35.71117,,,,,1/1/1987,Rural Focus,,,,,,,,,,
+,,Komudei,Kenya,Turkana,,,,Kakuma,3.69164,34.93451,,1.8,72,,1/1/2005,Rural Focus,,,,,,,,880,7.36,36.2
+,,Koono,Kenya,Turkana,,,,Koono,2.80424,35.40127,,,,,1/1/2014,Rural Focus,,,,,,,,1000,7.55,34.9
+,,Kopotia 2,Kenya,Turkana,,,,Kopotia,4.40127,35.52359,,,,,1/1/2010,Rural Focus,,,,,,,,640,7.95,33.7
+,,Kopotia Borehole,Kenya,Turkana,,,,Yapakuno,4.38062,35.49677,,1.02,,,1/1/1984,Rural Focus,,,,,,,,2600,7.44,34.1
+,,Koriabok,Kenya,Turkana,,,,,3.44956,35.20684,,1.7,,,,Rural Focus,,,,,,,,1170,7.77,35.2
+,,Korinyang Mixed Pri,Kenya,Turkana,,,,Lopur,2.23431,35.43903,,,,,1/1/2010,Rural Focus,,,,,,,,2310,8.04,34
+,,Kosiaye,Kenya,Turkana,,,,Kapua,3.42915,35.6547,,,100,,,Rural Focus,,,,,,,,,,
+,,Kosikiria,Kenya,Turkana,,,,,2.92101,35.9596,,,,,1/1/2005,Rural Focus,,,,,,,,660,8.91,34
+,,Kosiyae,Kenya,Turkana,,,,,3.43358,35.6593,,,,Y,1/1/2013,Rural Focus,,,,,,,,3999,7.62,34.4
+,,Kosiyae,Kenya,Turkana,,,,,3.43365,35.65928,,,135,,,Rural Focus,,,,,,,,,,
+,,Kotela,Kenya,Turkana,,,,Kotela,2.76553,35.36694,,15,72,,1/1/2012,Rural Focus,,,,32,,,12,16060,7.59,33.4
+,,Kotela,Kenya,Turkana,,,,,2.77118,35.37377,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,C5580,Kotubaei,Kenya,Turkana,,,,,3.8917,34.5319,,,65,,1/27/1983,Rural Focus,,,,,,,,,,
+,C5581,Kotubaei 2,Kenya,Turkana,,,,,3.8861,34.5417,,,65,,2/4/1983,Rural Focus,,,,35,,,,,,
+,,Koyasa,Kenya,Turkana,,,,Koyasa,4.9694,35.4865,,,67,,1/1/2011,Rural Focus,,,,,,,,670,8.32,34.1
+,C6585,Koyasa Borehore,Kenya,Turkana,,,,Naita,4.97317,35.48637,,1.8,,,1/1/1999,Rural Focus,,,,,,,,,,
+,C6584,Koyassa Springs 1,Kenya,Turkana,,,,Koyassa,4.94528,35.43833,,,20,,10/23/1987,Rural Focus,,,,2,,,2,,,
+,C6585,Koyassa Springs 2,Kenya,Turkana,,,,Koyassa,4.9453,35.4383,,2.12,15,,10/26/1987,Rural Focus,,,,6,8,,2.12,,,
+,C7436,L. T. Fisheries,Kenya,Turkana,,,,Kalokol,3.31417,35.97444,,18,32,,11/30/1987,Rural Focus,,,,5.5,23,,4.32,,,
+,C7437,L. T. Fisheries,Kenya,Turkana,,,,Kalokol,3.31417,35.96666,,18,30.5,,11/30/1987,Rural Focus,,,,4,17,,4.35,,,
+,C7440,L. T. Fisheries,Kenya,Turkana,,,,Kalokol,3.31944,35.9525,,1,30,,11/30/1987,Rural Focus,,,,6,16,,3.91,,,
+,C7443,L. T. Fisheries,Kenya,Turkana,,,,Kalokol,3.31944,35.97083,,18,32,,11/30/1987,Rural Focus,,,,4,15,,3.96,,,
+,C7442,L. T. Fisheries,Kenya,Turkana,,,,Kalokol,3.31944,35.95833,,18,30.5,,11/30/1987,Rural Focus,,,,6,14,,4.12,,,
+,C7438,L. T. Fisheries,Kenya,Turkana,,,,Kalokol,3.31417,35.95889,,18,30,,11/30/1987,Rural Focus,,,,5,14,,4.13,,,
+,C7439,L. T. Fisheries,Kenya,Turkana,,,,Kalokol,3.31389,35.95278,,18,30,,11/30/1987,Rural Focus,,,,6,,,3.91,,,
+,C7441,L. T. Fisheries,Kenya,Turkana,,,,Kalokol,3.31944,35.95833,,18,30,,11/30/1987,Rural Focus,,,,5.5,,,3.95,,,
+,C7676,Letea I,Kenya,Turkana,,,,Letea,3.65833,34.85722,,,90,,1/23/1989,Rural Focus,,,,,,,,,,
+,,"Limyosing Good People
+Sch",Kenya,Turkana,,,,Napeikar,3.00313,35.51195,,3.2,,,1/1/1998,Rural Focus,,,,,,,,1560,8.06,36.8
+,C10918,Link Hotel,Kenya,Turkana,,,,Lokichoggio Town,4.21014,34.34847,,3.9,70,,6/22/1994,Rural Focus,,,,24,40,43,15,690,7.76,29.8
+,C10918,Link-Compound,Kenya,Turkana,,,,Lokichoggio,4.21277,34.34761,,3.9,,,1/1/1994,Rural Focus,,,,,,,,,,
+,,Liwan,Kenya,Turkana,,,,,4.90424,35.65421,,,,,,Rural Focus,,,,,,,,,,
+,,Loalani,Kenya,Turkana,,,,Riokomor,3.9675,35.71319,,,,,1/1/2013,Rural Focus,,,,,,,,,,
+,,Loarengak Water Supply,Kenya,Turkana,,,,Ngissinger,4.27532,35.81766,,,,,1/1/1969,Rural Focus,,,,,,,,,,
+,,Lobakach,Kenya,Turkana,,,,Lopusiki,3.92303,34.78352,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,,Lobangá,Kenya,Turkana,,,,Lopusiki,3.89395,34.81921,,,,,1/1/2009,Rural Focus,,,,,,,,1460,8.67,33.5
+,,Lobei,Kenya,Turkana,,,,Lobei,2.81327,35.08562,,,50,,1/1/2006,Rural Focus,,,,,,,15.72,1970,8.34,33.5
+,C6543,Lobei,Kenya,Turkana,,,,Lobei,2.73222,35.21417,,3.36,44,,7/14/1986,Rural Focus,,,,37,,,28.8,730,8.51,34.8
+,,Lobei,Kenya,Turkana,,,,,2.73905,35.11115,,,,,1/1/2007,Rural Focus,,,,,,,5.37,,,
+,,Lobulono,Kenya,Turkana,,,,,4.83429,35.37325,,,,,,Rural Focus,,,,,,,,690,8.28,28.8
+,,Lobur,Kenya,Turkana,,,,Lobur,4.70202,35.67244,,,,,1/1/2013,Rural Focus,,,,,,,,1420,7.4,37.3
+,,Lobur,Kenya,Turkana,,,,Lobur,4.71715,35.67788,,,,,,Rural Focus,,,,,,,,,,
+,,Lobur Borehole,Kenya,Turkana,,,,Kokuro,4.7195,35.66996,,,113,,1/1/2005,Rural Focus,,,,,,,,2070,7.52,38.8
+,,Lobur Community Bh,Kenya,Turkana,,,,Lobur,4.72044,35.6795,,,,,,Rural Focus,,,,,,,,2970,8.85,36.7
+,,Lobur Community Bh,Kenya,Turkana,,,,Lobur,4.7163,35.6782,,,60,,1/1/2013,Rural Focus,,,,,,,,7200,8.91,37
+,,Lobur Mission,Kenya,Turkana,,,,Lobur,4.71685,35.66962,,,112,,,Rural Focus,,,,,,,,1180,7.21,38.3
+,,Lobur Mission,Kenya,Turkana,,,,Lobur,4.71617,35.66953,,,99,,,Rural Focus,,,,,,,,,,
+,C11402,Local Adminst.,Kenya,Turkana,,,,Kibish,5.28208,35.8189,,,80,,10/24/1995,Rural Focus,,,,72,,,62,3200,8,32.8
+,,Locharengan,Kenya,Turkana,,,,,3.64367,35.65077,,,,Y,1/1/2011,Rural Focus,,,,,,,,830,7.48,35
+,,Locher Ekingol Bh2,Kenya,Turkana,,,,Kalobeyei,3.81228,34.35369,,,,,1/1/2001,Rural Focus,,,,,,,,740,7.44,30.5
+,,Locherarengan,Kenya,Turkana,,,,,2.7953,35.2532,,,,,1/1/2013,Rural Focus,,,,,,,,760,7.81,34.4
+,C5601,Locherekal  Bh1,Kenya,Turkana,,,,Lokichoggio,4.21216,34.35781,,0.8,,,1/1/1983,Rural Focus,,,,,,,,1050,7.81,33.4
+,,Locherekingol BH1,Kenya,Turkana,,,,Kalobeyei,3.81177,34.35541,,7.5,,,1/1/2001,Rural Focus,,,,,,,21.66,430,8.46,27.2
+,,Locheresekon,Kenya,Turkana,,,,Kalobeyei,3.82195,34.59424,,,,,1/1/2005,Rural Focus,,,,,,,,1090,7.73,31.6
+,,Lochodo,Kenya,Turkana,,,,,3.04482,35.47296,,,,,,Rural Focus,,,,,,,,,,
+,C4361,Lochor Angamor,Kenya,Turkana,,,,Mogila,4.18596,34.42115,,6.8,,,1/1/1977,Rural Focus,,,,,,,,,,
+,,Lochor Angitetelei,Kenya,Turkana,,,,Lokichogio,3.52214,34.76654,,,,,,Rural Focus,,,,,,,,1600,7.85,30.1
+,,Lochore Amoru,Kenya,Turkana,,,,Lokichogio,4.17945,34.3105,,,,,,Rural Focus,,,,,,,,,,
+,,Lochore Edome,Kenya,Turkana,,,,Kakuma,3.77803,34.83427,,,,,1/1/2011,Rural Focus,,,,,,,,420,8.78,30.4
+,,Lochore Edome,Kenya,Turkana,,,,Kakuma,3.7915,34.83501,,,,,,Rural Focus,,,,,,,,,,
+,C5664,Lochore Lupe,Kenya,Turkana,,,,,4.2333,35.6667,,4,110,dry,12/15/1984,Rural Focus,,,,,,,,,,
+,,Lochoredome,Kenya,Turkana,,,,Lokichar,2.34361,35.66106,,7,65,,10/6/2014,Rural Focus,,,,50,,,28,,,
+,C1085,Lochoredome Borehole,Kenya,Turkana,,,,Lokitaung,4.26401,35.67037,,,100,,1/1/2011,Rural Focus,,,,,,,,600,8.09,32.1
+,,Lochorekope,Kenya,Turkana,,,,Lochore,3.67778,35.67778,,,48,,1/1/2008,Rural Focus,,,,,,,29.62,,,
+,,Lochoreodot,Kenya,Turkana,,,,,2.80365,35.2428,,,,,1/1/2013,Rural Focus,,,,,,,,1000,7.86,33.5
+,C6556,Lochorerang,Kenya,Turkana,,,,Lochore Rangan,2.11944,35.63611,,1.2,60,,10/17/1986,Rural Focus,,,,30,,,19.89,,,
+,,Lochwa BH,Kenya,Turkana,,,,Lochwangamatak,2.61232,35.65285,,0.72,,,1/1/2008,Rural Focus,,,,,,,,1610,9.21,35
+,,Lochwa Catholic BH,Kenya,Turkana,,,,Lochwangamatak,2.61195,35.02145,,1.8,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Lochwarengan,Kenya,Turkana,,,,Lokitaung,4.39196,35.72741,,,,,,Rural Focus,,,,,,,,,,
+,,Lochwarengan,Kenya,Turkana,,,,,4.39106,35.72593,,,,,,Rural Focus,,,,,,,,1920,7.45,32.8
+,C5599,Locor Angilesiroi,Kenya,Turkana,,,,,3.8833,34.9667,,,90,,9/22/1983,Rural Focus,,,,,,,,,,
+,C5853,Locoriarengah,Kenya,Turkana,,,,,2.3028,35.4708,,0.06,55,,9/17/1985,Rural Focus,,,,31,40,,15,,,
+,C5587,Lodwa Sec. 2,Kenya,Turkana,,,,Lodwar,3.1233,35.6092,,2.82,30,,6/10/1983,Rural Focus,,,,21,,,,,,
+,,Lodwar High,Kenya,Turkana,,,,Lodwar Town,3.13222,35.6043,,,,,1/1/1997,Rural Focus,,,,,,,,,,
+,C5640,Lodwar Hosp,Kenya,Turkana,,,,,3.1167,35.6167,,7.74,23,,6/29/1984,Rural Focus,,,,14,,,6,,,
+,C5840,Lodwar Kanamkemer,Kenya,Turkana,,,,,3.1167,35.5958,,11.4,36,,6/8/1985,Rural Focus,,,,21,29,,8.5,,,
+,C5658,Lodwar Kcb Bank,Kenya,Turkana,,,,,3.1222,35.5917,,12.6,21,,10/31/1984,Rural Focus,,,,,,,10.33,,,
+,C5657,Lodwar Mission,Kenya,Turkana,,,,,3.1208,35.5933,,12.6,18,,10/26/1984,Rural Focus,,,,,,,10.33,,,
+,C5569,Lodwar Sec,Kenya,Turkana,,,,Lodwar,3.1194,35.6153,,,60,,11/17/1982,Rural Focus,,,,46,,,,,,
+,C5638,Lodwar Sec Schol,Kenya,Turkana,,,,,3.21273,35.61119,,9.96,17,,5/25/1984,Rural Focus,,,,13,,,2.9,,,
+,C5568,Lodwar Town,Kenya,Turkana,,,,Lodwar,3.0625,35.6242,,0.4,130,,11/11/1982,Rural Focus,,,,8,90,105,14.2,,,
+,C5837,Lodwar Town #2,Kenya,Turkana,,,,,3.1014,35.6278,,2.7,20,,5/23/1985,Rural Focus,,,,10,,,4.5,,,
+,C5838,Lodwar Town #3,Kenya,Turkana,,,,,3.1028,35.6278,,,30,abandoned,5/28/1985,Rural Focus,,,,16,,,,,,
+,C5839,Lodwar Town #4,Kenya,Turkana,,,,,3.1117,35.6278,,1.32,46,,6/5/1985,Rural Focus,,,,21,,,7,,,
+,,Lodwar Water Supply B/H 001,Kenya,Turkana,,,,Lodwar Town,3.11555,35.5977,,80,,,1/1/1984,Rural Focus,,,,,,,,,,
+,,Lodwar Water Supply No. 2,Kenya,Turkana,,,,Lodwar Town,3.11347,35.59194,,64,,,1/1/1985,Rural Focus,,,,,,,,,,
+,,Lodwar Water Supply No. 4,Kenya,Turkana,,,,Lodwar Town,3.11648,35.50874,,20,,,1/1/2001,Rural Focus,,,,,,,,,,
+,,Lodwar Water Supply No.3,Kenya,Turkana,,,,Lodwar Town,3.11605,35.59975,,96.12,,,1/1/1985,Rural Focus,,,,,,,,,,
+,C5637,Lodwar Zwagstra,Kenya,Turkana,,,,,3.1111,35.5889,,12,17.5,,5/17/1984,Rural Focus,,,,6,,,5,,,
+,,Loima Girls,Kenya,Turkana,,,,,2.91032,35.35688,,,,,1/1/2014,Rural Focus,,,,,,,,1130,7.94,36.6
+,,Loitakelae,Kenya,Turkana,,,,Kanakurdio,3.8375,35.50363,,,,,,Rural Focus,,,,,,,13.9,1660,8.9,38.3
+,,Loitanit,Kenya,Turkana,,,,Loitanit,4.76792,35.40723,,,,,1/1/2011,Rural Focus,,,,,,,,560,7.42,29.1
+,C5828,Loitanit,Kenya,Turkana,,,,,4.7611,35.4083,,,90,DRY,2/16/1985,Rural Focus,,,,,,,,,,
+,C5633,Loitanit,Kenya,Turkana,,,,,4.7736,35.4556,,,90,,3/18/1984,Rural Focus,,,,,,,,,,
+,C5634,Loitanit 2,Kenya,Turkana,,,,,4.7739,35.4553,,,90,no water,3/19/1984,Rural Focus,,,,,,,,,,
+,,Loitanit Borehole,Kenya,Turkana,,,,Kaikor,4.78994,35.38861,,,,,1/1/2000,Rural Focus,,,,,,,,,,
+,C5844,Lojamei,Kenya,Turkana,,,,Lokichar,3.1208,35.6278,,,48,,7/13/1985,Rural Focus,,,,,,,,,,
+,C5604,Lokabuku,Kenya,Turkana,,,,,3.6667,34.6167,,,80,,10/18/1983,Rural Focus,,,,,,,,,,
+,C5851,Lokaburu,Kenya,Turkana,,,,,2.6167,35.5167,,15.96,40,,8/7/1985,Rural Focus,,,,22,23,,10.8,,,
+,,Lokaburu,Kenya,Turkana,,,,Lokichar,2.40358,35.55238,,,,,,Rural Focus,,,,,,,,,,
+,,Lokadwaran,Kenya,Turkana,,,,Kanamkemer,2.98707,35.64896,,,,,,Rural Focus,,,,,,,,6040,6.78,36.1
+,,Lokalimon,Kenya,Turkana,,,,,3.14444,35.67243,,,,,,Rural Focus,,,,,,,,940,8.36,30.1
+,,Lokangae,Kenya,Turkana,,,,Lokangae,4.10632,34.88563,,13,90,,,Rural Focus,,,,,,,28.52,,,
+,,Lokangae Natir,Kenya,Turkana,,,,Lokangae,4.06767,34.8781,,1.3,,,,Rural Focus,,,,,,,,,,
+,,Lokangae Pri Sch,Kenya,Turkana,,,,Lokangae,4.05938,34.86544,,,41.64,,,Rural Focus,,,,,,,15.9,,,
+,,Lokangai,Kenya,Turkana,,,,Lokangai,4.0947,34.8862,,,110,,1/24/2012,Rural Focus,,,,,,,,,,
+,C5585,Lokankaei,Kenya,Turkana,,,,,4.1167,34.8944,,,150,,3/23/1983,Rural Focus,,,,,,,,,,
+,,Lokapel,Kenya,Turkana,,,,Lokapel,2.36279,35.43068,,2,60,,1/1/2009,Rural Focus,,,,,,,,770,7.61,34.9
+,C5603,Lokhabuku,Kenya,Turkana,,,,,3.6681,34.6167,,,40,,10/17/1983,Rural Focus,,,,,,,,,,
+,C5836,Lokichar,Kenya,Turkana,,,,,2.3625,35.6583,,0.24,80,,4/3/1985,Rural Focus,,,,8,,,7,,,
+,,Lokichar BH,Kenya,Turkana,,,,Lokichar,2.38245,35.65365,,,,,1/1/1970,Rural Focus,,,,,,,,1070,8.28,32.7
+,,Lokichar Check Point BH,Kenya,Turkana,,,,Lokichar,2.38347,35.64369,,6.7,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Lokichar East (Tullow),Kenya,Turkana,,,,Nakukulas,2.30762,35.82215,,13.7,60,,1/1/2014,Rural Focus,,,,,,,9,770,8.13,35.5
+,,Lokichar Girls BH,Kenya,Turkana,,,,Lokichar,2.37581,35.65422,,,,,1/1/2002,Rural Focus,,,,,,,,1930,8.02,32.3
+,C8432,Lokichar Ii,Kenya,Turkana,,,,Kakuma,3.61333,35.16333,,,75,,3/20/1989,Rural Focus,,,,,,,,,,
+,C3633,Lokichar Mission,Kenya,Turkana,,,,Lokichar 2,2.37795,35.65179,,2.27,31.3,,12/17/2069,Rural Focus,,,,21.6,,,6.7,1570,8.26,29.8
+,,Lokichar Mixed BH,Kenya,Turkana,,,,Lokichar,2.38541,35.65193,,,,,1/1/1970,Rural Focus,,,,,,,,440,8.45,31.8
+,C3632,Lokichar Village,Kenya,Turkana,,,,Lokichar 1,2.38361,35.654499,,5,35.9,,9/19/2069,Rural Focus,,,,31,,,9,1090,8.32,28.5
+,,Lokicheda,Kenya,Turkana,,,,Lokicheda,2.30409,35.81887,,,,,,Rural Focus,,,,,,,,,,
+,,"Lokichogio Power
+Stations",Kenya,Turkana,,,,Lokichogio,4.1608,34.38859,,,,,1/1/2012,Rural Focus,,,,,,,59.44,940,7.79,28.7
+,,Lokichogio Water Service Providers,Kenya,Turkana,,,,Lokichogio,4.20618,34.34336,,,,,,Rural Focus,,,,,,,,,,
+,,Lokidingós,Kenya,Turkana,,,,Kanamkemer,3.07212,35.57049,,,,,1/1/2014,Rural Focus,,,,,,,,1340,8.11,35
+,C6586,Lokimorinyang,Kenya,Turkana,,,,Lokimorinyang,5.04028,35.64417,,,90,,11/10/1987,Rural Focus,,,,,,,,,,
+,,Lokindongo Borehole,Kenya,Turkana,,,,Kaikor,4.43246,35.53576,,,,,1/1/1985,Rural Focus,,,,,,,,,,
+,,Lokipetotakwaan,Kenya,Turkana,,,,Kakuma,3.80677,34.97725,,1.4,,,1/1/2011,Rural Focus,,,,,,,,720,7.59,32.8
+,,Lokipetotarengan,Kenya,Turkana,,,,,2.61203,35.35275,,,,,,Rural Focus,,,,,,,12.98,,,
+,,Lokipoto,Kenya,Turkana,,,,Lokichogio,3.17093,34.6675,,,,,,Rural Focus,,,,,,,,,,
+,,Lokiriama,Kenya,Turkana,,,,,2.75674,34.87761,,,76,,1/1/2011,Rural Focus,,,,34,,,,2190,7.64,34.1
+,C6544,Lokiriama Bh,Kenya,Turkana,,,,Lokiriama,2.75424,34.87286,,0.72,,,,Rural Focus,,,,,,,,,,
+,,"Lokiriama Water Users
+Ass",Kenya,Turkana,,,,Urum,2.94427,34.69925,,9,70,,8/3/2014,Rural Focus,,,,43,,,15,1190,8.41,32.2
+,,Lokiriemet,Kenya,Turkana,,,,Lorengippi,2.62051,35.0652,,6,78,,6/18/2014,Rural Focus,,,,26,,,16.32,,,
+,C7642,Lokitaung,Kenya,Turkana,,,,Lokitaung,4.27222,35.76333,,,8,Abandoned,1/24/1988,Rural Focus,,,,,,,,,,
+,,Lokitaung Borehole,Kenya,Turkana,,,,Lokitaung,4.27326,35.74567,,,,,1/1/1980,Rural Focus,,,,,,,,1480,8.11,31.7
+,,Lokitaung Hospital,Kenya,Turkana,,,,Lokitaung,4.26025,35.75369,,,100,,4/3/2012,Rural Focus,,,,42,76,,28,,,
+,C5830,Lokitaung Mission 2,Kenya,Turkana,,,,Lokitaung,4.32597,35.71786,,,25,"INSUFFICIENT
+WATER",3/6/1985,Rural Focus,,,,18,,,9,1720,9.44,25.5
+,,Lokitaung Parish - Kangarukia,Kenya,Turkana,,,,Kangarukia,4.1623,35.73916,,,80,DRY,6/1/2009,Rural Focus,,,,,,,,,,
+,,Lokitaung Parish - Natoo,Kenya,Turkana,,,,Natoo,4.2143,35.76163,,4.5,50,,6/19/2009,Rural Focus,,,,21,34,,9.68,960,7.33,32.7
+,C6551,Lokituang Secondary Borehole,Kenya,Turkana,,,,Lokitaung,4.27396,35.74746,,,,,1/1/1986,Rural Focus,,,,,,,,,,
+,C7652,Lokodakumor,Kenya,Turkana,,,,Kaleng,4.28861,35.10917,,2.4,60,,3/8/1988,Rural Focus,,,,36,60,,26,,,
+,,Lokodule,Kenya,Turkana,,,,Songot,4.01714,34.54478,,,,,1/1/2014,Rural Focus,,,,,,,0,,,
+,,Lokomarinyang,Kenya,Turkana,,,,Lokomarinyang,5.01267,35.59568,,,46.04,,,Rural Focus,,,,,,,,1280,7.45,34.3
+,,Lokoparaparae,Kenya,Turkana,,,,Lokoparaparae,3.16221,35.59641,,0.1,,,1/1/2012,Rural Focus,,,,,,,,350,8.4,33.5
+,C6570,Lokore River,Kenya,Turkana,,,,Kakuma,3.67333,35.01667,,3,110,,3/14/1987,Rural Focus,,,,65,70,,28.79,,,
+,C5872,Lokori 1,Kenya,Turkana,,,,,1.9542,36.0444,,12,35,,3/1/1986,Rural Focus,,,,23,,,30,1110,8.18,35.4
+,,Lokori AIC Health Centre,Kenya,Turkana,,,,Lokori,1.94545,36.0314,,0.9,27,,,Rural Focus,,,,,,,,300,8.53,34.6
+,,Lokori Catholic BH,Kenya,Turkana,,,,Lokori,1.93892,36.02434,,,,,1/1/1995,Rural Focus,,,,,,,,,,
+,,Lokori Kalokume,Kenya,Turkana,,,,Lokori,1.95717,36.04323,,,,,1/1/2013,Rural Focus,,,,,,,,,,
+,,Lokori Water Supply,Kenya,Turkana,,,,Lokori,1.95703,36.0202,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Lokori Water Supply,Kenya,Turkana,,,,Lokori,1.95984,36.04456,,,,Y,,Rural Focus,,,,,,,,1110,8.18,35.4
+,C5870,Lokosimekori,Kenya,Turkana,,,,,2.1667,35.7833,,,65,,3/6/1986,Rural Focus,,,,,,,,,,
+,,Lokosimekori BH,Kenya,Turkana,,,,Kochodin,2.13311,35.77408,,,,,1/1/1988,Rural Focus,,,,,,,,,,
+,C8438,Lokosimlokori,Kenya,Turkana,,,,Lokori,2.50417,35.58611,,,100,,7/7/1989,Rural Focus,,,,,,,,,,
+,,Lokoyo,Kenya,Turkana,,,,,3.17828,35.47861,,,,,1/1/1999,Rural Focus,,,,,,,,,,
+,C5078,Lokumo,Kenya,Turkana,,,,Kalobeyei,3.77574,34.6201,,,,,1/1/1982,Rural Focus,,,,,,,,,,
+,,Lokungkung Borehole,Kenya,Turkana,,,,Yapakuno,4.3086,35.59604,,1.8,,,1/1/2001,Rural Focus,,,,,,,,,,
+,,Lokwabok,Kenya,Turkana,,,,Elelea,2.11365,36.16538,,,17.51,,1/1/2011,Rural Focus,,,,,,,4.15,670,7.61,30.1
+,,Lokwakel,Kenya,Turkana,,,,Milimatatu,4.14978,35.33605,,2,96,,3/21/2014,Rural Focus,,,,48,,,28,,,
+,,Lokwamosang Comm W.P Lopii,Kenya,Turkana,,,,Lokwamosang,2.00184,35.92987,,6,110,,9/16/2011,Rural Focus,,,,40,52,90,14.6,1160,8,35.4
+,,Lokwamosing BH,Kenya,Turkana,,,,Lochakula,1.99368,35.93631,,,,,1/1/1984,Rural Focus,,,,,,,,,,
+,C7651,Lokwii,Kenya,Turkana,,,,Kaleng,4.29778,35.17028,,,75,dry,3/4/1988,Rural Focus,,,,,,,,,,
+,,Lokwii Kariobangi Bh,Kenya,Turkana,,,,Lotubae,1.98605,36.10886,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Lokwii Ngiriito Bh,Kenya,Turkana,,,,Lotubae,1.97466,36.09522,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Lokwii Tree Nursery BH,Kenya,Turkana,,,,Lotubae,1.97445,36.08058,,,6.3,,,Rural Focus,,,,,,,,280,7.92,30.4
+,,Lolemoe,Kenya,Turkana,,,,Kalobeyei,3.99587,34.54467,,1.67,,,,Rural Focus,,,,,,,,,,
+,C5583,Lolemu,Kenya,Turkana,,,,Loreng,3.5654,34.69245,,6.78,76,,1/1/1983,Rural Focus,,,,68,,,13,1380,8.03,35.1
+,,Lolupe,Kenya,Turkana,,,,Nakalale,3.52719,35.24359,,,,,1/1/2013,Rural Focus,,,,,,,,1670,7.33,34.1
+,,Lolupe,Kenya,Turkana,,,,Nakalale,3.53651,35.24268,,1.7,,,1/1/2013,Rural Focus,,,,,,,,1230,7.78,34.4
+,,Lolupe,Kenya,Turkana,,,,Lochwaangikamatak,2.59787,35.64545,,1,95,,2/6/2014,Rural Focus,,,,85,,,23.5,,,
+,,Lolupe,Kenya,Turkana,,,,Nakalale,3.53478,35.24318,,20,,,1/1/2003,Rural Focus,,,,,,,,,,
+,C6539,Lolupe,Kenya,Turkana,,,,Lolupe,2.8958,35.2194,,,40,,6/19/1986,Rural Focus,,,,,,,,,,
+,,Lolupe,Kenya,Turkana,,,,Nakalale,3.53471,35.24313,,,100,,,Rural Focus,,,,,,,,,,
+,C5596,Lomanimani,Kenya,Turkana,,,,,3.8865,34.60784,,14,105,,9/13/1983,Rural Focus,,,,46.5,,,42,,,
+,C5579,Lomanymang,Kenya,Turkana,,,,,3.8917,34.6333,,,23,,1/25/1983,Rural Focus,,,,,,,,,,
+,,Lomareng,Kenya,Turkana,,,,Kachoda,4.29722,35.66336,,1.8,100,,,Rural Focus,,,,,,,,1110,8.7,30
+,,Lomeguro,Kenya,Turkana,,,,Nakalale,3.50307,35.23821,,,,,1/1/2011,Rural Focus,,,,,,,,740,7.29,33.8
+,,Lomeguro,Kenya,Turkana,,,,Lolupe,3.51713,35.21796,,,90,,1/1/2012,Rural Focus,,,,,,,,,,
+,,Lomekwi,Kenya,Turkana,,,,Lomekwi,3.93287,35.83978,,0.8,,,1/1/2013,Rural Focus,,,,,,,,1080,8.99,35.9
+,C7664,Lomekwi,Kenya,Turkana,,,,Kataboi,3.8864,35.8092,,,90,Dry,7/15/1988,Rural Focus,,,,,,,,,,
+,,Lomeleku,Kenya,Turkana,,,,Loperot,2.36755,35.96811,,,,,1/1/2006,Rural Focus,,,,,,,,2270,7.73,35.6
+,C5856,Lomeleku,Kenya,Turkana,,,,Lomeleku,2.00167,36.00861,,,65,,10/11/1985,Rural Focus,,,,,,,,,,
+,,Lomeleku,Kenya,Turkana,,,,Loperot,2.36394,35.95848,,,,,,Rural Focus,,,,,,,,,,
+,C11095,Lomelo Catholic,Kenya,Turkana,,,,Lomelo Centre,1.39476,36.19643,,5.4,50,,7/22/1995,Rural Focus,,,,21,30,,4.8,,,
+,C6548,Lomelo Centre,Kenya,Turkana,,,,Lomelo,1.38831,36.19701,,10.2,30,,8/27/1986,Rural Focus,,,,17,24,,11.5,,,
+,C5865,Lomerpus (Jiluk) Bh,Kenya,Turkana,,,,Kaputir,2.16298,35.41192,,2.4,24,,,Rural Focus,,,,14,,,10,480,8.26,30.5
+,C10653,Lomesekin,Kenya,Turkana,,,,Lokichoggio,4.21067,34.35156,,5.4,,,1/1/1993,Rural Focus,,,,,,,,,,
+,,Lomeyana Logiala,Kenya,Turkana,,,,Lokichogio,3.32666,34.68462,,,,,,Rural Focus,,,,,,,,1270,7.67,32.3
+,,Lomidat,Kenya,Turkana,,,,Lomidat,4.17376,34.41156,,,37,,11/19/2007,Rural Focus,,,,26,28,,22.8,1490,8.44,29
+,,Lomidat BH1,Kenya,Turkana,,,,Mogila,4.17643,34.41079,,3.5,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Lomidat BH2,Kenya,Turkana,,,,Mogila,4.17889,34.41056,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Lomil,Kenya,Turkana,,,,Lomeiyan,3.34102,35.23409,,,,,1/1/2007,Rural Focus,,,,,,,,730,8.11,33.5
+,,Lomilo,Kenya,Turkana,,,,Lomilo,3.36647,35.44523,,,,,1/1/2011,Rural Focus,,,,,,,,,,
+,,Lomilo Primary,Kenya,Turkana,,,,,2.77851,35.13877,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,,Lominyana Kirionok,Kenya,Turkana,,,,Lokichogio,4.93385,34.56121,,,,,,Rural Focus,,,,,,,,1220,8.13,26.2
+,,Lomnyenakwan,Kenya,Turkana,,,,Parkati,2.50091,36.22675,,,,y,1/1/2012,Rural Focus,,,,,,,,1530,9.14,36.6
+,,Lomnyenkirion,Kenya,Turkana,,,,,2.89269,35.94632,,,,,1/1/2006,Rural Focus,,,,,,,,1020,7.48,35.8
+,,Lomunyana Kirionok,Kenya,Turkana,,,,Lokichogio,3.94147,34.56513,,,,,1/1/2011,Rural Focus,,,,,,,,1270,7.64,33
+,,Lomunyana Kirionok Hand Pump,Kenya,Turkana,,,,Lokichogio,3.93565,34.56375,,,,,,Rural Focus,,,,,,,,850,7.73,33.2
+,C6577,Lomunyio,Kenya,Turkana,,,,Kelemunyang,2.68194,35.29083,,4.02,60,,6/25/1987,Rural Focus,,,,38,45,,20.1,,,
+,C6544,Longiriama,Kenya,Turkana,,,,Longiriama,2.8056,35.0028,,0.9,25,,7/18/1986,Rural Focus,,,,16,,,5.25,,,
+,,"Lonyoduk Community
+Borehole",Kenya,Turkana,,,,Kalobeyei,3.70863,34.6018,,,,,,Rural Focus,,,,,,,,920,8.26,29.9
+,C7680,Lopetarega,Kenya,Turkana,,,,Lopetarega,3.74944,34.60139,,1.4,40,,2/14/1989,Rural Focus,,,,15,24,,6,,,
+,,Lopiding Windmill,Kenya,Turkana,,,,Mogila,4.1967,34.38933,,,,,1/1/2000,Rural Focus,,,,,,,,,,
+,,Lopidingmoe,Kenya,Turkana,,,,Mogila,4.19453,34.39363,,1.24,,,1/1/2001,Rural Focus,,,,,,,,,,
+,C5855,Lopii,Kenya,Turkana,,,,Lopii,2.51806,35.52389,,1.2,70,,9/26/1985,Rural Focus,,,,30,50,,12.3,,,
+,,Lopii,Kenya,Turkana,,,,Lopii,2.06233,35.87305,,,,,,Rural Focus,,,,,,,,,,
+,,Lopii,Kenya,Turkana,,,,Lopii,2.07189,35.87678,,,130,DRY,6/13/2014,Rural Focus,,,,,,,,,,
+,,Lopii BH,Kenya,Turkana,,,,Kochodin,2.11381,35.90362,,,,,1/1/1988,Rural Focus,,,,,,,,,,
+,,Lopur,Kenya,Turkana,,,,Lopusiki,3.86003,34.81588,,2,,,1/1/2012,Rural Focus,,,,,,,,860,8.02,36
+,,Lopur,Kenya,Turkana,,,,Katilu,2.23778,35.44325,,1.1,,,1/1/2009,Rural Focus,,,,,,,,2080,8.68,29.7
+,C7639,Lopur,Kenya,Turkana,,,,Lopur,2.23263,35.42734,,3.6,28,,1/8/1988,Rural Focus,,,,10,,,9.95,1360,8.71,29.2
+,C7674,Lopur,Kenya,Turkana,,,,Lopur,3.8667,34.8244,,0.9,40,,1/19/1989,Rural Focus,,,,30,,,25,,,
+,,Lopur Community Bh,Kenya,Turkana,,,,Lopusiki,3.85636,34.81694,,,43,,1/1/2012,Rural Focus,,,,,,,,,,
+,,Lopwaring Borehole Kk Town,Kenya,Turkana,,,,Kakuma,3.68797,34.86688,,21,80,,1/1/2011,Rural Focus,,,,,,,15,,,
+,C8440,Loremiet,Kenya,Turkana,,,,Kalobeyei,3.61944,34.5375,,0.8,85,,7/21/1989,Rural Focus,,,,62,,,34.1,,,
+,,Loreng,Kenya,Turkana,,,,Loreng,3.50769,34.59228,,,,,1/1/1975,Rural Focus,,,,,,,,1990,8.27,34.4
+,,Loreng,Kenya,Turkana,,,,Lochwaangikamatak,2.65075,35.69981,,,115,DRY,7/4/2014,Rural Focus,,,,,,,,,,
+,,Loreng Pri Sch,Kenya,Turkana,,,,Lokichogio,3.61999,34.83289,,,,,,Rural Focus,,,,,,,,1010,7.68,33.8
+,,Lorengelup,Kenya,Turkana,,,,Lorengelup,3.04723,35.94006,,0.72,,,1/1/1997,Rural Focus,,,,,,,,1170,8.52,36
+,,Lorengelup,Kenya,Turkana,,,,Kerio,2.98496,35.84109,,,52,,,Rural Focus,,,,,,,34,6850,8.55,33.5
+,,Lorengelup,Kenya,Turkana,,,,,4.21058,35.36343,,,80,DRY,5/26/2009,Rural Focus,,,,,,,,,,
+,C6567,Lorengippi,Kenya,Turkana,,,,Lorengippi,2.56806,34.99389,,3.96,50,,1/21/1987,Rural Focus,,,,20,26,,15,,,
+,,Loriemet,Kenya,Turkana,,,,Mogila,4.19015,34.40127,,,,,1/1/2001,Rural Focus,,,,,,,,,,
+,,Lorimet,Kenya,Turkana,,,,Lokichogio,4.19053,34.4003,,,,,1/1/2013,Rural Focus,,,,,,,,1040,8.66,31.1
+,,Loritit,Kenya,Turkana,,,,Lokichogio,3.41183,34.78344,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,,Loritit Pri Sch,Kenya,Turkana,,,,Lokichogio,3.46576,34.80541,,,30,,,Rural Focus,,,,,,,,790,8.07,34.6
+,,Loroo,Kenya,Turkana,,,,Nameiyana,3.29949,35.29864,,,55,,1/1/2013,Rural Focus,,,,42,,,,1080,8.36,32.7
+,,Lorugum - AP LINE,Kenya,Turkana,,,,Lorugum,2.88772,35.25205,,,,,1/1/1980,Rural Focus,,,,,,,,,,
+,,Lorugumu Parish,Kenya,Turkana,,,,,2.89785,35.26438,,,,,,Rural Focus,,,,,,,,660,8.02,32.8
+,C5639,Lorugumu Pri,Kenya,Turkana,,,,,3.6222,35.5994,,2.34,50,"PUMP
+INSTALLED",6/1/1984,Rural Focus,,,,33,,,8.2,720,8.04,32.6
+,C8893,Lorus Angetusuroi,Kenya,Turkana,,,,Kakuma,3.86862,34.94099,,,90,,9/15/1989,Rural Focus,,,,,,,,,,
+,,Loruth Pri Sch,Kenya,Turkana,,,,Loruth,4.44377,35.35852,,,100,,1/1/2007,Rural Focus,,,,,,,38.5,,,
+,,Losaajait,Kenya,Turkana,,,,Nakalale,3.60305,35.3233,,0.9,,,1/1/1986,Rural Focus,,,,,,,,,,
+,,Losagam,Kenya,Turkana,,,,Kerio,2.94153,36.02811,,21.6,72,,8/4/2014,Rural Focus,,,,43,,,14.5,,,
+,C8446,Losike,Kenya,Turkana,,,,Losike,3.78055,34.49755,,1,40,,8/11/1989,Rural Focus,,,,30,,,8.1,1750,7.36,30.6
+,,Lotikipi Rvwsb,Kenya,Turkana,,,,Lotikipi,4.3353,34.69387,,41.4,350,,1/1/2014,Rural Focus,,,,178,254,,87,9060,7.96,40.7
+,,Lotikipi Unesco,Kenya,Turkana,,,,Lotikipi,4.33566,34.69382,,,,,,Rural Focus,,,,,,,,,,
+,,Lotubae,Kenya,Turkana,,,,Lotubae,2.03009,36.13758,,1.3,,,1/1/2013,Rural Focus,,,,,,,,600,7.79,34.9
+,,Lotubae,Kenya,Turkana,,,,Lotubae,2.01796,36.1364,,,,,1/1/2000,Rural Focus,,,,,,,,,,
+,,Lotumamong 1,Kenya,Turkana,,,,Lokichoggio,4.21138,34.32378,,,,,1/1/1976,Rural Focus,,,,,,,,,,
+,,Loturerei,Kenya,Turkana,,,,,2.93379,35.61307,,,,,1/1/2010,Rural Focus,,,,,,,,2680,6.94,35.6
+,C7657,Loturerei,Kenya,Turkana,,,,Lodwar,2.85556,35.6125,,,75,DRY,5/21/1988,Rural Focus,,,,,,,,,,
+,,Lowarengak,Kenya,Turkana,,,,Lowarengak,4.27946,35.88208,,,,,,Rural Focus,,,,,,,,,,
+,C5650,Lowarengak,Kenya,Turkana,,,,,4.2889,35.8708,,,50,dry,7/31/1984,Rural Focus,,,,,,,,,,
+,C5651,Lowarengak 2,Kenya,Turkana,,,,,4.2875,35.8708,,,50,dry,8/1/1984,Rural Focus,,,,,,,,,,
+,,Lowasco,Kenya,Turkana,,,,Lodwar Town,3.11271,35.5984,,,25,,10/4/2010,Rural Focus,,,,4,15,,3.3,240,8.43,28.8
+,,Lowasco 1b,Kenya,Turkana,,,,Lodwar,3.11298,35.59811,,,,,1/1/1984,Rural Focus,,,,,,,,250,8.33,28.9
+,,Lowasco 1C,Kenya,Turkana,,,,Lodwar,3.1128,35.59846,,,,,,Rural Focus,,,,,,,,,,
+,,Lowasco Bh2,Kenya,Turkana,,,,Lodwar,3.11082,35.59275,,,,,,Rural Focus,,,,,,,,1940,7.86,33.7
+,,Lowasco Bh3,Kenya,Turkana,,,,Lodwar,3.11328,35.6005,,,,,,Rural Focus,,,,,,,,270,8.76,27.7
+,,Lowasco Bh4,Kenya,Turkana,,,,Lodwar,3.1136,35.5994,,,,,1/1/2002,Rural Focus,,,,,,,,250,8.41,28.6
+,,Lowasco Bh5,Kenya,Turkana,,,,Kanamkemer,3.11439,35.59653,,,,,1/1/2002,Rural Focus,,,,,,,,290,8.4,28.4
+,,Lowasco Bh6,Kenya,Turkana,,,,Kanamkemer,3.11088,35.59257,,,,,1/1/2007,Rural Focus,,,,,,,,560,8.53,32.6
+,,Lowasco New,Kenya,Turkana,,,,Kanamkemer,3.11007,35.59104,,,,,1/1/2012,Rural Focus,,,,,,,6.53,,,
+,,Lowasp,Kenya,Turkana,,,,Lokichogio,4.20797,34.35229,,,,,,Rural Focus,,,,,,,,,,
+,,Loya,Kenya,Turkana,,,,Lorengippi,2.52238,34.9705,,1.02,,,1/1/1987,Rural Focus,,,,,,,,,,
+,,Loyapat,Kenya,Turkana,,,,Kainuk,1.83249,35.47908,,,100,,1/1/2011,Rural Focus,,,,,,,,,,
+,,Loyapat Borehole,Kenya,Turkana,,,,Kainuk,1.83595,35.4758,,,,,,Rural Focus,,,,,,,,870,7.57,31.8
+,,Lwf Bh8,Kenya,Turkana,,,,Kakuma,3.78027,34.82847,,4,,,1/1/1997,Rural Focus,,,,,,,,,,
+,,Maendeleo Women Group,Kenya,Turkana,,,,Lokichoggio,4.20591,34.37158,,,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Makusaasinyeny BH,Kenya,Turkana,,,,Lokori,1.99173,36.0502,,,,,1/1/1999,Rural Focus,,,,,,,,,,
+,C5809,Makutano,Kenya,Turkana,,,,Nc 116,3.5278,35.2756,,38,55,,7/26/1984,Rural Focus,,,,30,48,,18.84,,,
+,C5621,Makutano,Kenya,Turkana,,,,,3.5917,35.3253,,6.6,74,,2/6/1984,Rural Focus,,,,55,,,18,,,
+,C 3758,Makutano,Kenya,Turkana,,,,Nakalale,3.62904,35.30889,,0.8,,,1/1/1971,Rural Focus,,,,,,,,,,
+,C7681,Makutano I,Kenya,Turkana,,,,Makutano,3.5225,35.23889,,,70,,2/16/1989,Rural Focus,,,,,,,,,,
+,C8428,Makutano Iv,Kenya,Turkana,,,,Makutano,3.50944,35.23833,,,30,,3/2/1989,Rural Focus,,,,,,,,,,
+,C5776,Makutano Nc 103,Kenya,Turkana,,,,,3.5972,35.2889,,,103,"INSUFFICIENT
+WATER",6/13/1984,Rural Focus,,,,45.5,58,,,,,
+,C5778,Makutano Nc 107,Kenya,Turkana,,,,,3.6083,35.2583,,,121,DRY HOLE,6/17/1984,Rural Focus,,,,42,,,,,,
+,C5864,Makwamoru 2,Kenya,Turkana,,,,,2.3708,35.3917,,2.4,11,,1/27/1986,Rural Focus,,,,3,7,,2.54,,,
+,,Mala,Kenya,Turkana,,,,Mala,2.76723,35.39188,,,45,,1/1/2014,Rural Focus,,,,,,,12,1360,7.61,34.8
+,,Manalongória,Kenya,Turkana,,,,Lokitaung,4.32413,35.71501,,,,,1/1/2009,Rural Focus,,,,,,,,2460,9.48,32
+,,Manalong'oria BH,Kenya,Turkana,,,,Lokitaung,4.31231,35.72139,,0.6,95,,1/1/1988,Rural Focus,,,,,,,,1920,7.45,32.8
+,,Matakui,Kenya,Turkana,,,,Oropoi,3.788444,34.28773,,,75,,,Rural Focus,,,,,,,,,,
+,C10123,Medic,Kenya,Turkana,,,,Lokichogio,4.16667,34.33333,,1.4,90,,4/4/1991,Rural Focus,,,,28,,,28,,,
+,,Merf - Middle East Relief Fund,Kenya,Turkana,,,,Lokichoggio,4.20653,34.37069,,9,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Meyan,Kenya,Turkana,,,,Lobur,4.7562,35.67621,,,,,,Rural Focus,,,,,,,,920,7.48,32.7
+,,Mission,Kenya,Turkana,,,,Kangatotha,3.12452,35.96164,,1.8,,,,Rural Focus,,,,,,,,,,
+,C7656,Mlango,Kenya,Turkana,,,,Lokitaung,4.27254,35.81858,,3.96,35,,3/28/1988,Rural Focus,,,,14,35,,12.55,830,8.56,31.6
+,,Mlima Tatu,Kenya,Turkana,,,,Mlima Tatu,4.13919,35.46933,,,,,1/1/2008,Rural Focus,,,,,,,,980,7.97,33.3
+,C8895,Mlima Tatu,Kenya,Turkana,,,,Mlima Tatu,4.13333,35.46666,,1.8,50,,10/7/1989,Rural Focus,,,,33,41,,22.25,,,
+,C5662,Mlima Tatu,Kenya,Turkana,,,,,4.1333,35.4667,,,95,,11/30/1984,Rural Focus,,,,57,,,39,,,
+,,Mogilla Water Users Ass,Kenya,Turkana,,,,Lopiding,4.20017,34.38501,,,,,,Rural Focus,,,,,,,,850,7.54,33.5
+,,Monti,Kenya,Turkana,,,,Kakwanya,3.13404,35.66878,,4.7,18,,4/8/2007,Rural Focus,,,,16,18,,3,2800,8.02,34
+,C7668,Monti,Kenya,Turkana,,,,Lodwar,3.11667,35.61667,,7.2,63,,8/23/1988,Rural Focus,,,,45,,,29,,,
+,,Monti,Kenya,Turkana,,,,Lodwar Town,3.18411,35.64847,,,,,,Rural Focus,,,,,,,,,,
+,,Morangibuin,Kenya,Turkana,,,,Pelekech,3.74477,34.92879,,0.03,,,1/1/1986,Rural Focus,,,,,,,,1080,8.05,34.7
+,,Moruesa,Kenya,Turkana,,,,Moruesa,2.93931,35.44043,,3.3,,,1/1/2011,Rural Focus,,,,,,,,880,8.85,31.1
+,,"Morulem Water Users
+Ass",Kenya,Turkana,,,,Morulem,1.97324,36.07027,,1.8,,,1/1/1986,Rural Focus,,,,,,,,490,8.61,29.9
+,C3823,Mowd,Kenya,Turkana,,,,Lokitaung,4.26679,35.75464,,1.36,37.7,,1/3/2072,Rural Focus,,,,7.3,,,5.1,1740,7.46,33.7
+,C3789,Mowd,Kenya,Turkana,,,,Lokichar,2.38287,35.65434,,4.55,42.7,,8/10/2071,Rural Focus,,,,14.6,,,11,820,7.93,32.9
+,C3758,Mowd,Kenya,Turkana,,,,Makutano,3.8333,35.4167,,9,102.8,,6/21/2071,Rural Focus,,,,61.3,102.8,,56.4,,,
+,C3989,Mowd,Kenya,Turkana,,,,Lorugumu2,2.89832,35.26505,,6.82,22.8,,12/1/2073,Rural Focus,,,,6.78,,,,,,
+,,Msf- B,Kenya,Turkana,,,,Lokichoggio,4.21056,34.37085,,2,,,1/1/2000,Rural Focus,,,,,,,,,,
+,,Mt. Kenya University,Kenya,Turkana,,,,Lodwar,3.06894,35.61491,,,,,,Rural Focus,,,,,,,,3630,8.69,34.9
+,,Muria CEPSA,Kenya,Turkana,,,,Lotikipi,4.27822,34.63558,,,180,,1/1/2014,Rural Focus,,,,160,,,,,,
+,,Muruangibuin,Kenya,Turkana,,,,Pelekech,3.73113,34.94455,,,,,1/1/2011,Rural Focus,,,,,,,,1200,8,33.3
+,,Nabei (Kaekosowan),Kenya,Turkana,,,,Kalobeyei,3.88928,34.56132,,,,,1/1/2012,Rural Focus,,,,,,,,830,7.83,33
+,C3885,Nabilinga-Nanam,Kenya,Turkana,,,,Nanam,4.21377,34.55821,,0.6,,,1/1/1972,Rural Focus,,,,,,,,,,
+,C5600,Nabruk,Kenya,Turkana,,,,,3.8833,34.9667,,0.84,49,,9/30/1983,Rural Focus,,,,41,,,22,,,
+,,Nabuin,Kenya,Turkana,,,,Nadapal,3.03686,35.52314,,,,,1/1/2012,Rural Focus,,,,,,,,850,8.64,31.1
+,,Nabulicha,Kenya,Turkana,,,,Lomeyan,3.46578,35.38311,,1.3,,,1/1/1982,Rural Focus,,,,,,,,600,7.59,35.2
+,,Nabulon No. 6,Kenya,Turkana,,,,Kanamkemer,3.11088,35.59259,,22,,,1/1/2005,Rural Focus,,,,,,,,,,
+,C5595,Nabure,Kenya,Turkana,,,,,3.8889,34.5694,,,60,,9/6/1983,Rural Focus,,,,,,,,,,
+,,Nabute,Kenya,Turkana,,,,Lodwar Town,3.13187,35.60523,,1.2,,,1/1/1997,Rural Focus,,,,,,,,,,
+,,Nachacha,Kenya,Turkana,,,,Kangatotha,2.26173,35.85245,,0.6,,,1/1/2000,Rural Focus,,,,,,,,,,
+,,Nachacha Windmill,Kenya,Turkana,,,,Kangatotha,3.1656,35.85463,,,,,1/1/2004,Rural Focus,,,,,,,,320,8.17,30.3
+,,Nachampa,Kenya,Turkana,,,,Napelilim,3.45071,35.40337,,0.3,90.4,,1/1/2012,Rural Focus,,,,,,,32.2,2490,8.16,35
+,,Nachola,Kenya,Turkana,,,,Lokichar,2.37097,35.63188,,,,,1/1/2009,Rural Focus,,,,,,,,1500,8.39,30.6
+,C8906,Nachomin,Kenya,Turkana,,,,,3.5806,34.7583,,,75,DRY,12/19/1989,Rural Focus,,,,,,,,,,
+,C10737,Nachuchuikait,Kenya,Turkana,,,,Lokichoggio,4.20522,34.35624,,1.13,,,1/1/1993,Rural Focus,,,,,,,,930,7.64,33.4
+,,Nachukui Bh,Kenya,Turkana,,,,Ngissinger,4.06951,35.87933,,0.3,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Nadapal,Kenya,Turkana,,,,Nadapal,3.07165,35.51162,,,,,1/1/2002,Rural Focus,,,,,,,,450,8.81,
+,,Nadapal,Kenya,Turkana,,,,,3.07605,35.50877,,,,,,Rural Focus,,,,,,,,,,
+,,Nadapal Ap Camp,Kenya,Turkana,,,,Nadapal,4.39356,34.29702,,,132,,1/1/2011,Rural Focus,,,,,,,,1400,8.16,31.3
+,C6537,Nadapal(Unesco),Kenya,Turkana,,,,Nadapal,3.08917,35.53583,,3,30,,6/20/1986,Rural Focus,,,,10,23,,11,,,
+,C5773,Nadelin Nc 106,Kenya,Turkana,,,,,3.4556,35.5917,,38,97,,6/9/1984,Rural Focus,,,,58.5,78.5,,44.3,,,
+,,Nadipoe,Kenya,Turkana,,,,,2.90182,35.65153,,,,Y,,Rural Focus,,,,,,,,6550,7.19,36.4
+,,Nadome,Kenya,Turkana,,,,Lokichogio,4.20449,34.38126,,,,,1/1/2006,Rural Focus,,,,,,,,860,7.93,32.8
+,,Nadukamel,Kenya,Turkana,,,,,2.91702,35.34494,,,14.4,,,Rural Focus,,,,,,,,,,
+,C6579,Nadunga,Kenya,Turkana,,,,Kaeris,3.96083,35.30629,,0.42,50,,7/17/1987,Rural Focus,,,,38,41,,20.96,1790,8.48,34.6
+,,Nadwat,Kenya,Turkana,,,,Kobuin,3.51317,35.18159,,,,,,Rural Focus,,,,,,,,,,
+,,Nadwat Centre,Kenya,Turkana,,,,Nadwat,3.51565,35.19165,,,135,,1/1/2008,Rural Focus,,,,,,,,,,
+,,Naemoit,Kenya,Turkana,,,,Lokichoggio,4.42155,34.43173,,,,,1/1/2009,Rural Focus,,,,,,,,,,
+,,Naemoit,Kenya,Turkana,,,,Lokichoggio,4.42211,34.43105,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,,Nagis,Kenya,Turkana,,,,Nadapal,3.04153,35.49143,,0.77,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Nagis Primary,Kenya,Turkana,,,,,3.04668,35.48951,,,,,1/1/2007,Rural Focus,,,,,,,,,,
+,,Naipa Dispensary,Kenya,Turkana,,,,,2.52116,35.37391,,,,y,1/1/2013,Rural Focus,,,,,,,,1370,6.88,32.8
+,,Naiyanakabaran,Kenya,Turkana,,,,,4.33048,35.89784,,,,,,Rural Focus,,,,,,,,10020,7.86,33.7
+,,Nakaalei,Kenya,Turkana,,,,Kalapata,2.53432,36.20106,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Nakabaran,Kenya,Turkana,,,,Lodwar Town,3.12447,35.57154,,,,,1/1/1998,Rural Focus,,,,,,,,,,
+,,Nakabaran,Kenya,Turkana,,,,Napelilim,3.36005,35.46604,,,,,1/1/2008,Rural Focus,,,,,,,15.36,,,
+,,Nakabaran BH,Kenya,Turkana,,,,Kokuro,4.27867,35.8914,,,,,,Rural Focus,,,,,,,,,,
+,,Nakabosan,Kenya,Turkana,,,,Lokichar,2.26177,35.56251,,,,,1/1/2012,Rural Focus,,,,,,,,,,
+,,Nakabosan BH,Kenya,Turkana,,,,Katilu,2.24142,35.58114,,0.12,,,1/1/1997,Rural Focus,,,,,,,,,,
+,C8895,Nakabuk Borehole,Kenya,Turkana,,,,Yapakuno,4.14027,35.47059,,,,,1/1/1989,Rural Focus,,,,,,,,460,7.74,31.4
+,,Nakaitan,Kenya,Turkana,,,,Nakalale,3.56816,35.26893,,10,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Nakaje,Kenya,Turkana,,,,Lokichogio,3.49864,34.58334,,,,,,Rural Focus,,,,,,,,,,
+,,Nakalale,Kenya,Turkana,,,,Lokitaung,4.43633,35.71857,,2.4,,,1/1/2012,Rural Focus,,,,,,,,820,7.27,33.6
+,C5793,Nakalale,Kenya,Turkana,,,,Nc 115,3.6292,35.2972,,,97,DRY HOLE,7/10/1984,Rural Focus,,,,,,,,,,
+,C5622,Nakalale,Kenya,Turkana,,,,,3.6828,35.1947,,,50,no water,2/9/1984,Rural Focus,,,,,,,,,,
+,C7654,Nakalale BH,Kenya,Turkana,,,,Lokitaung,4.27331,35.74657,,2.4,,,1/1/1988,Rural Focus,,,,,,,,1450,7.45,33.8
+,,Nakalale Losanyait,Kenya,Turkana,,,,Nakalale Losanyait,3.46909,35.17486,,,120,,6/2/2012,Rural Focus,,,,106,,,54,,,
+,C5571,Nakalale Trp Camp,Kenya,Turkana,,,,Lodwar,3.6269,35.1978,,,160,,12/2/1982,Rural Focus,,,,,,,,,,
+,,Nakalei,Kenya,Turkana,,,,Nakalei,2.55295,36.23555,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,,Nakalei Water Supply,Kenya,Turkana,,,,Nakalei,2.54098,36.22314,,,,,1/1/2013,Rural Focus,,,,,,,,2130,8.28,36.4
+,C6538,Nakamane,Kenya,Turkana,,,,Nakamane,2.97333,35.44639,,3,45,,5/29/1986,Rural Focus,,,,25,32,40,13.6,,,
+,C6582,Nakapelewoi,Kenya,Turkana,,,,Lokitaung,4.29583,35.29167,,,80,,9/13/1987,Rural Focus,,,,,,,,,,
+,C5645,Nakapelewoi 1,Kenya,Turkana,,,,,4.2667,35.3375,,,100,abandoned,7/12/1984,Rural Focus,,,,,,,,,,
+,C5646,Nakapelewoi 2,Kenya,Turkana,,,,,4.31549,35.43058,,13.9,70,"hand pump
+installed",7/14/1984,Rural Focus,,,,41,,,22.8,2680,8.22,33.1
+,,Nakapelewoi Borehole,Kenya,Turkana,,,,Yapakuno,4.31347,35.43147,,0.85,,,1/1/1994,Rural Focus,,,,,,,,1220,7.53,34.8
+,,Nakarimon,Kenya,Turkana,,,,Loreng,3.53035,34.63087,,2.5,24,,2/26/2014,Rural Focus,,,,16,,,13.5,,,
+,,Nakejuamosing,Kenya,Turkana,,,,Lochwaangikamatak,2.53595,35.50003,,2,85,,3/20/2014,Rural Focus,,,,28,,,16,800,7.61,32.3
+,,Nakeruman,Kenya,Turkana,,,,Nadapal,4.32197,34.30969,,,120,,3/13/2014,Rural Focus,,,,96,,,45,,,
+,,Nakichurtak,Kenya,Turkana,,,,,3.88904,34.50596,,,,,1/1/2011,Rural Focus,,,,,,,,710,7.92,31.6
+,,Nakichurtak (Mureothe),Kenya,Turkana,,,,,3.88619,34.50266,,,,,1/1/2011,Rural Focus,,,,,,,,940,7.58,32.3
+,,Nakilekipus,Kenya,Turkana,,,,Kalobeyei,3.75542,34.66747,,3,,,1/1/1982,Rural Focus,,,,,,,,930,8.41,29
+,,Nakilinga,Kenya,Turkana,,,,Pelekech,3.68258,34.99978,,0.7,,,1/1/1983,Rural Focus,,,,,,,,,,
+,C7674,Nakilinga - Lopur,Kenya,Turkana,,,,Pelekech,3.86674,34.80838,,30.4,,,1/1/1988,Rural Focus,,,,,,,,,,
+,C5636,Nakimomet,Kenya,Turkana,,,,,4.6583,35.4528,,12,40,,3/22/1984,Rural Focus,,,,28,,,1.45,,,
+,,Nakimonet Borehole,Kenya,Turkana,,,,Kaikor,4.63355,35.39981,,1.8,,,1/1/1981,Rural Focus,,,,,,,,790,7.99,32
+,,Nakionomet,Kenya,Turkana,,,,Kaikor,4.63056,35.39912,,,,,,Rural Focus,,,,,,,,790,7.99,32
+,,Nakiriasia,Kenya,Turkana,,,,Napelilin,3.40548,35.41318,,6,,y,1/1/2004,Rural Focus,,,,,,,,950,7.4,35.1
+,,Nakitoekakumon,Kenya,Turkana,,,,Mlima Tatu,4.21571,35.35824,,,,,1/1/1992,Rural Focus,,,,,,,,1150,7.35,33.9
+,,Nakitokakuman,Kenya,Turkana,,,,Mlima Tatu,4.20752,35.36417,,0.6,,,1/1/2012,Rural Focus,,,,,,,,2210,7.94,35.6
+,,Nakitokirion,Kenya,Turkana,,,,Lokichogio,3.53652,34.7798,,,,,,Rural Focus,,,,,,,,1560,8.42,31
+,,Nakitokirion,Kenya,Turkana,,,,Pelekech,3.68258,34.99978,,,33,,,Rural Focus,,,,,,,,,,
+,,Nakokola,Kenya,Turkana,,,,Riokomor,4.04249,35.70552,,,,,1/1/2014,Rural Focus,,,,,,,,,,
+,C10656,Nakong-Narikirikodapal,Kenya,Turkana,,,,Lokichoggio,4.21017,34.34846,,2.7,,,1/1/1993,Rural Focus,,,,,,,,,,
+,,Nakoret,Kenya,Turkana,,,,Nakoret,2.69432,36.25428,,,,,,Rural Focus,,,,,,,,,,
+,,Nakosima,Kenya,Turkana,,,,Pelekech,3.66778,35.00326,,,,,1/1/2003,Rural Focus,,,,,,,,1600,8.89,32.2
+,,Nakosmae,Kenya,Turkana,,,,,2.97551,35.62368,,0.4,,,1/1/2013,Rural Focus,,,,,,,,,,
+,C5845,Nakujakapuruko,Kenya,Turkana,,,,,2.0417,36.0972,,1.8,40,,7/17/1985,Rural Focus,,,,25,,,22,,,
+,,Nakukulas  BH,Kenya,Turkana,,,,Kochodin,2.19368,35.81506,,4,,,1/1/1988,Rural Focus,,,,,,,,1820,7.67,34.2
+,,Nakukulas (Tullow),Kenya,Turkana,,,,Nakukulas,2.20571,35.81542,,7.2,,,,Rural Focus,,,,,,,,1460,8.43,35.3
+,,Nakuran,Kenya,Turkana,,,,Nadapal,3.13493,35.50205,,,,,1/1/2005,Rural Focus,,,,,,,,,,
+,C6561,Nakurio Springs,Kenya,Turkana,,,,Nakurio,2.3444,36.2167,,1,20,,11/14/1986,Rural Focus,,,,5,,,,,,
+,,Nakururum BH1,Kenya,Turkana,,,,Kalobeyei,3.98978,34.54326,,,,,1/1/2001,Rural Focus,,,,,,,,2440,6.79,35.6
+,,Nakururum Undp,Kenya,Turkana,,,,Songot,3.9915,34.54032,,,,,,Rural Focus,,,,,,,,1150,7.06,33.1
+,,Nakwaamumwa BH,Kenya,Turkana,,,,Lokori,2.00474,36.05918,,,,,1/1/1999,Rural Focus,,,,,,,,,,
+,,Nakwakitela,Kenya,Turkana,,,,,2.75571,35.64738,,,,,,Rural Focus,,,,,,,,1640,7.76,34.8
+,,Nakwakitela Bh Mowd,Kenya,Turkana,,,,Lokichar,2.38681,35.65431,,,,,,Rural Focus,,,,,,,,1190,8.79,30.1
+,,Nakwamekwi,Kenya,Turkana,,,,Lodwar,3.11444,35.5822,,,,,1/1/2008,Rural Focus,,,,,,,,1330,8.09,33.5
+,,Nakwamekwi,Kenya,Turkana,,,,Lodwar,3.114449,35.57044,,,,,,Rural Focus,,,,,,,,1450,9.63,31.9
+,,Nakwamekwi,Kenya,Turkana,,,,Lodwar Town,3.10623,35.54887,,,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Nakwamekwi,Kenya,Turkana,,,,Lodwar,3.11005,35.57594,,,,,,Rural Focus,,,,,,,,,,
+,,Nakwamekwi Lowasco,Kenya,Turkana,,,,Lodwar,3.11064,35.59286,,,,,,Rural Focus,,,,,,,,270,8.49,27
+,,Nakwamekwi Parish,Kenya,Turkana,,,,Lodwar Town,3.1127,35.57125,,,,,1/1/2004,Rural Focus,,,,,,,,690,9.38,35.1
+,,Nakwamekwi Parish,Kenya,Turkana,,,,Lodwar Town,3.11674,35.56863,,0,,,1/1/2002,Rural Focus,,,,,,,,,,
+,C5863,Nakwamoru 1,Kenya,Turkana,,,,,2.3833,35.3911,,1.2,44,,1/23/1986,Rural Focus,,,,20,26,,12.6,,,
+,,Nakwamoru W/S Borehole,Kenya,Turkana,,,,Kaputir,2.05872,35.43222,,6,65,,1/1/2002,Rural Focus,,,,,,,,1320,8.27,30.1
+,,Nakwamunyen,Kenya,Turkana,,,,Kokiselei,4.13121,35.69898,,0.7,81,,1/1/2011,Rural Focus,,,,,,,34.4,1240,7.69,34.5
+,,Nakwamunyen,Kenya,Turkana,,,,Kalobeyei,3.76627,34.60951,,12.06,,,1/1/1988,Rural Focus,,,,,,,,760,7.97,30.6
+,,Nakwasinyen,Kenya,Turkana,,,,Lokwi,1.98828,36.1141,,,,,1/1/2000,Rural Focus,,,,,,,,,,
+,,Nakwatir,Kenya,Turkana,,,,,2.99345,35.44602,,,,,,Rural Focus,,,,,,,,370,29.8,8
+,,Nakwei,Kenya,Turkana,,,,Nakwei,3.31766,35.48893,,3.3,,,1/1/2011,Rural Focus,,,,,,,,2570,7.71,35.7
+,,Nalala,Kenya,Turkana,,,,Kalobeyei,3.77479,34.61412,,0.6,,,1/1/2005,Rural Focus,,,,,,,,,,
+,C5576,Nalapatui A,Kenya,Turkana,,,,,3.7236,34.4833,,,22,,1/20/1983,Rural Focus,,,,,,,,,,
+,C5577,Nalapatui B,Kenya,Turkana,,,,,3.7153,34.4847,,,100,,1/21/1983,Rural Focus,,,,,,,,,,
+,C5578,Nalapatui C,Kenya,Turkana,,,,,3.69505,34.47232,,,100,,1/22/1983,Rural Focus,,,,67,,,,990,7.42,33.6
+,,Nalemkais,Kenya,Turkana,,,,Kalapata,2.36253,35.92838,,,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Nalempus,Kenya,Turkana,,,,Kalobeyei,3.81324,34.35816,,1.03,,,1/1/1982,Rural Focus,,,,,,,,,,
+,,Nalemsokon,Kenya,Turkana,,,,Lokichar,2.38853,35.63977,,,,,,Rural Focus,,,,,,,,4420,8.05,33.5
+,,Nalita,Kenya,Turkana,,,,Kaikor,4.53562,35.42831,,4,,,1/1/1991,Rural Focus,,,,,,,,1610,7.55,41
+,,Namalimo(Nariokotome),Kenya,Turkana,,,,Ngissinger,4.13026,35.91178,,,,,1/1/2000,Rural Focus,,,,,,,,1000,7.84,32.9
+,C6575,Namamabu,Kenya,Turkana,,,,Lorugumu,2.88904,35.25182,,2.6,60,,6/27/1987,Rural Focus,,,,46,50,,18.76,1200,7.98,34.6
+,,Namariat,Kenya,Turkana,,,,Kapua,3.42914,35.65469,,,40,,,Rural Focus,,,,,,,,11490,7.69,34.6
+,,Nameriyek,Kenya,Turkana,,,,Riokomor,4.02759,35.72679,,,45,,1/1/2014,Rural Focus,,,,,,,,1740,8.1,35.8
+,C6580,Nameturon,Kenya,Turkana,,,,Kaeris,4.13783,35.43704,,6.3,65,,7/22/1987,Rural Focus,,,,50,,,50,,,
+,,Nameyana,Kenya,Turkana,,,,Lomeyan,3.50464,35.32478,,,,,1/1/2002,Rural Focus,,,,,,,,,,
+,,Namon Community Bh,Kenya,Turkana,,,,Lokangae,4.00535,34.8699,,,,,1/1/2011,Rural Focus,,,,,,,,750,8.47,32.4
+,C7662,Namorotot,Kenya,Turkana,,,,Lowarengak,4.27049,35.81293,,,,,7/7/1988,Rural Focus,,,,,,,,670,7.44,32.8
+,,Namoru,Kenya,Turkana,,,,Nadapal,3.03714,35.45882,,0.9,,,1/1/2004,Rural Focus,,,,,,,,890,7.74,34.1
+,,Namoru,Kenya,Turkana,,,,,3.03552,35.46089,,,,,,Rural Focus,,,,,,,,,,
+,,Namoruputh,Kenya,Turkana,,,,Loima,2.84756,35.0384,,,,,1/1/1980,Rural Focus,,,,,,,,350,8.6,36.7
+,,Namoruputh Primary,Kenya,Turkana,,,,Namoruputh,2.84872,35.04058,,,,,,Rural Focus,,,,,,,,2310,8.61,34.8
+,,Namoruputh Sec Sch,Kenya,Turkana,,,,Namoruputh,2.85948,35.07653,,3.3,72,,,Rural Focus,,,,,,,13.2,1990,8.39,34
+,C6578,Namorutome,Kenya,Turkana,,,,Kaeris,4.13667,35.43861,,0.45,90,,7/13/1987,Rural Focus,,,,70,,,30.95,,,
+,,Namoruuth Centre PAG,Kenya,Turkana,,,,Namoruputh,2.84447,35.03567,,,100,,1/1/2012,Rural Focus,,,,,,,16M,3170,8.01,32.5
+,,Namukuse,Kenya,Turkana,,,,Namukuse,3.16078,35.61564,,,,,,Rural Focus,,,,,,,,,,
+,,Namukuse BH,Kenya,Turkana,,,,Lokori,2.02769,36.11563,,,,,1/1/2003,Rural Focus,,,,,,,,,,
+,C5586,Nanaam 1,Kenya,Turkana,,,,,4.2111,34.5361,,,70,,4/20/1983,Rural Focus,,,,,,,,,,
+,C5589,Nanaam 2,Kenya,Turkana,,,,,4.2167,34.5333,,,130,,7/30/1983,Rural Focus,,,,,,,,,,
+,C5590,Nanaam 3,Kenya,Turkana,,,,,4.2139,34.5306,,,130,,8/4/1983,Rural Focus,,,,,,,,,,
+,C5593,Nanaam 4,Kenya,Turkana,,,,,4.2167,34.5306,,21,130,,8/22/1983,Rural Focus,,,,110,,,61,,,
+,,Nanam,Kenya,Turkana,,,,Nanam,4.20989,34.56536,,,,,,Rural Focus,,,,,,,,,,
+,,Nanam,Kenya,Turkana,,,,Nanam,4.21049,34.5536,,,,,,Rural Focus,,,,,,,,,,
+,,Nanam CEPSA,Kenya,Turkana,,,,Nanam,4.20644,34.56781,,14,150,,1/1/2014,Rural Focus,,,,80,130,,,2160,8.62,32.3
+,,Nangole Borehole,Kenya,Turkana,,,,Ngissinger,4.27942,35.86198,,,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Nanyangaita,Kenya,Turkana,,,,Katilu,2.22905,35.44237,,,,,1/1/2011,Rural Focus,,,,,,,,1050,8.79,31.7
+,,Nanyee,Kenya,Turkana,,,,,2.90622,35.4006,,,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Naoros,Kenya,Turkana,,,,Kangatotha,3.12042,36.04538,,0.9,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Naotin,Kenya,Turkana,,,,Naotin Apua,3.05514,35.54984,,2.5,40,,1/1/2013,Rural Focus,,,,,,,,790,8.23,34.8
+,,Naotin,Kenya,Turkana,,,,Naotin,3.0451,35.53995,,,95,,1/1/2014,Rural Focus,,,,,,,,920,830,32.9
+,,Naoyapua Koropus,Kenya,Turkana,,,,Katilu,2.39567,35.43367,,0.8,50,,1/1/2012,Rural Focus,,,,,,,,1240,7.35,35
+,,Naoyatira,Kenya,Turkana,,,,,3.0681,35.49467,,,,,,Rural Focus,,,,,,,,110,8.33,35.9
+,,Napaiwapet,Kenya,Turkana,,,,Nakalale,3.57529,35.27732,,0.5,,,1/1/2000,Rural Focus,,,,,,,,,,
+,,Napak,Kenya,Turkana,,,,Napak,4.86363,35.39374,,,,,1/1/2011,Rural Focus,,,,,,,,920,8.04,32.5
+,,Napak BH,Kenya,Turkana,,,,Napak,4.86431,35.39486,,0.6,,,1/1/2003,Rural Focus,,,,,,,,900,7.48,36.7
+,,Napeikar,Kenya,Turkana,,,,Napeikar,4.74847,35.66596,,,,,1/1/2013,Rural Focus,,,,,,,,520,8.53,35.6
+,C8894,Napeikar,Kenya,Turkana,,,,Napeikar,4.17222,34.49111,,,90,DRY,9/23/1989,Rural Focus,,,,,,,,,,
+,,Napeikar,Kenya,Turkana,,,,Napeikar,4.74857,35.66617,,,,,,Rural Focus,,,,,,,,,,
+,,Napeikar 1,Kenya,Turkana,,,,Nadapal,3.0168,35.49432,,1.8,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Napeikar 2,Kenya,Turkana,,,,Napeikar,3.00313,35.51195,,,,,1/1/2003,Rural Focus,,,,,,,,1560,8.06,36.8
+,,Napeikar Borehole,Kenya,Turkana,,,,Meyan,4.75127,35.6607,,,,,1/1/2002,Rural Focus,,,,,,,,920,7.48,32.7
+,,Napeililim,Kenya,Turkana,,,,Lomeyan,3.46458,35.37634,,0.6,,,1/1/1983,Rural Focus,,,,,,,,1000,7.56,33.9
+,C6553,Napeitom,Kenya,Turkana,,,,Napeitom,1.67942,36.05014,,1,60,,10/2/1986,Rural Focus,,,,43,,,2.16,1730,8.09,30.1
+,C6553,Napeitom Borehole,Kenya,Turkana,,,,Kapedo,1.68528,36.04912,,,,,,Rural Focus,,,,,,,,2010,8.2,36.1
+,C5789,Napelin,Kenya,Turkana,,,,Nc 112,3.5139,35.3583,,,61,DRY HOLE,6/23/1984,Rural Focus,,,,,,,,,,
+,C5774,Napelin Nc 104,Kenya,Turkana,,,,,3.5583,35.3292,,,121,DRY HOLE,6/10/1984,Rural Focus,,,,,,,,,,
+,C5781,Napelin Nc 109,Kenya,Turkana,,,,,4.41209,35.93289,,,43,,6/21/1984,Rural Focus,,,,30.5,54.5,,,,,
+,C5782,Napelin Nc 110,Kenya,Turkana,,,,,3.5097,35.3292,,,85,,6/22/1984,Rural Focus,,,,10,60,,,,,
+,C5570,Napelit,Kenya,Turkana,,,,Lodwar,3.1306,35.6069,,,60,,11/22/1982,Rural Focus,,,,25,,,,,,
+,,Napetadiye,Kenya,Turkana,,,,Nanam,4.49959,34.45081,,,,,1/1/2014,Rural Focus,,,,,,,11.79,,,
+,C8442,Napetet,Kenya,Turkana,,,,Kawalathe,3.1167,34.6333,,,32,,8/1/1989,Rural Focus,,,,30,,,8,,,
+,,Napetet,Kenya,Turkana,,,,Lodwar Town,3.13172,35.62321,,,,,1/1/1996,Rural Focus,,,,,,,,,,
+,,Napetet Lodwar,Kenya,Turkana,,,,Napetet,3.12904,35.62662,,12,44,,4/7/2007,Rural Focus,,,,18,,,5,480,8.27,33.3
+,,"Napopongoit
+Lokichoggio",Kenya,Turkana,,,,Napopongoit,4.19207,34.39451,,2.4,54,,10/24/2000,Rural Focus,,,,26,43,,14.5,840,8.12,32.2
+,,Napuslem-Nanam,Kenya,Turkana,,,,Nanam,4.21209,34.56418,,,,,,Rural Focus,,,,,,,,,,
+,,Napusmoru,Kenya,Turkana,,,,Lochwangamatak,2.66703,35.85122,,,,,1/1/2004,Rural Focus,,,,,,,,4910,8.31,36.5
+,,Napusmoru,Kenya,Turkana,,,,Lochwangamatak,2.65926,35.84881,,,,,,Rural Focus,,,,,,,,,,
+,,Napusmoru,Kenya,Turkana,,,,Lochwangamatak,2.66128,35.84998,,,,,,Rural Focus,,,,,,,,,,
+,,Napuu Hand Pump,Kenya,Turkana,,,,Lodwar,3.10353,35.63765,,,27,,,Rural Focus,,,,,,,8,1510,7.78,34
+,,Napuu Unesco,Kenya,Turkana,,,,Lodwar,3.10606,35.64096,,62.4,50,,,Rural Focus,,,,,,,7.8,,,
+,,"Napuu Unesco
+Abandoned",Kenya,Turkana,,,,Lodwar,3.10763,35.64698,,,,,,Rural Focus,,,,,,,,,,
+,,Naremit,Kenya,Turkana,,,,,2.67095,35.30347,,,,,,Rural Focus,,,,,,,,,,
+,,Narewa,Kenya,Turkana,,,,Kanamkemer,3.10588,35.61921,,0.9,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Narikirikodapale,Kenya,Turkana,,,,Lokichogio,4.20748,34.349919,,0.3,,,,Rural Focus,,,,,,,,920,7.96,31.9
+,C7663,Nariokotome,Kenya,Turkana,,,,Lowarengak,4.05368,35.70264,,14.4,20,,7/11/1988,Rural Focus,,,,14,,,7.42,1060,7.42,36.2
+,,Nariokotome,Kenya,Turkana,,,,Riokomor,4.04812,35.70791,,,,,1/1/2000,Rural Focus,,,,,,,,1070,7.66,34.7
+,,Nariokotome,Kenya,Turkana,,,,Nariokotome,4.12962,35.85965,,,18,,6/24/2012,Rural Focus,,,,,,,,920,7.97,33.9
+,,Nariokotome,Kenya,Turkana,,,,Riokomor,4.10943,35.6879,,3.3,,,1/1/2006,Rural Focus,,,,,,,,810,8.91,35.2
+,,Nariokotome,Kenya,Turkana,,,,Riokomor,4.12271,35.8604,,,,,,Rural Focus,,,,,,,,2180,9.44,35.8
+,,Nariokotome,Kenya,Turkana,,,,Riokomor,4.15666,35.84911,,,,,,Rural Focus,,,,,,,,1170,9.55,35.1
+,,Nariokotome,Kenya,Turkana,,,,Riokomor,4.12764,35.85565,,10,24,,,Rural Focus,,,,,,,,,,
+,,Nariokotome,Kenya,Turkana,,,,Riokomor,4.1225,35.85432,,,,,1/1/2009,Rural Focus,,,,,,,,,,
+,,Nariokotome,Kenya,Turkana,,,,Riokomor,4.12351,35.85743,,,,,,Rural Focus,,,,,,,,,,
+,,Nariokotome,Kenya,Turkana,,,,Riokomor,4.12632,35.84352,,,51,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Nariokotome Airstrip,Kenya,Turkana,,,,Nariokotome,4.12638,35.86318,,16.4,55,,7/25/2012,Rural Focus,,,,38,,,39.75,2770,8.89,38.1
+,,Nariokotome BH 1,Kenya,Turkana,,,,Ngissinger,4.13922,35.85815,,2.4,,,1/1/2004,Rural Focus,,,,,,,,1630,9.14,33.2
+,,Nariokotome Borehole,Kenya,Turkana,,,,Ngissinger,4.1437,35.92247,,3.6,,,1/1/2004,Rural Focus,,,,,,,,9450,7.77,34.2
+,,Nariokotome Dicpensary,Kenya,Turkana,,,,Riokomor,4.1242,35.85846,,,,,,Rural Focus,,,,,,,,,,
+,,Nariokotome ECD,Kenya,Turkana,,,,Riokomor,4.11809,35.85099,,,,,,Rural Focus,,,,,,,,,,
+,,Nariokotome III,Kenya,Turkana,,,,Ngissinger,4.14227,35.91369,,,,,1/1/2004,Rural Focus,,,,,,,,1000,7.84,32.9
+,,Nariokotome Mission,Kenya,Turkana,,,,Nariokotome,4.12928,35.85964,,2,38,,7/27/2012,Rural Focus,,,,,,,15.38,760,8.6,33.3
+,,Nariokotome Mission,Kenya,Turkana,,,,Riokomor,4.12557,35.85751,,,,,,Rural Focus,,,,,,,,,,
+,,Narokotome 2,Kenya,Turkana,,,,Ngissinger,4.12755,35.85558,,20,30,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Narongór,Kenya,Turkana,,,,,3.18761,35.50061,,,,,,Rural Focus,,,,,,,,,,
+,,Nasiger,Kenya,Turkana,,,,Lomeyan,3.35994,35.41995,,,,,1/1/2002,Rural Focus,,,,,,,,,,
+,,Nasiger,Kenya,Turkana,,,,Nasiger,3.35993,35.44073,,,,,1/1/2006,Rural Focus,,,,,,,,,,
+,,Nasinyono,Kenya,Turkana,,,,Nasinyono,4.30161,34.94152,,,150,,1/1/2014,Rural Focus,,,,120,,,,,,
+,,Nasinyono,Kenya,Turkana,,,,Nasinyono,4.29648,34.95712,,,,,1/1/2013,Rural Focus,,,,,,,,,,
+,,Nasinyono,Kenya,Turkana,,,,Nasinyono,4.29779,34.9388,,,48,,,Rural Focus,,,,,,,,,,
+,,Nasura,Kenya,Turkana,,,,Kalokol,3.38199,35.80421,,,,,,Rural Focus,,,,,,,,1360,8.17,32.8
+,,Natadei,Kenya,Turkana,,,,,3.02095,35.98339,,3,,,1/1/2007,Rural Focus,,,,,,,,,,
+,,Nataparangidomou,Kenya,Turkana,,,,Eliye,3.20864,35.98803,,,120,DRY,,Rural Focus,,,,,,,,,,
+,,Natiir,Kenya,Turkana,,,,,3.23169,35.91418,,,,,1/1/2012,Rural Focus,,,,,,,,290,8.61,33.3
+,,Natiira Borehole,Kenya,Turkana,,,,Kalobeyei,3.88946,34.56446,,,,,1/1/1992,Rural Focus,,,,,,,,670,7.7,33.2
+,,Natir 1,Kenya,Turkana,,,,Kakuma,3.72192,34.85559,,,,,1/1/2006,Rural Focus,,,,,,,,,,
+,C5654,Natoo,Kenya,Turkana,,,,Lokitaung,4.21403,35.76308,,13,40,"hand pump
+installed",8/8/1984,Rural Focus,,,,14,,,6,800,7.35,32.8
+,,Natumamong,Kenya,Turkana,,,,Lokichogio,4.20873,34.32449,,,,,,Rural Focus,,,,,,,,,,
+,,Natumamong BH2,Kenya,Turkana,,,,Lokichoggio,4.20788,34.3242,,,,,,Rural Focus,,,,,,,,1040,7.53,33
+,C6560,Naturata Ebur,Kenya,Turkana,,,,Kerio,2.9278,36.13333,,,90,,11/10/1986,Rural Focus,,,,75,,,49.7,,,
+,,Natwol,Kenya,Turkana,,,,Lokichoggio,4.11655,34.28903,,1.5,72,,7/3/2014,Rural Focus,,,,38,,,22.8,,,
+,C5642,Nauredapal 2,Kenya,Turkana,,,,,4.5611,35.2819,,,120,dry,7/6/1984,Rural Focus,,,,,,,,,,
+,,Naurendir (Nadungá),Kenya,Turkana,,,,Kaeris,3.95227,35.25603,,1.2,80,,1/1/2010,Rural Focus,,,,,,,19.5,1530,8.12,32.7
+,,Naurenpuu,Kenya,Turkana,,,,,3.09149,35.5351,,,,,1/1/2005,Rural Focus,,,,,,,,770,8.47,31.6
+,C5843,Nauyatira,Kenya,Turkana,,,,Loperot,2.3347,35.8333,,2.4,15,,7/4/1985,Rural Focus,,,,10,13,,7.5,840,7.67,34.6
+,,Nawontos Bh,Kenya,Turkana,,,,Oropoi,3.78708,34.23513,,,,,1/1/2012,Rural Focus,,,,,,,,830,7.74,25.8
+,,Nawotom,Kenya,Turkana,,,,Kalobeyei,3.79692,34.56886,,,,,,Rural Focus,,,,,,,,800,7.33,31.5
+,,Nawoyatira BH,Kenya,Turkana,,,,Lokichar,2.38196,35.64712,,,,,1/1/2004,Rural Focus,,,,,,,,570,8.36,30.8
+,,Nayuu Church,Kenya,Turkana,,,,,3.10927,35.71037,,,65,,,Rural Focus,,,,,,,,950,8.52,34.5
+,,Nazareth,Kenya,Turkana,,,,Lodwar,3.07331,35.60196,,,63,,1/1/2012,Rural Focus,,,,,,,43,2890,8.5,36
+,C5238,Nc 15,Kenya,Turkana,,,,K/Sudan Rd,3.5028,35.3208,,,151,DRY,9/28/1982,Rural Focus,,,,,,,,,,
+,C5239,Nc 16,Kenya,Turkana,,,,K/Sudan Rd,3.5167,35.2833,,,151,DRY,10/1/1982,Rural Focus,,,,,,,,,,
+,C5165,Nc 17,Kenya,Turkana,,,,K/Sudan Rd,3.5319,35.2528,,,155,DRY,7/14/1982,Rural Focus,,,,,,,,,,
+,C5105,Nc 21,Kenya,Turkana,,,,K/Sudan Rd,3.6542,35.0333,,,156,DRY,7/2/1982,Rural Focus,,,,,,,,,,
+,C5104,Nc 22,Kenya,Turkana,,,,K/Sudan Rd,3.6861,34.9917,,11.04,151,,6/30/1982,Rural Focus,,,,86,,,13.7,,,
+,C5102,Nc 23 A,Kenya,Turkana,,,,K/Sudan Rd,3.69736,34.98856,,10.2,10.3,,7/3/1987,Rural Focus,,,,9,,,1.52,,,
+,C5073,Nc 24,Kenya,Turkana,,,,Kakuma,3.70833,34.86111,,0.96,101,,3/21/1982,Rural Focus,,,,31,,,2.13,,,
+,C5074,Nc 25,Kenya,Turkana,,,,Kakuma,3.68333,34.78194,,,97.5,,3/23/1982,Rural Focus,,,,,,,12.68,,,
+,C5080,Nc 29,Kenya,Turkana,,,,Natira River,3.7444,34.6328,,1.92,80.2,,4/23/1982,Rural Focus,,,,43,55,67,33.87,,,
+,C5079,Nc 30,Kenya,Turkana,,,,K/Sudan Rd,3.82139,34.59282,,3.12,151,,4/11/1982,Rural Focus,,,,56,,,22.37,,,
+,C5081,Nc 31,Kenya,Turkana,,,,Songot Mt,4.0103,34.3028,,6.12,61,,4/29/1982,Rural Focus,,,,28,46,48,10.59,,,
+,C5082,Nc 32,Kenya,Turkana,,,,Songot Mt,4.0103,34.5722,,10.2,67,,5/1/1982,Rural Focus,,,,47.5,57,,5.57,,,
+,C5083,Nc 33,Kenya,Turkana,,,,Songot Mt,4.02346,34.54183,,,121,,5/4/1982,Rural Focus,,,,91,,,29.66,1350,7.81,35.1
+,C5085,Nc 35,Kenya,Turkana,,,,Songot Mt,4.0153,34.3028,,,119,dry,5/13/1982,Rural Focus,,,,,,,,,,
+,C5086,Nc 36,Kenya,Turkana,,,,Songot Mt,4.0167,34.3028,,,109,dry,5/14/1982,Rural Focus,,,,,,,,,,
+,C5096,Nc 37,Kenya,Turkana,,,,K/Sudan Rd,4.1833,34.3667,,,151,DRY,5/26/1982,Rural Focus,,,,,,,,,,
+,C5097,Nc 38,Kenya,Turkana,,,,K/Sudan Rd,4.2028,34.3444,,1.2,115,,5/28/1982,Rural Focus,,,,31.5,106,,21.7,,,
+,C5098,Nc 39,Kenya,Turkana,,,,K/Sudan Rd,4.2833,34.3111,,2.28,103,,6/2/1982,Rural Focus,,,,38.5,,,29.14,,,
+,C5167,Nc11,Kenya,Turkana,,,,K/Sudan Rd,3.1458,35.5819,,4.5,103,,9/22/1982,Rural Focus,,,,64,80,85,27.14,1220,7.82,35.9
+,C5166,Nc12,Kenya,Turkana,,,,K/Sudan Rd,3.1583,35.5569,,6,55.2,,9/15/1982,Rural Focus,,,,39,47,,16.86,,,
+,C5168,Nc13,Kenya,Turkana,,,,K/Sudan Rd,3.1556,35.5167,,2.7,111.5,,9/25/1982,Rural Focus,,,,85,95,97,44.85,,,
+,C5169,Nc14,Kenya,Turkana,,,,K/Sudan Rd,3.1528,35.5069,,,121,dry,9/27/1982,Rural Focus,,,,,,,,,,
+,,New Compound BH1,Kenya,Turkana,,,,Kakuma,3.71624,34.85751,,17,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,"New Sudan Council Of
+Churches",Kenya,Turkana,,,,Lokichogio,4.20868,34.3461,,,,,,Rural Focus,,,,,,,,,,
+,,New Testament,Kenya,Turkana,,,,Kakuma,3.72188,34.85865,,,,,1/1/2001,Rural Focus,,,,,,,,1630,7.42,31.3
+,,Ngakiriemet,Kenya,Turkana,,,,,3.12013,35.70116,,,,,,Rural Focus,,,,,,,,400,8.01,29.9
+,,Ngákumemeye,Kenya,Turkana,,,,Lokitaung,4.31609,35.31609,,1.2,,,1/1/2012,Rural Focus,,,,,,,,1080,8.43,34
+,,Ngamia East,Kenya,Turkana,,,,Lokichar,2.24565,35.81953,,,160,,,Rural Focus,,,,,,,9.8,,,
+,C5659,Ngatotore Lodwar,Kenya,Turkana,,,,,3.1225,35.5958,,13,18,,11/3/1984,Rural Focus,,,,,,,10.98,,,
+,,Ngimamki 1,Kenya,Turkana,,,,Lochwaangikamatak,2.60589,35.71292,,,100,DRY,3/22/2014,Rural Focus,,,,,,,,,,
+,,Ngimamki 3,Kenya,Turkana,,,,Lochwaangikamatak,2.6175,35.75083,,,100,DRY,3/26/2014,Rural Focus,,,,,,,,,,
+,,Ngimanman,Kenya,Turkana,,,,Kalobeyei,3.88918,34.60711,,1.8,,,,Rural Focus,,,,,,,,,,
+,C5628,Ngimorutai,Kenya,Turkana,,,,,4.4431,35.4889,,,110,,3/7/1984,Rural Focus,,,,,,,,,,
+,,Ngiripakipi,Kenya,Turkana,,,,Lokori,2.01749,36.11352,,,,,1/1/2004,Rural Focus,,,,,,,,,,
+,C6522,Norad Cordinator,Kenya,Turkana,,,,Katilu,2.25786,35.43395,,4.02,40,,1/23/1986,Rural Focus,,,,21,,,7.8,2710,8.01,33.5
+,C6492,Norad Cordinator,Kenya,Turkana,,,,Katilu,2.27428,35.4246,,5.16,50,,1/6/1986,Rural Focus,,,,12,,,6.5,1320,8.94,29.6
+,,North Camp,Kenya,Turkana,,,,Lokichoggio,4.20977,34.37266,,6.7,,,1/1/2005,Rural Focus,,,,,,,,,,
+,C10916,Norwegian Pple,Kenya,Turkana,,,,Lokichoggio,4.20297,34.36859,,1.5,91,,6/17/1994,Rural Focus,,,,47,73,76,28,,,
+,,Norwergian People Aid,Kenya,Turkana,,,,Lokichogio,4.20348,34.37074,,,53.55,,,Rural Focus,,,,,,,19.23,,,
+,C10916,Npa Bh1,Kenya,Turkana,,,,Lokichoggio,4.20571,34.36785,,2.2,,,1/1/1994,Rural Focus,,,,,,,,,,
+,,Npa Bh2,Kenya,Turkana,,,,Lokichoggio,4.20617,34.37001,,,,,1/1/2004,Rural Focus,,,,,,,,,,
+,,Nscc-Bh,Kenya,Turkana,,,,Lokichoggio,4.21134,34.34533,,2,,,1/1/1997,Rural Focus,,,,,,,,,,
+,,Nwcpc,Kenya,Turkana,,,,Lodwar,3.03195,35.62676,,,,,,Rural Focus,,,,,,,,5080,8.38,29.7
+,,Nyimwae BH,Kenya,Turkana,,,,Kaeris,3.81027,35.44264,,2.4,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Office Compound BH,Kenya,Turkana,,,,Lokori,1.98653,36.05471,,,,,1/1/1999,Rural Focus,,,,,,,,,,
+,,Oropoi,Kenya,Turkana,,,,Kalobeyei,3.78394,34.44437,,1.85,84,,2/3/2014,Rural Focus,,,,54,,,42.7,780,7.31,31.9
+,C8904,Oropoi Air Strip,Kenya,Turkana,,,,,3.7639,34.2333,,40,80,,12/13/1989,Rural Focus,,,,62,,,52.85,,,
+,C5573,Oropoi B,Kenya,Turkana,,,,,3.8117,34.3472,,,90,,1/5/1983,Rural Focus,,,,68,,,,,,
+,C5574,Oropoi C,Kenya,Turkana,,,,,3.8111,34.3806,,63.33,100,,1/6/1983,Rural Focus,,,,78,,,49.3,,,
+,C5574,Oropoi Parish,Kenya,Turkana,,,,Kalobeyei,3.81623,34.35863,,94,,,1/1/1983,Rural Focus,,,,,,,,,,
+,,Oropoi Water Project,Kenya,Turkana,,,,Oropoi,3.81598,34.5637,,,,,,Rural Focus,,,,,,,,740,8.24,29.1
+,,Orthodox Church,Kenya,Turkana,,,,Lokichar,2.34942,35.63884,,,,,,Rural Focus,,,,,,,,1170,7.87,35.2
+,C4040,P.C.E.A.Mission,Kenya,Turkana,,,,Katilu 8,2.3978,35.4167,,6.3,40,,8/1/1974,Rural Focus,,,,31,,,7,,,
+,C4056,P.C.E.A.Mission,Kenya,Turkana,,,,Lokichar 7,2.3667,35.7667,,6.84,42,,9/1/1974,Rural Focus,,,,8,,,5,,,
+,,Parish,Kenya,Turkana,,,,Nakalale,3.62901,35.30891,,,,,1/1/1983,Rural Focus,,,,,,,,,,
+,C6565,Peikalebolo Nakurio2,Kenya,Turkana,,,,Nakurio,2.8528,36.2028,,,50,,12/8/1986,Rural Focus,,,,17,25,,,,,
+,C7671,Piringan,Kenya,Turkana,,,,Ngissinger,4.30718,35.86558,,0.65,,,1/1/1988,Rural Focus,,,,,,,,,,
+,,"Pokotme Pri Sch
+(Kakuma) 5",Kenya,Turkana,,,,Kakuma,3.73146,34.85246,,4.8,40,,8/14/2012,Rural Focus,,,,15,18,21,10,1100,7.4,32.5
+,,Pokotom,Kenya,Turkana,,,,Kakuma,3.7331,34.85042,,15,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,"Pokotom Pri Sch
+(Kakuma)",Kenya,Turkana,,,,Kakuma,3.732457,34.852495,,4.5,45,,10/5/2012,Rural Focus,,,,15,27,30,15,,,
+,,"Pokotom Pri Sch
+(Kakuma) 2",Kenya,Turkana,,,,Kapese,3.732457,34.852495,,0.75,60,,10/1/2012,Rural Focus,,,,24,30,33,20,,,
+,,Pokotom Pri Sch (Kakuma) 3,Kenya,Turkana,,,,Kakuma,3.732457,34.852495,,2.64,67,,8/25/2012,Rural Focus,,,,27,45,48,21,,,
+,,Prda,Kenya,Turkana,,,,Lokichogio,4.20834,34.36985,,,,,1/1/1993,Rural Focus,,,,,,,,880,7.67,33.5
+,,Put,Kenya,Turkana,,,,Nakalale,3.50225,35.24199,,,,,1/1/1984,Rural Focus,,,,,,,,,,
+,,Put,Kenya,Turkana,,,,Nakalale,3.51385,35.22283,,,,,1/1/1982,Rural Focus,,,,,,,,,,
+,,"Put Amoja Station
+Longorukou",Kenya,Turkana,,,,Napelilim,3.45237,35.35939,,,,,1/1/1984,Rural Focus,,,,,,,,850,7.65,34
+,C5791,Put Camp,Kenya,Turkana,,,,Nc 113,3.1833,35.5542,,48,37,,6/26/1984,Rural Focus,,,,22,23,,17.3,600,7.59,35.2
+,,R.C.E.A Lokichar,Kenya,Turkana,,,,Lokichar,2.3852,35.64698,,,,,1/1/1960,Rural Focus,,,,,,,,1570,8.23,31.2
+,C3717,Range  M.Division,Kenya,Turkana,,,,Lokichar,2.4167,35.6833,,,87.5,Dry well,,Rural Focus,,,,,,,,,,
+,C3718,Range  M.Division,Kenya,Turkana,,,,Lokichar,2.4167,35.6833,,,123.7,Dry well,,Rural Focus,,,,,,,,,,
+,C3719,Range  M.Division,Kenya,Turkana,,,,Lokichar,2.4333,35.6667,,,71.9,Dry well,9/1/2070,Rural Focus,,,,,,,,,,
+,,Rapid Kate Services,Kenya,Turkana,,,,Lokichoggio,4.20893,34.37275,,5,,,1/1/1997,Rural Focus,,,,,,,,,,
+,,"RCA Church
+Kalemngorok",Kenya,Turkana,,,,Kalemngorok,2.1318,35.50243,,,,,,Rural Focus,,,,,,,,4620,8.06,33
+,,Red Cross,Kenya,Turkana,,,,Lokichogio,4.19722,34.38581,,10.2,70,,1/1/1988,Rural Focus,,,,40,,,17,1040,8.66,31.1
+,,Red Cross,Kenya,Turkana,,,,Lokichogio,4.21059,34.35762,,,,,1/1/1988,Rural Focus,,,,,,,,930,9.13,28
+,,Red Cross,Kenya,Turkana,,,,Lokichogio,4.21129,34.35667,,,,,1/1/1988,Rural Focus,,,,,,,,,,
+,,Riokomor,Kenya,Turkana,,,,Riokomori,4.11079,35.71511,,1.8,60,,1/1/1999,Rural Focus,,,,,,,,1050,7.51,34.1
+,C5653,Riokomor,Kenya,Turkana,,,,,4.05693,35.70191,,3.6,50,"hand pump
+installed",8/6/1984,Rural Focus,,,,22,,,16,,,
+,,Riokomor,Kenya,Turkana,,,,Riokomor,4.11312,35.71973,,5,,,1/1/2012,Rural Focus,,,,,,,,1510,7.65,34.6
+,,Riokomor Nwcpc,Kenya,Turkana,,,,Riokomor,4.1758,35.69375,,,,,1/1/2010,Rural Focus,,,,52.96,,,,,,
+,C9769,S.E.P.K.,Kenya,Turkana,,,,Loperot,2.4194,35.8333,,0.7,24.9,,7/20/1992,Rural Focus,,,,,,,3.9,,,
+,,Saasae,Kenya,Turkana,,,,Saasae,4.77166,35.68211,,,72,,12/20/2012,Rural Focus,,,,27,56,,15,,,
+,C6551,Salvation Army,Kenya,Turkana,,,,Lokitaung,4.27128,35.74817,,3.6,65,,9/20/1986,Rural Focus,,,,26,,,12.75,,,
+,,"Salvation Army
+Nawoitorong",Kenya,Turkana,,,,Lodwar,3.11216,35.62048,,,,,,Rural Focus,,,,,,,,3540,8.04,35.1
+,,Sasak Echoke,Kenya,Turkana,,,,,2.76344,35.21967,,,,,1/1/2010,Rural Focus,,,,,,,,2540,8.4,33.5
+,C7634,Sasame,Kenya,Turkana,,,,Sasame,4.57944,35.79556,,0.75,30,,11/17/1987,Rural Focus,,,,12,,,4.1,,,
+,,Sasame BH,Kenya,Turkana,,,,Karebur,4.52005,35.74757,,0.6,,,1/1/1988,Rural Focus,,,,,,,,2200,7.12,34.2
+,C5665,Shabaha Lokitaung,Kenya,Turkana,,,,Lokitaung,4.26199,35.7408,,22,60,,12/18/1984,Rural Focus,,,,20,38,,14.7,1370,7.53,34.5
+,C5655,Shabaha Lokitaung,Kenya,Turkana,,,,,4.26462,35.74002,,71,35,"hand pump
+installed",8/10/1984,Rural Focus,,,,15,,,8,,,
+,,Shakinah Glory,Kenya,Turkana,,,,Nariamawoi,3.07252,35.5623,,,24,,,Rural Focus,,,,,,,,1480,7.76,34.2
+,,Songot Sec Sch,Kenya,Turkana,,,,Songot,4.07376,34.48555,,,,,,Rural Focus,,,,,,,,570,7.52,32.9
+,,Songot Secondary,Kenya,Turkana,,,,Songot,4.0775,34.48288,,4,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Songot Wind Pump,Kenya,Turkana,,,,Songot,4.04426,34.52916,,,,,,Rural Focus,,,,,,,,1610,7.27,33.9
+,,St Benedicts Parish,Kenya,Turkana,,,,,3.76964,34.63058,,,56,,1/1/2011,Rural Focus,,,,,,,,1120,8.41,34
+,,"St Charles Lwanga
+Nakwamekwi",Kenya,Turkana,,,,Lodwar,4.50618,35.42014,,,,,,Rural Focus,,,,,,,,,,
+,,St John Catholic Church,Kenya,Turkana,,,,Lokichogio,4.20874,34.35117,,,,,,Rural Focus,,,,,,,,680,8.57,30.3
+,,"St Lwanga Nakwamekwi
+Pri Sch",Kenya,Turkana,,,,Nakwamekwi,3.11144,35.57897,,18.7,21,,7/30/2008,Rural Focus,,,,,,,4.58,310,8.29,28.9
+,,St Martha Nakinomet,Kenya,Turkana,,,,Kaikor,4.62778,35.39895,,,,,,Rural Focus,,,,,,,,1610,7.55,41
+,,St Michael Napetet,Kenya,Turkana,,,,Lodwar,3.12404,35.616987,,14,,,1/1/2014,Rural Focus,,,,,,,,,,
+,,St Patrick Lomidat,Kenya,Turkana,,,,Lokichogio,4.15746,34.43078,,,,,,Rural Focus,,,,,,,,3370,7.12,34.3
+,,St Patrick Nomadic Girls Positive BH,Kenya,Turkana,,,,Lokitaung,4.27818,35.74026,,1.2,80,,6/17/2009,Rural Focus,,,,10,30,,6.98,119,7.76,30.4
+,,St Patrick Nomadic Sch,Kenya,Turkana,,,,Lokitaung,4.27698,35.73535,,,,,,Rural Focus,,,,,,,,2080,7.24,32.8
+,,St Patrick Nomadic Sch,Kenya,Turkana,,,,Lokitaung,4.27746,35.73577,,,80,,1/1/2012,Rural Focus,,,,,,,,1966,9.88,32.2
+,,St Timothy And Titus,Kenya,Turkana,,,,Kaeris,3.98241,35.47939,,,,,,Rural Focus,,,,,,,,960,7.89,33.9
+,,St. John Parish,Kenya,Turkana,,,,Lokichoggio,4.2114,34.35046,,15,,,1/1/2001,Rural Focus,,,,,,,,,,
+,C8430,St. Leo Secondary,Kenya,Turkana,,,,Pelekech,3.67398,35.00076,,,80,,1/1/1989,Rural Focus,,,,,,,,1600,8.89,32.2
+,,St. Patrick Girls Centre Bh,Kenya,Turkana,,,,Lokitaung,4.27971,35.73461,,,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Teremkus,Kenya,Turkana,,,,Lokichogio,4.10774,34.46579,,,,,,Rural Focus,,,,,,,13.27,910,8.9,30.4
+,,Tmc Bh 1,Kenya,Turkana,,,,Kakuma,3.71921,34.8565,,8.4,,,1/1/1996,Rural Focus,,,,,,,,,,
+,,Todenyang Catholic,Kenya,Turkana,,,,Todenyang,4.52987,35.91977,,,,,,Rural Focus,,,,,,,,810,8.93,31.3
+,,Todenyang GSU,Kenya,Turkana,,,,Todenyang,4.52987,35.91977,,,,,,Rural Focus,,,,,,,,,,
+,,Todonyang Brehole,Kenya,Turkana,,,,Kokuro,4.45726,35.92987,,,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,Tom - BH9,Kenya,Turkana,,,,Kakuma,3.7777,34.82961,,2.6,,,1/1/2003,Rural Focus,,,,,,,,,,
+,,Tongolodi Katilu Bh,Kenya,Turkana,,,,Katilu,2.26034,35.43326,,,,,,Rural Focus,,,,,,,,,,
+,C10654,Town Centre,Kenya,Turkana,,,,Lokichogio,4.16667,34.33333,,5.4,60,,8/28/1993,Rural Focus,,,,36,,,25,,,
+,C10917,Trackmark,Kenya,Turkana,,,,Lokichogio,4.20946,34.36852,,2.8,65,,6/20/1994,Rural Focus,,,,34,45,,18,940,7.79,28.7
+,,Trir Bh,Kenya,Turkana,,,,Lokichar,2.38518,35.65308,,,,,1/1/1970,Rural Focus,,,,,,,,,,
+,C5623,Trp Lodwar Town,Kenya,Turkana,,,,,3.6139,35.6097,,1.26,17,,2/21/1984,Rural Focus,,,,12,,,11.4,,,
+,,Tullow K Ekale D,Kenya,Turkana,,,,Ekales,2.39756,35.68242,,1.01,150,,2/27/2013,Rural Focus,,,,26,74,,9.68,,,
+,,"Tullow Kenya
+(Lokicheda)",Kenya,Turkana,,,,Lokicheda,2.21887,35.82145,,10.81,130,,2/25/2013,Rural Focus,,,,38,116,,20.62,,,
+,,Tullow Oil Kongoni (I),Kenya,Turkana,,,,Kongoni,2.32644,35.71022,,,150,DRY,10/16/2012,Rural Focus,,,,,,,,,,
+,,Tullow Oli,Kenya,Turkana,,,,Lokapel,2.3865,35.45711,,2.7,78,,1/1/2012,Rural Focus,,,,57,,,41,770,7.61,34.9
+,C8899,Turkana Drop Inn,Kenya,Turkana,,,,Lodwar Town,3.11389,35.71861,,12,18,,10/31/1989,Rural Focus,,,,5,12,,4.5,,,
+,C6566,Turkana Girls Sec,Kenya,Turkana,,,,Lorugumu,2.89416,35.2625,,4,45,,1/14/1987,Rural Focus,,,,31,38,,9.73,,,
+,,Turkana Women Group,Kenya,Turkana,,,,Lokichogio,4.20318,34.37229,,,,,,Rural Focus,,,,,,,,1010,8.19,34.3
+,,Turkwel,Kenya,Turkana,,,,,2.91301,35.41225,,,,,,Rural Focus,,,,,,,,430,8.13,32.1
+,C5834,Turkwel,Kenya,Turkana,,,,,2.9403,35.3042,,6.9,25,,3/24/1985,Rural Focus,,,,14,17,,8,,,
+,,Turkwel Boys,Kenya,Turkana,,,,,2.94118,35.39844,,,,,,Rural Focus,,,,,,,,2410,7.9,35.1
+,,"Turkwel Irrigaion
+Scheme",Kenya,Turkana,,,,Lorugum,2.91288,35.41233,,,3,,1/1/1966,Rural Focus,,,,,,,2.3,450,8.07,37.8
+,,Turkwel Mission BH,Kenya,Turkana,,,,Lorugum,2.91312,35.4123,,,,,,Rural Focus,,,,,,,,450,8.14,32.9
+,,Turkwel Parish Borehole,Kenya,Turkana,,,,Lorugum,2.90952,35.41126,,,,,1/1/2002,Rural Focus,,,,,,,,250,8.53,30.7
+,,Turkwell Irrigation,Kenya,Turkana,,,,,2.91378,35.41277,,,,,,Rural Focus,,,,,,,,530,7.76,31.9
+,C10653,Un-Camp,Kenya,Turkana,,,,Lokichogio,4.20916,34.32622,,2.7,90,,8/20/1993,Rural Focus,,,,50,60,,29,,,
+,,"Un-Compound Bh1
+Unicef Bh1",Kenya,Turkana,,,,Lokichoggio,4.2083,34.36379,,7.7,,,1/1/1993,Rural Focus,,,,,,,11.51,760,7.94,31.5
+,C10653,Un-Compound Bh2,Kenya,Turkana,,,,Lokichoggio,4.20939,34.36441,,2.7,,,1/1/1993,Rural Focus,,,,,,,,,,
+,,Unhcr,Kenya,Turkana,,,,Lokichogio,3.70666,34.85828,,,60,,,Rural Focus,,,,,,,,560,8.49,32.9
+,,Unhcr,Kenya,Turkana,,,,Kakuma,3.70944,34.85755,,1.5,,,1/1/1999,Rural Focus,,,,,,,,,,
+,,Unhcr Bh2,Kenya,Turkana,,,,Kakuma,3.78204,34.82745,,12,,,1/1/2005,Rural Focus,,,,,,,,,,
+,,UNHCR Borehole,Kenya,Turkana,,,,Kakuma,3.70688,34.85826,,5,45,,1/1/1999,Rural Focus,,,,,,,,,,
+,,Unhcr- Transit Centre,Kenya,Turkana,,,,Lokichoggio,4.20827,34.34168,,,,,1/1/2000,Rural Focus,,,,,,,,,,
+,C10695,Unicef,Kenya,Turkana,,,,Kakuma,3.75833,34.92917,,11.7,32.6,DRY,2/13/1994,Rural Focus,,,,17,,,17.96,,,
+,C10694,Unicef,Kenya,Turkana,,,,Kakuma,3.76528,34.91667,,,9.2,DRY,1/25/1994,Rural Focus,,,,,,,,,,
+,,Unicef,Kenya,Turkana,,,,Lokichogio,4.20671,34.36515,,,,,,Rural Focus,,,,,,,11.51,1100,7.82,34.9
+,,,Kenya,Turkana,,,,,2.81033,35.61698,,,,,1/1/2009,Rural Focus,,,,,,,,1470,7.66,34.4
+,,,Kenya,Turkana,,,,,2.71042,35.63567,,,,,1/1/2005,Rural Focus,,,,,,,,1530,7.84,35
+,,,Kenya,Turkana,,,,,2.7548,35.6422,,,,,1/1/2008,Rural Focus,,,,,,,,1830,7.9,34.9
+,,,Kenya,Turkana,,,,,3.15669,35.70734,,,,,,Rural Focus,,,,,,,,2660,8.01,31.9
+,,,Kenya,Turkana,,,,,2.61085,35.65061,,,,,1/1/2010,Rural Focus,,,,,,,,1500,8.12,34.3
+,,,Kenya,Turkana,,,,,2.76662,35.64717,,,54,,1/1/2012,Rural Focus,,,,,,,,1560,8.26,34.7
+,,,Kenya,Turkana,,,,,2.8184,35.3844,,,,,,Rural Focus,,,,,,,,300,8.32,32.4
+,,,Kenya,Turkana,,,,,3.14594,35.73875,,,,,,Rural Focus,,,,,,,,2190,8.47,33.6
+,,,Kenya,Turkana,,,,,3.1285,35.96377,,5,,,,Rural Focus,,,,,,,,350,8.5,36.1
+,,,Kenya,Turkana,,,,Lokichogio,4.1941,34.38992,,,,,,Rural Focus,,,,,,,,,,
+,,,Kenya,Turkana,,,,Lokichogio,4.20763,34.37621,,,,,,Rural Focus,,,,,,,,,,
+,,,Kenya,Turkana,,,,Lokori,2.00029,35.9701,,,,,,Rural Focus,,,,,,,,,,
+,,,Kenya,Turkana,,,,,2.92442,35.40081,,,,,1/1/2007,Rural Focus,,,,,,,,,,
+,,,Kenya,Turkana,,,,,2.93499,35.61711,,,,,,Rural Focus,,,,,,,,,,
+,,,Kenya,Turkana,,,,,3.05548,35.48207,,,,,1/1/2013,Rural Focus,,,,,,,,,,
+,,,Kenya,Turkana,,,,,3.1283,35.96334,,,,,,Rural Focus,,,,,,,,,,
+,,,Kenya,Turkana,,,,,3.17314,35.54791,,,,,,Rural Focus,,,,,,,,,,
+,,,Kenya,Turkana,,,,,3.51324,35.18224,,,,,,Rural Focus,,,,,,,,,,
+,,Vetirinary,Kenya,Turkana,,,,Elelea,2.11825,36.15676,,,14.19,,,Rural Focus,,,,,,,,360,8.51,35.4
+,,Vikoba Namoruputh,Kenya,Turkana,,,,Namoruputh,2.84097,35.03403,,,,,1/1/2014,Rural Focus,,,,,,,,1830,8.02,34.9
+,,Well Water Bolehole,Kenya,Turkana,,,,Lokichoggio,4.21242,34.3497,,32,,,,Rural Focus,,,,,,,,,,
+,,Well Waters Bh2,Kenya,Turkana,,,,Lokichoggio,4.21243,34.34988,,18.66,,,1/1/2001,Rural Focus,,,,,,,,,,
+,,Wet(Lobokat Bh),Kenya,Turkana,,,,Nakoyo,3.70705,34.79134,,21,103,,7/6/2005,Rural Focus,,,,60,90,,46.72,1260,8.09,29.6
+,,World Vision G/House Lokori,Kenya,Turkana,,,,Lokori,1.95159,36.0225,,,,,1/1/2002,Rural Focus,,,,,,,,,,
+,,Wulukuthe,Kenya,Turkana,,,,Kotaruk,2.51951,35.26061,,,,,,Rural Focus,,,,,,,,,,
+,,Wv - Kenya,Kenya,Turkana,,,,Katilu,2.2742,35.42457,,14.16,103,,1/1/2014,Rural Focus,,,,12,72,,9.95,,,
